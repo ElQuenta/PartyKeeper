@@ -1,0 +1,26 @@
+[project]
+name = "partykeeper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+	"dotenv>=0.9.9",
+	"gradio>=5.49.1",
+	"jupyter>=1.1.1",
+	"lightning>=2.5.5",
+	"llama-index>=0.10.45.post1",
+	"llama-index-embeddings-huggingface>=0.2.3",
+	"mediapipe",
+	"numpy>=2.3.3",
+	"openai>=2.2.0",
+	"opencv-python>=4.11.0.86",
+	"torch>=2.8.0",
+	"torchvision>=0.23.0",
+	"transformers>=4.57.0",
+	"ultralytics>=8.3.204",
+	"wikipedia-api>=0.8.1",
+	"requests>=2.0",
+	"beautifulsoup4>=4.12.2",
+	"lxml>=4.9.0",
+]
