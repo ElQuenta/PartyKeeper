@@ -3,11 +3,6 @@ from typing import Dict, List
 
 
 class Corpus:
-    """Simple container for loaded documents.
-
-    Attributes:
-        docs: mapping path -> content (str)
-    """
 
     def __init__(self, docs: Dict[Path, str]):
         self.docs = docs
@@ -15,26 +10,35 @@ class Corpus:
     def items(self):
         return list(self.docs.items())
 
+    def documents(self, data_root: Path):
+        """Return a list of tuples (path, text, metadata)
+
+        Metadata includes:
+        - title: filename without extension
+        - category: first-level folder under the data root (if any)
+        - relative_path: path relative to the data root
+        """
+        docs = []
+        for p, text in self.items():
+            try:
+                rel = p.relative_to(data_root)
+            except Exception:
+                rel = p
+            parts = rel.parts
+            category = parts[0] if len(parts) > 1 else ""
+            meta = {"title": p.stem, "category": category, "relative_path": str(rel)}
+            docs.append((p, text, meta))
+        return docs
+
 
 def load_corpus(root: Path = None) -> Corpus:
-    """Load text files from the repository `wiki_menu_data` folder.
-
-    Heuristics:
-    - If root is None, we derive the project root from this file and
-      look for `wiki_menu_data/` at the project root.
-    - We load all .txt files recursively and store path->content.
-
-    Returns a Corpus object.
-    """
 
     if root is None:
-        # package is at tools/rag; go up two levels to project root
         root = Path(__file__).resolve().parents[2]
 
     data_dir = root / "wiki_menu_data"
     docs = {}
     if not data_dir.exists():
-        # return empty corpus but don't raise — caller can handle
         return Corpus(docs)
 
     for p in data_dir.rglob("*.txt"):
@@ -46,3 +50,19 @@ def load_corpus(root: Path = None) -> Corpus:
         docs[p] = text
 
     return Corpus(docs)
+
+
+def load_corpus_documents(root: Path = None):
+    """Helper that returns a list of (path, text, metadata) for each file.
+
+    This is useful when you want per-document metadata (category/title) for
+    building a vector index or richer RAG pipelines. The original
+    `load_corpus` and `Corpus.items()` behavior is preserved for backward
+    compatibility.
+    """
+    if root is None:
+        root = Path(__file__).resolve().parents[2]
+
+    data_dir = root / "wiki_menu_data"
+    corpus = load_corpus(root)
+    return corpus.documents(data_dir)

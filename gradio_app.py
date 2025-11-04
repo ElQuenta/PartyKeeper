@@ -36,27 +36,23 @@ def _extract_text_from_result(result) -> str:
     return str(result)
 
 
-def respond(message: str, history: list[tuple]) -> tuple[list[tuple], str]:
-    """Handle a user message from the Gradio UI, call the agent and return
-    an updated history plus an empty string to clear the input box.
-    """
+def respond(message: str, history: list[tuple]):
     if not message:
-        return history, ""
-
+        return ""
+    print(f"[gradio_app] User: {message}")
+    #TODO: add support for history in agent calls 
     if _agent is None:
         bot_text = "Agent not available (failed to initialize). Check logs."
-        history = history + [(message, bot_text)]
-        return history, ""
+        return bot_text
 
-    # Call the agent through the module callable (preferred over forward()).
     try:
         result = _agent(question=message, initial_schema="")
     except Exception as e:
         result = e
 
     bot_text = _extract_text_from_result(result)
-    history = history + [(message, bot_text)]
-    return history, ""
+    print(f"[gradio_app] Bot: {bot_text}")
+    return bot_text
 
 
 demo = gr.ChatInterface(respond, type="messages")
