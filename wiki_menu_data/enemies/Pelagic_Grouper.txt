@@ -1,0 +1,52 @@
+TÍTULO: Pelagic Grouper
+URL: https://darkestdungeon.wiki.gg/wiki/Pelagic_Grouper
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:14:57
+
+================================================================================
+
+Pelagic Grouper Enemy Type Eldritch Size 1 Actions per round Stats Variation Pelagic Grouper Pelagic Widemouth Pelagic Piranha HP 14 20 27 HP (Stygian/Bloodmoon) 17 24 33 Dodge 5% 13.75% 27.5% Protection 0% 0% 0% Speed 6 7 8 Resistances Stun 10% 30% 55% Blight 10% 30% 55% Bleed 50% 70% 95% Debuff 10% 30% 55% Move 10% 30% 55% Pelagic Grouper is an Eldritch enemy that appears in the Cove . Contents 1 Behavior and Strategy 2 Abilities 3 Related Enemies 4 Gallery 5 Trivia Behavior and Strategy Unlike most Cove enemies, which inflict which status effects like Stuns , Disease , and Stress , Pelagic Grouper focuses almost exclusively on dealing damage—and it deals a lot of it! Grouper's targeting is determined by its position: in the front two ranks it will use Seaward Slash on front-rank heroes, and in the back ranks it will use Spearfishing on back-rank heroes. Both attacks deal considerable damage. Spearfishing can pull the hero one rank forward in Veteran and Champion dungeons. A commonly seen and often problematic formation is four Groupers at once, capable of delivering an extreme amount physical damage across the entire party. Groupers are fast, but have very low resistances to everything except Bleed . Abilities Related Enemies Cove: The Pelagics Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Uca Major Bosses Siren Cove: The Drowned Drowned Thrall Squiffy Ghast Bosses Drowned Crew Drowned Anchorman Gallery Pelagic Grouper's combat animation Using Seaward Slash Using Spearfishing Defending Corpse Trivia Though not demonstrated as an in-game mechanic, it seems that the bites of the Pelagics can also inflict a mind- and body-affecting transformation, gradually turning bitten heroes into their kind and filling out their ranks. The Blood Soaked Pages Torn From A Journal detail the experiences of an unfortunate adventurer as he succumbs to its effects. view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Seaward Slash | Melee | 1, 2. | 1, 2. | 77.5% | 2% | 5-9 | No Effect | No Effect | 
+
+Spearfishing | Melee | 3, 4. | 3, 4. | 77.5% | 6% | 3-7 | No Effect | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Seaward Slash | Melee | 1, 2. | 1, 2. | 83.75% | 6% | 6-13 | No Effect | No Effect | 
+
+Spearfishing | Melee | 3, 4. | 3, 4. | 83.75% | 11% | 5-9 | [Íconos: Poptext move.png] 120%Pull1 | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Seaward Slash | Melee | 1, 2. | 1, 2. | 97.5% | 7% | 9-17 | No Effect | No Effect | 
+
+Spearfishing | Melee | 3, 4. | 3, 4. | 97.5% | 12% | 6-13 | [Íconos: Poptext move.png] 140%Pull1 | No Effect | 
+
+

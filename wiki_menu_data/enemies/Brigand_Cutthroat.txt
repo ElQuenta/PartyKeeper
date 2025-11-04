@@ -1,0 +1,64 @@
+TÍTULO: Brigand Cutthroat
+URL: https://darkestdungeon.wiki.gg/wiki/Brigand_Cutthroat
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:14:24
+
+================================================================================
+
+Brigand Cutthroat Enemy Type Human Size 1 Actions per round Stats Variation Brigand Cutthroat Outlaw Cutthroat Infamous Cutthroat HP 12 17 23 HP (Stygian/Bloodmoon) 15 21 28 Dodge 2.5 11.25 23.75 Protection 15 25 25 Speed 3 4 5 Resistances Stun 25% 45% 65% Blight 20% 40% 60% Bleed 20% 40% 60% Debuff 15% 35% 55% Move 25% 45% 65% Brigand Cutthroat is a human -type enemy that can be found in every dungeon, but is more common in the Weald . He is masterfully skilled with his blades, and able to deliver deadly thrusts that can easily decimate even the toughest of adventuring parties. Contents 1 Behaviour 1.1 Skill Selection 1.2 Skill Targeting 2 Abilities 3 Related Enemies 3.1 All Areas 3.2 Bosses 4 Gallery 5 Trivia Behaviour While fragile with low health and negligible protection , Brigand Cutthroats have a high chance to land critical hits , and as such can easily decimate even the healthiest of parties. They usually appear together with a Brigand Bloodletter and Brigand Fusilier each, or as a pair with 2 Brigand Fusiliers . Although the Bloodletters may seem more intimidating, you should focus on killing the Cutthroats first - they can do a lot more direct damage if left unchecked. Cutthroats can be neutralized for a turn if pushed to the back rank. In Veteran and Champion-level dungeons, they will usually start by debuffing Bleed resist using their Slice And Dice attack, before exploiting it with Shank in the 2nd turn, becoming an even greater threat to your party. Additionally, the Brigand Bloodletter if present alongside a Cutthroat will use Rain of Whips more often. Get rid of the Cutthroat quickly to avoid all of this. Skill Selection The Cutthroat's skills all have an equal chance to be selected. If it's the Cutthroat's first turn, he has a 7/10 chance to select Slice and Dice , a 1/10 chance to select Uppercut Slice and a 2/10 chance to select Shank . If the Cutthroat is in Rank 3, Uppercut Slice cannot be used, so it becomes a 7/9 chance to select Slice and Dice and a 2/9 chance to select Shank . If it's the Cutthroat's second turn, he has a 2/9 chance to select Slice and Dice , a 1/9 chance to select Uppercut Slice and a 6/9 chance to select Shank . If the Cutthroat is in Rank 3, Uppercut Slice cannot be used, so it becomes a 2/8 chance to select Slice and Dice and a 6/8 chance to select Shank . Afterwards, the Cutthroat has a 2/5 chance to select Slice and Dice , a 1/5 chance to select Uppercut Slice and a 2/5 chance to select Shank . If the Cutthroat is in Rank 3, Uppercut Slice cannot be used, so it becomes a 2/4 chance to select Slice and Dice and a 2/4 chance to select Shank . If the Cutthroat is in Rank 4, he will always select Harmless Poke , since that is the only skill he can use. Skill Targeting Note that "+100% chance" in the context of skill targeting doesn't mean that targeting will be guaranteed against that victim. Consider the scenario where a skill can target four heroes - if one of these four heroes has a +100% chance to be targeted by that skill, it will amount to that hero having a 2/5 chance to be targeted, with the three other heroes each having a 1/5 chance to be targeted. Slice and Dice Uppercut Slice Shank Harmless Poke Always targets the heroes in Ranks 1 and 2. Always targets a random hero. +100% chance to target the hero with the lowest Bleed resistance. At Apprentice difficulty, +200% chance to target Marked heroes. At Veteran difficulty, +300% chance to target Marked heroes. At Champion difficulty, +400% chance to target Marked heroes. Always targets a random hero. Abilities Related Enemies All Areas Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Bosses Brigand Pounder Brigand Matchman Brigand Vvulf Barrel O' Bombs Gallery Brigand Cutthroat's combat animation Brigand Cutthroat using Slice And Dice Sprite for all other attacks Brigand Cutthroat defending Brigand Cutthroat's corpse. Trivia He is the very first enemy encountered in the game, but there is an alternative option to reduce torch light to 0 and having 1% chance for Shambler to appear instead of the Brigand Cutthroat. view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Slice And Dice | Melee | 1,2,3 | 1+2 | 72.5% | 12% | 3-5 | [Íconos: Poptext debuff.png] 100%Debuff: -15% Bleed Resist |  | 
+
+Uppercut Slice | Melee | 1,2 | 1,2,3 | 72.5% | 6% | 2-4 | [Íconos: Poptext move.png] 100%Knockback1 |  | 
+
+Shank | Melee | 1,2,3 | 1,2,3,4 | 72.5% | 6% | 4-8 | [Íconos: Poptext bleed.png] 100%Bleed1 |  | 
+
+Harmless Poke | Melee | 4 | 1,2,3,4 | 42.5% | 0% | 2-4 |  | [Íconos: Poptext move.png, Poptext buff.png] Forward1Buff: SPD +2 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Slice And Dice | Melee | 1,2,3 | 1+2 | 78.75% | 16% | 4-7 | [Íconos: Poptext debuff.png] 120%Debuff: -25% Bleed Resist |  | 
+
+Uppercut Slice | Melee | 1,2 | 1,2,3 | 78.75% | 12% | 3-5 | [Íconos: Poptext move.png] 120%Knockback1 |  | 
+
+Shank | Melee | 1,2,3 | 1,2,3,4 | 82.5% | 12% | 5-11 | [Íconos: Poptext bleed.png] 120%Bleed2 |  | 
+
+Harmless Poke | Melee | 4 | 1,2,3,4 | 52.5% | 0% | 3-5 |  | [Íconos: Poptext move.png, Poptext buff.png] Forward1Buff: SPD +2 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Slice And Dice | Melee | 1,2,3 | 1+2 | 92.5% | 19% | 5-10 | [Íconos: Poptext debuff.png] 140%Debuff: -35% Bleed Resist |  | 
+
+Uppercut Slice | Melee | 1,2 | 1,2,3 | 92.5% | 14% | 4-7 | [Íconos: Poptext move.png] 140%Knockback1 |  | 
+
+Shank | Melee | 1,2,3 | 1,2,3,4 | 90% | 14% | 7-15 | [Íconos: Poptext bleed.png] 140%Bleed3 |  | 
+
+Harmless Poke | Melee | 4 | 1,2,3,4 | 60% | 0% | 4-7 |  | [Íconos: Poptext move.png, Poptext buff.png] Forward1Buff: SPD +2 | 
+
+

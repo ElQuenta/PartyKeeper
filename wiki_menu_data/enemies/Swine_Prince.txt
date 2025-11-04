@@ -1,0 +1,121 @@
+TÍTULO: Swine Prince
+URL: https://darkestdungeon.wiki.gg/wiki/Swine_Prince
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:15:26
+
+================================================================================
+
+Swine Prince Enemy Type Beast Size 3 Actions per round Stats Variation Swine Prince Swine King Swine God HP 132 198 271 HP (Stygian/Bloodmoon) 159 238 326 Dodge 0% 8.75% 22.5% Protection 0% 0% 0% Speed 0 1 2 Resistances Stun 100% 120% 140% Blight 0% 20% 40% Bleed 0% 20% 40% Debuff 20% 40% 60% Move 100% 120% 140% Wilbur Enemy Type Beast Size 1 Actions per round Stats Variation Wilbur Wilbur Wilbur HP 17 26 35 HP (Stygian/Bloodmoon) 21 32 42 Dodge 15% 23.75% 37.5% Protection 0% 0% 0% Speed 20 21 22 Resistances Stun 50% 70% 90% Blight 0% 20% 40% Bleed 0% 20% 40% Debuff 0% 20% 40% Move 0% 20% 40% The Swine Prince/King/God is a Beast boss that appears in the Warrens . Contents 1 Ancestor's Memoirs: The Swine Prince 2 Behavior 3 Strategy 4 Team Selection 4.1 Preferred Heroes 4.2 Reasonable Picks 4.3 Discouraged Heroes 5 Trophy 6 Abilities 7 Video 8 Trivia 9 Related Enemies 9.1 Swinefolk 9.2 Bosses 10 Gallery Ancestor's Memoirs: The Swine Prince “ The ways and rituals of blood sacrifice are difficult to master. Those from beyond require a physical vessel if they are to make the crossing into our reality. The timing of the chants is imperative: without the proper utterances at precise intervals, the process can fail spectacularly. My first attempts at summoning were crude, and the results disappointing. I soon found, however, that the type and condition of the host's meat was a critical factor. The best results came from pigs, whose flesh is most like that of man. The great thing I had managed to bring through was brutish and stupid. Moreover, it required prodigious amounts of meat to sustain itself. But this was only a trifling concern. After all, I had a village full of it. „ ~ The Ancestor Behavior The Swine Prince always appears taking up rank 1, 2 and 3, with Wilbur taking up rank 4. Wilbur can be moved, though it is ill advised. During battle, Wilbur will use End This One or End These Two on one or two of your heroes. This marks your heroes for extra damage from the Swine Prince's attacks, as well as targeting those specific heroes for either Obliterate Body (for one target) or Obliterate Masses (for two targets). An Arbalest with the Rallying Flare ability can clear marks from all heroes (except herself), and the Swine Prince will use Wild Flailing instead of Obliterate Body or Obliterate Masses , for substantially less and much more manageable damage. Additionally, if one of the marked heroes has been stunned by Wilbur, Flare will clear the stun and prevent that hero from missing a turn. The same stands for the Musketeer with Skeet Shot . Note that hitting Wilbur with any damaging attack whilst the Swine Prince is still alive will result in immediate retaliation by the Swine Prince in the form of all the heroes being attacked with Enraged Destruction for increased damage and a chance to stun. Therefore, the best way to manage Wilbur is to either clear the marks with an Arbalest/Musketeer each round as above (hoping Wilbur doesn't stun the Arbalest/Musketeer), or hit Wilbur with a stun attack that does not do damage, such as the Bounty Hunter's Flashbang or the Plague Doctor's Blinding Gas . Wilbur can also be killed to stop the marking of your heroes; however, this will result in the Swine Prince going ballistic and using Enraged Destruction on every turn for increased damage and a chance to stun. As you have no hope of outhealing this, it will result in a total wipe very quickly unless you kill the Prince or retreat. Be wary of using Riposte attacks, as Wilbur's mark will trigger them; although the Swine Prince will not react to the Ripostes themselves, he will still start using Enraged Destruction once Wilbur dies. After the Swine Prince is defeated, the heroes will also have to defeat Wilbur. Wilbur will attack the entire party with Squeal, which does only minor physical damage but inflicts stress and has a chance to stun. While unlikely, it is possible for Wilbur to finish off a weakened party by repeatedly stunning them, preventing them from getting any attacks in as he slowly wears them down. Strategy The most important thing to remember in this fight is to never attack Wilbur! The Swine Prince will immediately counter attack the entire party with a crushing strike if anyone dares to harm his little buddy. Wilbur can safely be stunned, so long as the skill does no damage. Oddly, this counter attack is not triggered by riposte, but if Wilbur is killed, then the Swine Prince will rage permanently for the rest of the fight. This means you should avoid using riposte as it could get Wilbur killed prematurely. For the most part, you want to ignore Wilbur until the Swine Prince has been put down. However if your party has Riposte skills as well as decent stun resistance, provoking the Swine God to a reckless assault can be tempting - Enraged Destruction has a lower CRIT chance than its usual attacks, and striking the whole party will provoke multiple overlapping Ripostes. Between Riposte damage and other bleed/blight damage, it's possible that you can inflict more damage than the Swine Prince can deal. There are a few ways to trivialize this fight. By using the Arbalest or Musketeer , you can clear marks, forcing the Swine Prince to attack with Wild Flailing, which is much weaker and less accurate. However, keep in mind that the Arbalest cannot clear a mark on herself. You can also use the Shieldbreaker's camping ability to make someone immune to mark, which means wasting Wilbur's turns if he accidentally targets an immune hero. Heroes with guard can also help mitigate some of the incoming damage. The Houndmaster is the professional swine slayer, as his damage bonuses against Beasts and Marked enemies overlap into massive damage. Another solid choice is the Leper , who can buff his own PROT, self heal, and swing hard. There isn't much to beating down the Swine Prince due to it having no PROT or any blight/bleed resistance. However, Wilbur's squealing, especially on higher difficulties, can stun your combatants, which can be an issue should your Arbalest get stunned before she can clear the marks or your healer stunned before they can patch the party up. Bring Trinkets or Quirks that raise Stun resistance so that you experience minimal interruption. After killing the Swine Prince, Wilbur can freely be attacked. Amusingly, you don't actually have to kill the little piggy to win, as you already have credit for the quest. You can actually flee the fight if you prefer, and probably should if a hero is too weak to finish. More amusingly, if Wilbur finishes off your party, you still have a victory credit, and get the trophy, despite no one being left alive to carry it home. As Wilbur poses very little threat, you can also use the time to fully heal and stress heal your party, allowing you to be fully prepared to complete the rest of the dungeon if you wish. Team Selection Preferred Heroes Abomination - His Beast form can deal massive damage with Rage . Arbalest / Musketeer - Clears Marks applied by Wilbur, and can remove stun if applicable. She can't do this on herself though, so having a way to deal with this is advised. Bounty Hunter - With Arbalest mostly filling the role of countering Wilbur, Bounty Hunter is the best option for Mark payoff. Mark is very effective, allowing Bounty Hunter to deal massive damage. Especially with his Campskill against size 2 enemies, he can deal amazing damage. Flashbang allows him to Stun Wilbur without provoking attacks from Swine King. Grave Robber - Lunge deals great damage, especially after using Shadow Fade . If the party doesn't get messed up by Graverobber moving around, she can deal massive damage. Hellion - Bleed Out can deal massive damage extremely quickly, especially if Hellion lands a critical hit. The -dmg debuff can hamper her damage output in the long run, but a crit can instantly offset it. She also gets amazing campskills for this fight, gaining +25% dmg for the entire fight since she won't get pushed out of Rank 1 by Swine or Wilbur. She can also gain +10% crit to make Bleed Out a massive damage move with a high potential to chain critical hits for even bigger damage. Houndmaster - Can deal very good damage against Marked after using a Dog Treat and Guard someone to prevent damage. Deals extra damage to beast. Leper - After activating Revenge , Leper can start hitting Swine for insane damage. Aside from that, he is the most effective option to debuff Swine's damage with Intimidate . Intimidate also draws attacks from Swine with the Self-mark. Occultist - Applies a DMG debuff to weaken the boss's attacks, can Mark and can give large heals to patch up the gravely injured. Shieldbreaker - Can deal big damage with Adder's Kiss and use Serpent Sway to negate damage. The Block is fairly prone to get knocked off by Wilbur though. Her most valuable asset is her Sandstorm campskill, since it allows another partymember to not get marked by Wilbur. This is especially valuable on Arbalest/Musketeer. Reasonable Picks Crusader - Can deal good damage and get people off of Death's Door , but is usually outclassed by other damage dealers. Flagellant - While he can't deal great damage with Punish since the DoT isn't super effective, he can still draw attacks with Suffer to take the damage and then hit Swine with Exsanguinate for great damage. Highwayman - He can't really use Duelists Advance , since it risks killing Wilbur with the Riposte. His damage otherwise is good, especially Wicked Slice , but other heroes simply deal more damage. Jester - Can increase the parties offense by providing extra crit using Battle Ballad . He can also finish the Swine with Finale after drawing attacks with Solo . Solo also has the advantage of giving a huge Dodge boost and drawing the Swine's attacks by marking himself. If he does get hit, it's very likely that he will drop to Death's Door almost instantly and a Stun from Wilbur can stop any Finale plans for a full turn. Man-at-Arms - He has an amazing Guard to lower the Swine's damage considerably and draw attacks from someone like Arbalest to prevent the Stun and Mark to land on the wrong hero. Command is also very good since it increases the offense of the party by a decent amount. He himself can't deal outstanding damage, but his support and countering Swine is very good. Plague Doctor - While she can't deal great damage, Blinding Gas can potentially stun both Swine and Wilbur at the same time. Disorienting Blast can achieve the same thing, but can't Stun both of them at the same time. Vestal - Area healing can sustain a party at Death's Door if you're victim to Enraged Destruction. Discouraged Heroes Antiquarian - Can't deal a whole lot of damage, but can draw Swine's attacks with Protect me . Her Dodge buffs and ACC cuts don't do a whole lot since Swine has very high ACC. Trophy After completing the Swine Prince's champion quest, Wilbur will drop his flag as a Trophy . Wilbur's Flag +50% Stun resist +10 DODGE Abilities Swine Prince Wilbur Swine Prince Wilbur Swine Prince Wilbur * When a Hero uses an ability on Wilbur , Swine Prince will automatically perform Enraged Destruction after that action, ignoring any status effects already on it ( stun etc.). If Wilbur dies, said ability will be used every turn by the Swine Prince/King/God afterwards. Video Load video YouTube YouTube might collect personal data. Privacy Policy Continue Dismiss The level 1 Swine Prince boss fight Trivia Despite a red light appearing in his eyes when he attacks, the Swine Prince appears to be blind. This might explain why he is so protective of Wilbur ; he needs the smaller Swine to direct his attacks. Despite appearing to lack eyes, a Plague Doctor can still stun The Prince and his higher forms by using "Blinding Gas". The Ancestor using pigs as vessels for creatures from "outer spheres" is potentially intended as a reference to Legion, a man possessed by many demons from the Bible who begged Jesus to allow them to possess a sounder of swine instead of being sent back to hell. Wilbur's name and runty appearance comes from the book Charlotte's Web written by E.B. White, which follows the adventures of a farm pig named Wilbur who was the runt of his litter. The achievement you receive from having a member of your party killed by Wilbur, "That'll do pig..." is a reference to the movie Babe , where Farmer Hoggett tells his pig Babe, "That'll do, pig. That'll do." The Swine Prince seems to take inspiration from the "Great Unclean Ones" of the Warhammer universe. The Swine Prince may also be a reference to The Rotten from Dark Souls 2. Both are giant, legless piles of rotting flesh that wield large, rusty cleavers, and are commanded by a creature much smaller than them. If the player hurts Wilbur, a random hero will say one of the following lines to advise against attacking him: "It is protecting the little swine!", "Wounding the small one has infuriated the giant!", and "Leave the small one alone!". Related Enemies Swinefolk Swine Chopper Swine Slasher Swine Wretch Swine Drummer Swinetaur Swine Skiver Bosses Wilbur Flesh Gallery Swine Prince's combat animation Idle stance Using Wild Flailing/Enraged Destruction Using Obliterate Body/Obliterate Masses Defending view Bosses Regional Necromancer Prophet Hag Brigand Pounder Swine Prince Flesh Siren Drowned Crew Roaming / Event Shambler Collector Fanatic Thing from the Stars Shrieker Brigand Vvulf Boss Minions Cauldron Brigand Matchman Shambler Wilbur Drowned Anchorman Shrieker's Nest Barrel O' Bombs Courtyard Baron Viscount Countess Crocodilian Garden Guardian Farmstead Miller Fracture Sleeper Darkest Dungeon Spoilers Shuffling Horror Templar Impaler Templar Warlord Mammoth Cyst Ancestor Heart of Darkness
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Obliterate Body | Melee | 1, 2, 3, 4. | 1, 2, 3, 4. | 102.5% | 12% | [Íconos: Poptext tagged.png] 5-9,+100% DMG vsMark | ClearMark | No Effect | 
+
+Obliterate Masses | Melee | 1, 2, 3, 4. | 1+2. | 102.5% | 12% | [Íconos: Poptext tagged.png] 3-7,+100% DMG vsMark | ClearMark | No Effect | 
+
+Enraged Destruction* | Melee | 1, 2, 3, 4. | 1+2+3+4. | 92.5% | 6% | 5-9 | [Íconos: Poptext stun.png] 100%Stun | No Effect | 
+
+Wild Flailing | Melee | 1, 2, 3, 4. | 1, 2, 3, 4. | 72.5% | 12% | 5-9 | No Effect | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Bit'o Squeal | Ranged | 1, 2, 3, 4. | 1, 2, 3, 4. | 102.5% | 2% | 1 | [Íconos: Poptext stun.png] 100%Stun | No Effect | 
+
+End This One | Ranged | 2, 3, 4. | 1, 2, 3, 4. | 102.5% | 0% | 1 | [Íconos: Poptext tagged.png] Mark | No Effect | 
+
+End These Two | Ranged | 2, 3, 4. | 1+2. | 102.5% | 0% | 1 | [Íconos: Poptext tagged.png] Mark | No Effect | 
+
+Squeal | Ranged | 1. | 1+2+3+4. | 102.5% | 0% | 1 | [Íconos: Poptext stun.png] 100%Stun | [Íconos: Poptext move.png] Back3 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Obliterate Body | Melee | 1, 2, 3, 4. | 1, 2, 3, 4. | 108.75% | 16% | [Íconos: Poptext tagged.png] 6-12,+100% DMG vsMark | ClearMark | No Effect | 
+
+Obliterate Masses | Melee | 1, 2, 3, 4. | 1+2. | 108.75% | 16% | [Íconos: Poptext tagged.png] 4-9,+100% DMG vsMark | ClearMark | No Effect | 
+
+Enraged Destruction* | Melee | 1, 2, 3, 4. | 1+2+3+4. | 98.75% | 11% | 6-12 | [Íconos: Poptext stun.png] 120%Stun | No Effect | 
+
+Wild Flailing | Melee | 1, 2, 3, 4. | 1, 2, 3, 4. | 78.75% | 16% | 6-12 | No Effect | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Bit'o Squeal | Ranged | 1, 2, 3, 4. | 1, 2, 3, 4. | 108.75% | 6% | 2 | [Íconos: Poptext stun.png] 120%Stun | No Effect | 
+
+End This One | Ranged | 2, 3, 4. | 1, 2, 3, 4. | 108.75% | 0% | 2 | [Íconos: Poptext tagged.png] Mark | No Effect | 
+
+End These Two | Ranged | 2, 3, 4. | 1+2. | 108.75% | 0% | 2 | [Íconos: Poptext tagged.png] Mark | No Effect | 
+
+Squeal | Ranged | 1. | 1+2+3+4. | 108.75% | 1% | 2 | [Íconos: Poptext stun.png] 120%Stun | [Íconos: Poptext move.png] Back3 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Obliterate Body | Melee | 1, 2, 3, 4. | 1, 2, 3, 4. | 122.5% | 17% | [Íconos: Poptext tagged.png] 9-19,+100% DMG vsMark | ClearMark | No Effect | 
+
+Obliterate Masses | Melee | 1, 2, 3, 4. | 1+2. | 122.5% | 17% | [Íconos: Poptext tagged.png] 7-13,+100% DMG vsMark | ClearMark | No Effect | 
+
+Enraged Destruction* | Melee | 1, 2, 3, 4. | 1+2+3+4. | 112.5% | 12% | 9-19 | [Íconos: Poptext stun.png] 140%Stun | No Effect | 
+
+Wild Flailing | Melee | 1, 2, 3, 4. | 1, 2, 3, 4. | 92.5% | 17% | 9-19 | No Effect | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Bit'o Squeal | Ranged | 1, 2, 3, 4. | 1, 2, 3, 4, 28% +1 Target. | 122.5% | 7% | 2 | [Íconos: Poptext stun.png] 140%Stun | No Effect | 
+
+End This One | Ranged | 2, 3, 4. | 1, 2, 3, 4. | 122.5% | 0% | 2 | [Íconos: Poptext tagged.png] Mark | No Effect | 
+
+End These Two | Ranged | 2, 3, 4. | 1+2. | 122.5% | 0% | 2 | [Íconos: Poptext tagged.png] Mark | No Effect | 
+
+Squeal | Ranged | 1. | 1+2+3+4. | 122.5% | 1% | 2 | [Íconos: Poptext stun.png] 140%Stun | [Íconos: Poptext move.png] Back3 | 
+
+

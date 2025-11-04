@@ -1,0 +1,58 @@
+TÍTULO: Brigand Bloodletter
+URL: https://darkestdungeon.wiki.gg/wiki/Brigand_Bloodletter
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:14:28
+
+================================================================================
+
+Brigand Bloodletter Enemy Type Human Size 2 Actions per round Stats Variation Brigand Bloodletter Outlaw Bloodletter Infamous Bloodletter HP 35 49 68 HP (Stygian/Bloodmoon) 42 59 82 Dodge 0 8.75 21.25 Protection 0 0 0 Speed 1 2 3 Resistances Stun 50% 70% 90% Blight 20% 40% 60% Bleed 20% 40% 60% Debuff 15% 35% 55% Move 75% 95% 115% Brigand Bloodletter is a hulking, battle-scarred brute who typically shields his smaller allies. Armed with a vicious cat o' nine tails whip and a deadly flintlock pistol, he is ready to give his enemies deep and bloody scars to match his. Contents 1 Behaviour 1.1 Abilities 2 Strategy 3 Related Enemies 3.1 All Areas 3.2 Bosses 4 Gallery Behaviour Brigand Bloodletter is always found accompanied by a Cutthroat and/or a Fusilier (or, on Champion in the Ruins , a Hunter and/or Raider). While his primary role is to soak up melee damage for his allies and soften foes with widespread bleeding, his uncommon but devastating Point Blank Shot can inflict massive damage, even more so with a fearsome critical chance. Furthermore, should his Rain of Whips crit, your party will suffer a lot of stress on top of bleeding. Despite this, it's usually better to deal with the other, frailer bandits first, in order to limit incoming damage: focusing the Bloodletter will just give them time to get off more attacks. Pulling the Fusilier to the front is also very useful: it forces both the Fusilier and Cutthroat to use their weaker abilities to get back into position, reducing their damage potential and buying you time to cut them down. On top of that, attacks aimed at the two front positions such as the Crusader's Zealous Accusation or the Leper's Hew can strike both the Bloodletter and the pulled unit, soon leaving a corpse that can continue to block the Bloodletter from using his Point Blank Shot . While in Apprentice dungeons, the Point Blank Shot ability will not be used twice in a row. The ability is more likely to be used at the start of the battle (thrice more likely for Apprentice and Veteran dungeons, 5x more likely for Champion dungeons) than afterwards. Due to his synergy with the Brigand Cutthroat's bleed resistance debuff from Slice and Dice , Brigand Bloodletter will be more prone to use his Rain of Whips if the former is still alive. The exact chances are, 2x, 3x, and 4x greater chance respectively for each difficulty compared to Point Blank Shot or Punishment. In Champion dungeons, Brigand Bloodletter will still have double the chance to use Rain of Whip instead of Punishment or Point Blank Shot even if there are no Brigand Cutthroats left. Abilities Strategy You are likely to encounter Brigand Bloodletter with one Brigand Cutthroat in rank 3 and a Brigand Fusilier in rank 4. One of the better strategies is to pull Brigand Fusilier forward, because of the above-average move resist of Brigand Bloodletter, Brigand Fusilier will be pulled to rank 1 and push Brigand Cutthroat back to rank 4. Neither enemy has abilities that pose great threat to the player's party in these positions. Doing so will create opportunities for dispatching Brigand Bloodletter and deny his usage of the Point Blank Shot ability. Since Brigand Bloodletter is often more resilient than the other enemies, focusing on the rest of the enemies is also viable, assuming that his Point Blank Shot is of no concern to your hero in rank 1. Related Enemies All Areas Brigand Cutthroat Brigand Fusilier Brigand Raider Brigand Hunter Bosses Brigand Pounder Brigand Matchman Brigand Vvulf Barrel O' Bombs Gallery Brigand Bloodletter's combat animation Brigand Bloodletter using Rain of Whips and Punishment. Brigand Bloodletter using Point Blank Shot. Brigand Bloodletter defending. Brigand Bloodletter's corpse. view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Rain of Whips | Melee | 1,2 | 1+2+3+4 | 82.5% | 0% | 1 | [Íconos: Poptext bleed.png, Tray afflicted.png] 100%Bleed1Stress+5 |  | 
+
+Punishment | Melee | 1,2,3,4 | 1,2,3,4 | 82.5% | 12% | 2-4 | [Íconos: Poptext bleed.png, Tray afflicted.png] 100%Bleed2Stress+5 |  | 
+
+Point Blank Shot | Ranged | 1 | 1 | 82.5% | 16% | 4-11 | [Íconos: Poptext move.png] 100%Knockback1 | [Íconos: Poptext debuff.png] Debuff: -2 SPD | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Rain of Whips | Melee | 1,2 | 1+2+3+4 | 88.75% | 4% | 1-2 | [Íconos: Poptext bleed.png, Tray afflicted.png] 120%Bleed2Stress+5 |  | 
+
+Punishment | Melee | 1,2,3,4 | 1,2,3,4 | 88.75% | 16% | 3-5 | [Íconos: Poptext bleed.png, Tray afflicted.png] 120%Bleed3Stress+5 |  | 
+
+Point Blank Shot | Ranged | 1 | 1 | 92.5% | 22% | 5-14 | [Íconos: Poptext move.png] 120%Knockback1 | [Íconos: Poptext debuff.png] Debuff: -2 SPD | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Rain of Whips | Melee | 1,2 | 1+2+3+4 | 102.5% | 7% | 1-3 | [Íconos: Poptext bleed.png, Tray afflicted.png] 140%Bleed3Stress+5 |  | 
+
+Punishment | Melee | 1,2,3,4 | 1,2,3,4 | 102.5% | 19% | 4-7 | [Íconos: Poptext bleed.png, Tray afflicted.png] 140%Bleed4Stress+5 |  | 
+
+Point Blank Shot | Ranged | 1 | 1 | 100% | 24% | 7-20 | [Íconos: Poptext move.png] 140%Knockback1 | [Íconos: Poptext debuff.png] Debuff: -2 SPD | 
+
+

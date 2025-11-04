@@ -1,0 +1,52 @@
+TÍTULO: Bone Soldier
+URL: https://darkestdungeon.wiki.gg/wiki/Bone_Soldier
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:14:08
+
+================================================================================
+
+Bone Soldier Enemy Type Unholy Size 1 Actions per round Stats Variation Bone Soldier Bone Veteran Bone Sergeant HP 10 15 21 HP (Stygian/Bloodmoon) 12 18 26 Dodge 0% 8.75% 22.5% Protection 15% 25% 25% Speed 2 3 4 Stealth None Yes Yes Resistances Stun 25% 45% 70% Blight 10% 30% 55% Bleed 200% 220% 245% Debuff 15% 35% 60% Move 20% 40% 65% Bone Soldiers are common footsoldiers that are found within the Ruins . Unlike the Bone Rabble , Bone Soldiers are better-armored and wield more effective weapons, letting them hit harder and last longer on the battlefield. Still, they remain relatively weak and are easily dispatched. Contents 1 Behavior 2 Abilities 3 Trivia 4 Related Enemies 4.1 All Areas 4.2 Ruins 4.3 Boss 5 Gallery Behavior Bone Soldier is an Unholy creature, and is as basic an enemy as one can encounter within the Ruins. The finesse it had in life persists in death, giving it above-average damage and allowing it to strike with a farther reach than most other melee monsters. Depending on whether health or stress is of greater concern to your party at the moment, it is recommended to destroy either the Soldier or the Bone Courtier they often team up with as quickly as possible, a relatively easy task considering their low health. Even mundane damage can eventually build up to something more threatening. Abilities Trivia The Bone Soldier's attack "Graveyard Slash" is most likely a reference to the song "Monster Mash" by Bobby Pickett. Related Enemies All Areas Bone Rabble Ruins Bone Courtier Bone Arbalist Bone Defender Bone Captain Bone Spearman Bone Bearer Boss Necromancer Gallery Bone Soldier's combat animation Bone Soldier attacking Bone Soldier defending Bone Soldier corpse view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Graveyard Slash | Melee | 1, 2, 3. | 1, 2, 3. | 82.5% | 6% | 3-8 | No Effect | No Effect | 
+
+Graveyard Stumble | Melee | 4. | 1, 2. | 42.5% | 0% | 2-5 | No Effect | [Íconos: Poptext move.png] Forward1 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Graveyard Slash | Melee | 1, 2, 3. | 1, 2, 3. | 88.75% | 11% | 3-10 | No Effect | No Effect | 
+
+Graveyard Stumble | Melee | 4. | 1, 2. | 48.75% | 0% | 2-6 | No Effect | [Íconos: Poptext move.png] Forward1 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Graveyard Slash | Melee | 1, 2, 3. | 1, 2, 3. | 102.5% | 12% | 5-15 | No Effect | No Effect | 
+
+Graveyard Stumble | Melee | 4. | 1, 2. | 62.5% | 0% | 3-9 | No Effect | [Íconos: Poptext move.png] Forward1 | 
+
+

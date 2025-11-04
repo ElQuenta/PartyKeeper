@@ -1,0 +1,103 @@
+TÍTULO: Sycophant
+URL: https://darkestdungeon.wiki.gg/wiki/Sycophant
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:15:34
+
+================================================================================
+
+Sycophant Enemy Type Bloodsucker Size 1 Actions per round Stats Variation Sycophant Sycophant Sycophant HP 12 17 23 HP (Stygian/Bloodmoon) 15 21 28 Dodge 10 18.75 31.25 Protection 0 0 0 Speed 10 11 12 Resistances Stun 15% 35% 55% Blight 80% 100% 120% Bleed 15% 35% 55% Debuff 40% 60% 80% Move 5% 25% 45% The Sycophant is a Bloodsucker type enemy that can be found in any area, usually with Supplicants . They are not very tough or damaging, but are very fast and evasive, and can inflict your party with large amounts of Stress and the Crimson Curse . Contents 1 Behavior 2 Strategy 3 Abilities 3.1 Thirsty Form 3.2 Bloodlust Form 4 Related Enemies 4.1 All Areas 4.2 The Courtyard 4.3 Bosses 5 Gallery Behavior Sycophants, like many other Bloodsuckers , have two forms, typically referred to as "Thirsty" and "Bloodlust." A Sycophant will always begin in Thirsty form, but if it lands The Thirst on a target, it will change to Bloodlust. In Thirsty form, Sycophants can use Maddening Whine , prioritizing already-stressed targets (3x higher chance), and The Thirst to change to Bloodlust form and heal itself. If a Sycophant's health falls below 40%, it will almost certainly use The Thirst to heal. Sycophants in Bloodlust form are much more dangerous, with higher stress damage from The Thirst , and access to new moves: a bleed skill called Bombing Run , and Deafening Whine , a more powerful form of Maddening Whine with a low chance to stun. Strategy The Sycophant's extremely high speed means that it often acts first, potentially infecting heroes with the Crimson Curse and giving some stress . However, they are otherwise weak, with little health and very low resistances except for blight . Because of this, it is recommended to keep them stunned or, if you can guarantee it, simply killed, while focusing on more dangerous foes. If a Sycophant manages to land The Thirst , their new Bombing Run and Deafening Whine abilities are more dangerous and are not to be underestimated. While still not as important as other Bloodsucker enemies, they should be at least stunned (especially with their minimal resistances) to prevent bleeds and stuns at inopportune moments. Abilities Thirsty Form Bloodlust Form Related Enemies All Areas Supplicant Gatekeeper Chevalier The Courtyard Manservant Esquire Courtesan Bosses Crocodilian Baron Viscount Countess Garden Guardian Gallery Sycophant's combat animation Sycophant's Bloodlust form combat animation Sycophant using The Thirst (both forms) Sycophant using Maddening Whine Sycophant using Deafening Whine Sycophant using Bombing Run Sycophant defending Sycophant defending in Bloodlust Form view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Maddening Whine | Ranged | 1,2,3,4 | 1,2,3,4 | 82.5% | 4% | 2 | [Íconos: Tray afflicted.png] Stress+9 | [Íconos: Poptext move.png] Back4 | 
+
+The Thirst | Melee | 1,2,3,4 | 1,2,3,4 | 92.5% | 2% | 2-4 | [Íconos: Vampire passive.png, Tray afflicted.png] 31%Crimson Curse85%Stress+8 | [Íconos: Poptext move.png, Poptext buff.png, Skill attribute heal.png, Poptext poison.png, Panel monster newmove.png] Forward4On Hit:Buff: +20%StunSkill Chance (6 rds)Heal 4Receive TargetBlightChange form to Bloodlust | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Maddening Whine | Ranged | 1,2,3,4 | 1,2,3,4 | 88.75% | 8% | 3 | [Íconos: Tray afflicted.png] Stress+11 | [Íconos: Poptext move.png] Back4 | 
+
+The Thirst | Melee | 1,2,3,4 | 1,2,3,4 | 98.75% | 6% | 3-5 | [Íconos: Vampire passive.png, Tray afflicted.png] 31%Crimson Curse85%Stress+8 | [Íconos: Poptext move.png, Poptext buff.png, Skill attribute heal.png, Poptext poison.png, Panel monster newmove.png] Forward4On Hit:Buff: +25%StunSkill Chance (6 rds)Heal 4Receive TargetBlightChange form to Bloodlust | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Maddening Whine | Ranged | 1,2,3,4 | 1,2,3,4. | 102.5% | 11% | 4 | [Íconos: Tray afflicted.png] Stress+13 | [Íconos: Poptext move.png] Back4 | 
+
+The Thirst | Melee | 1,2,3,4 | 1,2,3,4 | 112.5% | 9% | 4-7 | [Íconos: Vampire passive.png, Tray afflicted.png] 31%Crimson Curse85%Stress+8 | [Íconos: Poptext move.png, Poptext buff.png, Skill attribute heal.png, Poptext poison.png, Panel monster newmove.png] Forward4On Hit:Buff: +30%StunSkill Chance (4 rds)Heal 4Receive TargetBlightChange form to Bloodlust | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Deafening Whine | Ranged | 1,2,3,4 | 1,2,3,4 | 82.5% | 4% | 1-2 | [Íconos: Poptext stun.png, Tray afflicted.png] 90%StunStress+4 | [Íconos: Poptext move.png] Back4 | 
+
+Bombing Run | Ranged | 1,2,3,4 | 1,2,3,425% +1 target | 77.5% | 0% | 3-4 | [Íconos: Poptext bleed.png] 100%Bleed2 | [Íconos: Poptext move.png] Forward4 | 
+
+The Thirst | Melee | 1,2,3,4 | 1,2,3,4 | 92.5% | 6% | 4-6 | [Íconos: Vampire passive.png, Tray afflicted.png] 31%Crimson Curse85%Stress+12 | [Íconos: Poptext move.png, Skill attribute heal.png, Poptext debuff.png, Poptext poison.png] Forward4On Hit:Heal 4Debuff: -20 ACC, -4 SPDReceive TargetBlight | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Deafening Whine | Ranged | 1,2,3,4 | 1,2,3,4 | 88.75% | 10% | 2 | [Íconos: Poptext stun.png, Tray afflicted.png] 100%StunStress+5 | [Íconos: Poptext move.png] Back4 | 
+
+Bombing Run | Ranged | 1,2,3,4 | 1,2,3,425% +1 target | 83.75% | 6% | 4-5 | [Íconos: Poptext bleed.png] 120%Bleed3 | [Íconos: Poptext move.png] Forward4 | 
+
+The Thirst | Melee | 1,2,3,4 | 1,2,3,4 | 98.75% | 12% | 6-8 | [Íconos: Vampire passive.png, Tray afflicted.png] 31%Crimson Curse85%Stress+12 | [Íconos: Poptext move.png, Skill attribute heal.png, Poptext debuff.png, Poptext poison.png] Forward4On Hit:Heal 6Debuff: -18 ACC, -3 SPDReceive TargetBlight | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Deafening Whine | Ranged | 1,2,3,4 | 1,2,3,4 | 102.5% | 12% | 2-4 | [Íconos: Poptext stun.png, Tray afflicted.png] 110%StunStress+6 | [Íconos: Poptext move.png] Back4 | 
+
+Bombing Run | Ranged | 1,2,3,4 | 1,2,3,425% +1 target | 97.5% | 8% | 5-8 | [Íconos: Poptext bleed.png] 140%Bleed3 | [Íconos: Poptext move.png] Forward4 | 
+
+The Thirst | Melee | 1,2,3,4 | 1,2,3,4 | 112.5% | 14% | 8-11 | [Íconos: Vampire passive.png, Tray afflicted.png] 31%Crimson Curse85%Stress+12 | [Íconos: Poptext move.png, Skill attribute heal.png, Poptext debuff.png, Poptext poison.png] Forward4On Hit:Heal 9Debuff: -15 ACC, -2 SPDReceive TargetBlight | 
+
+

@@ -1,0 +1,52 @@
+TÍTULO: Cultist Brawler
+URL: https://darkestdungeon.wiki.gg/wiki/Cultist_Brawler
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:15:17
+
+================================================================================
+
+Cultist Brawler Enemy Type Human Size 1 Actions per round Stats Variation Cultist Brawler Cultist Gladiator Cultist Champion HP 15 21 29 HP (Stygian/Bloodmoon) 18 26 35 Dodge 0 8.75 21.25 Protection 0 0 0 Speed 5 6 7 Resistances Stun 25% 45% 65% Blight 20% 40% 60% Bleed 20% 40% 60% Debuff 15% 35% 55% Move 25% 45% 65% The Cultist Brawler is a Human type enemy that can be found in any area, usually accompanied by Cultist Acolytes , and will almost always spawn in the first and second ranks. While they aren't particularly tough nor hard-hitting, they do have a good chance to inflict Bleed and a debuff that makes heroes more vulnerable to incoming Stress , priming the victim for the Acolytes' Stressful Incantation . They're also more dangerous to marked heroes, and the higher the difficulty, the more likely they are to take advantage of this. Contents 1 Behavior 2 Strategy 3 Abilities 4 Gallery Behavior The Brawler has two mutually exclusive attacks, making its attack pattern very predictable. It will use Rend for the Old Gods in the front two positions, and Stumbling Scratch in the back. It has a 2x/3x/4x chance depending on difficulty to prioritize marked targets with Rend for the Old Gods , which also deals slightly more damage against marks. Strategy Overall, these enemies are only the helping hand of their Acolyte allies and are not a major threat. Though frail compared to the more eldritch creatures, their health pool can still be quite an irritant as dispatching these foes can require the turns of two heroes, save for the killing blow of a critical strike. If a quick kill isn't possible, there is merit in pushing them to the back ranks, forcing them to waste a turn on a much weaker attack getting back to the front lines, and possibly displacing a more fragile Acolyte to the front where your heroes' blades wait. Abilities Gallery Cultist Brawler's combat animation Cultist Brawler's attack Cultist Brawler defending Cultist Brawler's corpse. view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Rend for the Old Gods | Melee | 1,2 | 1,2 | 72.5% | 12% | [Íconos: vs Marked] 2-4+50% vsMarked | [Íconos: Bleed, Debuff] 100%Bleed1100%Debuff: +10%Stress | [Íconos: Forward] Forward1 | 
+
+Stumbling Scratch | Melee | 3,4 | 1,2 | 42.5% | 0% | 2-4 |  | [Íconos: Forward] Forward1 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Rend for the Old Gods | Melee | 1,2 | 1,2 | 78.75% | 16% | [Íconos: vs Marked] 3-5+50% vsMarked | [Íconos: Bleed, Debuff] 120%Bleed2120%Debuff: +15%Stress | [Íconos: Forward] Forward1 | 
+
+Stumbling Scratch | Melee | 3,4 | 1,2 | 48.75% | 0% | 3-5 |  | [Íconos: Forward] Forward1 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Rend for the Old Gods | Melee | 1,2 | 1,2 | 92.5% | 19% | [Íconos: vs Marked] 4-7+50% vsMarked | [Íconos: Bleed, Debuff] 140%Bleed3140%Debuff: +20%Stress | [Íconos: Forward] Forward1 | 
+
+Stumbling Scratch | Melee | 3,4 | 1,2 | 62.5% | 0% | 4-7 |  | [Íconos: Forward] Forward1 | 
+
+

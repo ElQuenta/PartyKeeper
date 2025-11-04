@@ -1,0 +1,52 @@
+TÍTULO: Swine Chopper
+URL: https://darkestdungeon.wiki.gg/wiki/Swine_Chopper
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:14:41
+
+================================================================================
+
+Swine Chopper Enemy Type Human / Beast Size 1 Actions per round Stats Variation Swine Chopper Swine Reaver Swine Slayer HP 21 29 41 HP (Stygian/Bloodmoon) 26 35 50 Dodge 0% 8.75% 21.25% Protection 15% 33% 33% Speed 3 4 5 Resistances Stun 25% 45% 65% Blight 60% 80% 100% Bleed 20% 40% 60% Debuff 15% 35% 55% Move 50% 70% 90% This large, brutish hybrid of man and pig is one of the healthier specimens of Swinefolk faced in the Warrens . When not ferociously butchering the cold and mangled flesh of his soon-to-be dinner, the Swine Chopper will happily test its bloody, serrated cleaver upon the bodies of naive adventurers who might happen upon its squalid home. Slow and hulking, the Chopper also wields a heavy ball and chain to extend its range with head-ringing efficiency. Contents 1 Behavior 2 Abilities 3 Related Enemies 3.1 Swinefolk 3.2 Bosses 4 Gallery Behavior The Swine Chopper - a Human / Beast enemy that appears in the Warrens and is the bulky front line troops of the Swine, Choppers are as adept at walling damage as they are at dishing it out. They can cause bleed with Butcher Cut , and can stun any hero with their Ball and Chain . They should generally be prioritized behind the more fragile Swine support units; their fairly low resistances to bleed and stun make these good strategies against them. They also have essentially no debuff resistance and low accuracy, so any accuracy-reducing moves are likely to neuter their attacks. Keep in mind, however, that on Veteran and Champion level, he is able to impair the healing of your heroes. Abilities Related Enemies Swinefolk Swine Slasher Swine Wretch Swine Drummer Swinetaur Swine Skiver Bosses Swine Prince Wilbur Flesh Gallery Swine Chopper's combat animation Using Butcher Cut Using Ball and Chain Defending Corpse view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Butcher Cut | Melee | 1, 2. | 1, 2, 3. | 82.5% | 12% | 3-7 | [Íconos: Poptext bleed.png] 100%Bleed2 | No Effect | 
+
+Ball And Chain | Ranged | 1, 2, 3, 4. | 3, 4. | 82.5% | 12% | 2-4 | [Íconos: Poptext stun.png, Poptext move.png] 100%Stun100%Knockback1 | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Butcher Cut | Melee | 1, 2. | 1, 2, 3. | 88.75% | 16% | 4-9 | [Íconos: Poptext bleed.png, Poptext debuff.png] 120%Bleed3120%Debuff: -33% Heals Received | No Effect | 
+
+Ball And Chain | Ranged | 1, 2, 3, 4. | 3, 4. | 88.75% | 16% | 3-5 | [Íconos: Poptext stun.png, Poptext move.png] 120%Stun120%Knockback1 | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Butcher Cut | Melee | 1, 2. | 1, 2, 3. | 102.5% | 17% | 7-13 | [Íconos: Poptext bleed.png, Poptext debuff.png] 140%Bleed4140%Debuff: -50% Heals Received | No Effect | 
+
+Ball And Chain | Ranged | 1, 2, 3, 4. | 3, 4. | 102.5% | 17% | 4-8 | [Íconos: Poptext stun.png, Poptext move.png] 140%Stun140%Knockback1 | No Effect | 
+
+

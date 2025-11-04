@@ -1,0 +1,58 @@
+TÍTULO: Fungal Scratcher
+URL: https://darkestdungeon.wiki.gg/wiki/Fungal_Scratcher
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:14:31
+
+================================================================================
+
+Fungal Scratcher Enemy Type Human / Eldritch Size 1 Actions per round Stats Variation Fungal Scratcher Fungal Grabber Fungal Crawler HP 19 28 39 HP (Stygian/Bloodmoon) 23 34 47 Dodge 0% 8.75% 22.5% Protection 33% 50% 50% Speed 0 1 2 Resistances Stun 25% 45% 70% Blight 60% 80% 105% Bleed 20% 40% 65% Debuff 15% 35% 60% Move 25% 45% 70% Fungal Scratchers are a common enemy found in the Weald . Likely a lost explorer transformed by the fungal infestation that lingers in the woods, these zombies can take a surprising amount of punishment while they poison anything they scratch. While they are more annoying than dangerous on their own, several of the Weald's inhabitants can cause the Scratchers to focus their attacks, turning them into deadlier fighters. Contents 1 Behavior 2 Abilities 3 Strategy 4 Related Enemies 4.1 Weald 4.2 Bosses 5 Gallery Behavior Fungal Scratchers, a Human / Eldritch hybrid that only appears in the Weald , while possessing formidable protection , is not terribly accurate, nor is it a heavy hitter by itself. However, if one of its allies Mark a Hero , it will know exactly where to strike for lethal damage, using Rend the Marked rather than its typical Groping Swipe. Killing it is no easy task either, because of its fungal infection that protects it. If you encounter these undead fiends it may be wise to destroy any enemies that can Mark your heroes, and have any Heroes in the front line retreat to the back if they become Marked . In veteran and champion areas, the Grabber and Crawler gain the ability to Blight . Caution should always be taken when fighting these vile zombies, or your heroes may never leave the Weald. Abilities Strategy At all levels, these enemies can absorb a full party's worth of damage with relative ease, and they often come in pairs. Fighting them with raw damage is a losing proposition. However, they Bleed easily, and their Blight resistance is manageable with trinkets. Both of these forms of damage allow you to bypass their massive Protection, and hopefully finish the fight before reinforcements arrive. Their Move Resistance is also poor and their only option is to harmlessly swipe their way to the front, so any way to send them to the back rows greatly limits their threat. With some luck and a few speed debuffs, you can trap two fungal scratchers into using "Harmless Swipe" for a few turns. Finally, at veteran and champion level, their "Groping Swipe" can blight your party members, but "Rend the Marked" will not. The blight damage can add up relatively swiftly since fungal grabbers and crawlers can take multiple turns to kill, so one option to mitigate this is to have a party member Mark themselves through some skill that also provides Protection. The extra Protection will offset the increased damage, and you won't have to worry about the stacking blight damage. The Leper's "Withstand" and the Crusader's "Bulwark of Faith" are both well suited to this strategy since these last the entire combat, leaving them free to mete out damage or support their allies. Related Enemies Weald Fungal Artillery Crone Unclean Giant Hateful Virago Necrotic Fungus Bosses Hag Cauldron Gallery Fungal Scratcher's combat animation Attacking Defending Corpse view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Groping Swipe | Melee | 1, 2. | 1, 2. | 72.5% | 6% | 3-5 | No Effect | No Effect | 
+
+Rend The Marked | Melee | 1, 2. | 1, 2. | 83% | 6% | [Íconos: Tagdamage.png] 3-5,+50% DMG vsMark | No Effect | No Effect | 
+
+Harmless Swipe | Melee | 3, 4. | 1, 2. | 42.5% | 0% | 2-4 | No Effect | [Íconos: Poptext move.png] Forward1 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Groping Swipe | Melee | 1, 2. | 1, 2. | 78.75% | 11% | 3-7 | [Íconos: Poptext poison.png] 120%Blight2 | No Effect | 
+
+Rend The Marked | Melee | 1, 2. | 1, 2. | 88.75% | 11% | [Íconos: Tagdamage.png] 3-7,+50% DMG vsMark | No Effect | No Effect | 
+
+Harmless Swipe | Melee | 3, 4. | 1, 2. | 48.75% | 0% | 3-5 | No Effect | [Íconos: Poptext move.png] Forward1 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Groping Swipe | Melee | 1, 2. | 1, 2. | 92.5% | 12% | 5-11 | [Íconos: Poptext poison.png] 140%Blight3 | No Effect | 
+
+Rend The Marked | Melee | 1, 2. | 1, 2. | 102.5% | 12% | [Íconos: Tagdamage.png] 5-11,+50% DMG vsMark | No Effect | No Effect | 
+
+Harmless Swipe | Melee | 3, 4. | 1, 2. | 62.5% | 0% | 4-8 | No Effect | [Íconos: Poptext move.png] Forward1 | 
+
+

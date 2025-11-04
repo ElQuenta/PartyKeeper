@@ -1,0 +1,64 @@
+TÍTULO: Flesh
+URL: https://darkestdungeon.wiki.gg/wiki/Flesh
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:15:27
+
+================================================================================
+
+Flesh (Head) Enemy Type Eldritch Size 1 Actions per round Stats Variation Inchoate Flesh Unstable Flesh Formless Flesh HP 100 152 204 HP (Stygian/Bloodmoon) 120 183 245 Dodge 0% 8.75% 22.5% Protection 50% 60% 70% Speed 5 6 7 Resistances Stun 50% 70% 95% Blight 20% 40% 65% Bleed 40% 60% 85% Debuff 20% 40% 65% Move 200% 220% 245% Flesh (Bone) Enemy Type Eldritch Size 1 Actions per round Stats Variation Inchoate Flesh Unstable Flesh Formless Flesh HP 100 152 204 HP (Stygian/Bloodmoon) 120 183 245 Dodge 0% 8.75% 22.5% Protection 70% 80% 90% Speed 1 2 3 Resistances Stun 50% 70% 95% Blight 20% 40% 65% Bleed 40% 60% 85% Debuff 20% 40% 65% Move 200% 220% 245% Flesh (Heart) Enemy Type Eldritch Size 1 Actions per round Stats Variation Inchoate Flesh Unstable Flesh Formless Flesh HP 100 152 204 HP (Stygian/Bloodmoon) 120 183 245 Dodge 0% 8.75% 22.5% Protection 0% 0% 0% Speed 10 11 12 Resistances Stun 10% 30% 55% Blight 0% 20% 45% Bleed 0% 20% 45% Debuff 0% 20% 45% Move 200% 220% 245% Flesh (Butt) Enemy Type Eldritch Size 1 Actions per round Stats Variation Inchoate Flesh Unstable Flesh Formless Flesh HP 100 152 204 HP (Stygian/Bloodmoon) 120 183 245 Dodge 0% 8.75% 22.5% Protection 30% 40% 50% Speed 8 9 10 Resistances Stun 25% 45% 70% Blight 40% 60% 85% Bleed 20% 40% 65% Debuff 20% 40% 65% Move 200% 220% 245% The Flesh is the second boss of the Warrens , appearing after the Swine Prince . Like other bosses, it has three variations (Inchoate, Unstable, and Formless). It features 4 different parts that change each round, each of which has its own specific set of abilities and stats. Each part only has one action per round no matter what form it takes. Lastly, they all share the same Health Bar ; thus, all four parts are alive and active until you deplete its health to 0. Contents 1 Ancestor's Memories: The Flesh 2 Behavior 3 Strategy 4 Team Selection 4.1 Preferred Heroes 4.2 Reasonable Choices 4.3 Discouraged Heroes 5 Trophy 6 Abilities 7 Video 8 Gallery 9 Trivia 10 Related Enemies 10.1 Swinefolk 10.2 Bosses Ancestor's Memories: The Flesh “ My zeal for blood rituals and summoning rites had begun to ebb, as each attempt invariably brought only failure and disappointment. Progress was halting, and the rapidly accumulating surplus of wasted flesh had become burdensome. I could not store such a prodigious amount of offal, nor could I rid myself of it easily, possessed as it was by unnameable things from outer spheres. When excavations beneath the manor broke through into an ancient network of aqueducts and tunnels, I knew I had found a solution to the problem of disposal. The spasmodically squirming, braying, and snorting half-corpses were heaped each upon the other, until at last I was rid of them. The warrens had become a landfill of snout and hoof, gristle and bone - a mountainous, twitching mass of misshapen flesh, fusing itself together in the darkness. „ ~ The Ancestor Behavior The Flesh has 4 different parts in every rank with a shared health bar. Each part has a unique attack and stats. At the start of every turn, it will morph, randomly transforming parts. It is possible to have multiple copies of the same part. All parts except the Heart have high PROT and will inflict different status effects . The Heart heals whichever part is located in rank 1. Strategy Since the Flesh shares one healthbar among all of its pieces, Cleaves are more effective against it. Due to the PROT 3 of the 4 pieces have though, it's usually not very effective to use Cleaves that rely on on-hit damage. Cleaving the Flesh with damage over time effects is much more effective, since they bypass the PROT of the many parts. Aside from cleaving the Flesh with damage over time effects, hitting the Flesh with on-hit damage can also be effective, but unless the hero is able to hit every Rank for large amounts of damage or bypass PROT, this is a bit more RNG-dependent, as the Heart may not spawn in reach the hero's strongest attacks. The Flesh has incredible damage and killing potential with its Stuns, Bleed and Blight. The on-hit damage of both the Maw and the Butt is high enough for a crit to potentially bring someone to Death's Door, after which the attached Bleed or Blight can immediately force a Death's Door check. Having the means to resist or remove the damage-over-time effects and Stuns is crucial to minimizing risk in this fight. Team Selection Preferred Heroes Abomination - Has good damage output with Beast's Bile and has good base Blight resist. Can also Transform in a pinch to heal himself and try to hit a Heart in the first 3 Ranks with Rage. Flagellant - Amazing Bleed damage with both Rain of Sorrows and Exsanguinate. Reclaim can prevent Death's Door checks from Bleed and Blight, which is the main way the Flesh kills heroes. The Flagellant's high Bleed resist also helps keep him alive against the Head, which is the main damage-dealing part that will be attacking him. Houndmaster - Can apply Bleed to all 4 parts with Hound's Harry and Guard someone in a pinch. His Mark significantly reduces PROT, so it can set up an attack even against parts other than the Heart. Plague Doctor - Can apply large amounts of Blight and remove Bleed and Blight from the party. Blinding Gas also helps at keeping the backline safe from Butt crits, and even if she does get hit, her high Blight resistance makes a Death's Door check less likely. Shieldbreaker - Pierce can be used to hit any part for solid damage, and at higher levels, Impale can Blight all parts at once. She is a bit more frail than the Houndmaster, but Serpent's Sway can help keep her safe. Bear in mind that she cannot use Impale on every turn, as it forces her to move back. Reasonable Choices Arbalest - Can deal huge amounts of damage to any Marked target. Putting either the Bounty Hunter's or Houndmaster's Mark onto a part will almost guarantee a full-damage shot from the Arbalest, even through their PROT. Bounty Hunter - His Mark can take off large chunks of the PROT the parts have, enabling big on-hit damage output against all parts except the Bone. Since the Flesh is counted as a size 4 enemy, Planned Takedown will also increase the Bounty Hunter's damage output. Grave Robber - Can either use Lunge on a Heart for big on-hit damage or bypass the other parts' PROT with Pick to the Face or Poison Darts. However, her low HP can be a liability. Hellion - Can deal good amounts of single-target Bleed with either If It Bleeds or Bleed Out. Can also deal good on-hit damage against the Heart at any position. Highwayman - Can deal good damage to any position or facilitate applying Bleed with Open Vein. Jester - Can deal good damage with Harvest, but runs the risk of dying extremely quickly to a crit due to his low HP and resistances. Leper - The PROT of some of the pieces can negate much of his damage output, but if necessary, the Leper can use Revenge to buff his damage while waiting for a Heart to spawn in the first two positions. If he ever manages to crit a Heart, the fight is over very quickly. Man-at-Arms - Even though he can't deal much damage, he can focus on buffs, debuffs and Guard to support the party. Discouraged Heroes Antiquarian - Can't deal a whole lot of damage and her support isn't great here since the enemy with the ACC debuff from Flashpowder can transform into a Heart, making it much less efficient. She is very good when running a Dodge-focused strategy. Crusader - Can't deal a whole lot of damage, even when hitting the Heart. His range is very limited and he doesn't have any way to counteract PROT. He is very potent at getting people off of Death's Door though. Occultist - He just doesn't provide anything you really want. He can deal okay damage to the Heart and his Stun is good, but his other utility barely finds any use. His Healing is also unreliable, which really sucks in this fight. Vestal - Similar to the Occultist, she has a Stun and can deal decent damage with Judgement, but her healing isn't especially effective in this fight. She is usually outperformed by the Flagellant and Plague Doctor, who form a great duo for both damage and healing. Trophy After the Flesh is defeated on Champion difficulty, it will drop a heart as a Trophy . Flesh's Heart +50% to bleed resistance +15% max HP Abilities The Flesh has four different forms, and each one uses a different unique attack. The table below shows which form uses which attack. Video Load video YouTube YouTube might collect personal data. Privacy Policy Continue Dismiss The Inchoate Flesh boss fight Gallery Flesh Head's combat animation Maws of Life Head defending Flesh Bone's combat animation Bone Zephyr Bone defending Flesh Heart's combat animation Sanguine Stroke Heart defending Flesh Butt's combat animation Undulating Invasion Butt defending Trivia The Flesh takes heavy inspiration from the 1982 film "The Thing." Related Enemies Swinefolk Swine Chopper Swine Slasher Swine Wretch Swine Drummer Swinetaur Swine Skiver Bosses Swine Prince Wilbur view Bosses Regional Necromancer Prophet Hag Brigand Pounder Swine Prince Flesh Siren Drowned Crew Roaming / Event Shambler Collector Fanatic Thing from the Stars Shrieker Brigand Vvulf Boss Minions Cauldron Brigand Matchman Shambler Wilbur Drowned Anchorman Shrieker's Nest Barrel O' Bombs Courtyard Baron Viscount Countess Crocodilian Garden Guardian Farmstead Miller Fracture Sleeper Darkest Dungeon Spoilers Shuffling Horror Templar Impaler Templar Warlord Mammoth Cyst Ancestor Heart of Darkness
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Maws of Life(Head) | Melee | 1, 2. | 1, 2. | 92.5% | 2% | 6-12 | [Íconos: Poptext bleed.png] 100%Bleed2 | No Effect | 
+
+Bone Zephyr(Bone) | Melee | 1, 2, 3, 4. | 1, 2, 3, 4. | 82.5% | 1% | 2-4 | [Íconos: Poptext stun.png] 100%Stun | No Effect | 
+
+Sanguine Stroke(Heart) | Support | 1, 2, 3, 4. | 1, 2, 3, 4 (allies). |  |  |  | [Íconos: Skill attribute heal.png] Heal 4-8 | No Effect | 
+
+Undulating Invasion(Butt) | Melee | 3, 4. | 3, 4. | 92.5% | 6% | 5-9 | [Íconos: Poptext poison.png] 100%Blight2 | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Maws of Life(Head) | Melee | 1, 2. | 1, 2, 10% +1 Target. | 98.75% | 6% | 8-15 | [Íconos: Poptext bleed.png] 120%Bleed3 | No Effect | 
+
+Bone Zephyr(Bone) | Melee | 1, 2, 3. | 1, 2, 3, 4. | 88.75% | 1% | 3-5 | [Íconos: Poptext stun.png] 110%Stun | No Effect | 
+
+Sanguine Stroke(Heart) | Support | 1, 2, 3, 4. | 1, 2, 3, 4 (allies). |  |  |  | [Íconos: Skill attribute heal.png] Heal 5-10 | No Effect | 
+
+Undulating Invasion(Butt) | Melee | 3, 4. | 3, 4, 10% +1 Target. | 98.75% | 11% | 6-12 | [Íconos: Poptext poison.png] 120%Blight3 | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Maws of Life(Head) | Melee | 1, 2. | 1, 2, 20% +1 Target. | 112.5% | 7% | 12-24 | [Íconos: Poptext bleed.png] 140%Bleed4 | No Effect | 
+
+Bone Zephyr(Bone) | Melee | 1, 2, 3. | 1, 2, 3, 4. | 102.5% | 1% | 4-8 | [Íconos: Poptext stun.png] 120%Stun | No Effect | 
+
+Sanguine Stroke(Heart) | Support | 1, 2, 3, 4. | 1, 2, 3, 4 (allies). |  |  |  | [Íconos: Skill attribute heal.png] Heal 6-12 | No Effect | 
+
+Undulating Invasion(Butt) | Melee | 3, 4. | 3, 4, 20% +1 Target. | 112.5% | 12% | 9-19 | [Íconos: Poptext poison.png] 140%Blight4 | No Effect | 
+
+

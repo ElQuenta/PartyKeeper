@@ -1,0 +1,114 @@
+TÍTULO: Shambler
+URL: https://darkestdungeon.wiki.gg/wiki/Shambler
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:15:18
+
+================================================================================
+
+Shambler Enemy Type Eldritch Size 2 Actions per round Stats Variation Shambler Grotesque Shambler Abhorrent Shambler HP 77 116 158 HP (Stygian/Bloodmoon) 93 140 190 Dodge 0 8.75 22.5 Protection 33 33 33 Speed 0 1 2 Resistances Stun 100% 120% 140% Blight 40% 60% 80% Bleed 40% 60% 80% Debuff 40% 60% 80% Move 50% 70% 90% Shambler Tentacle Enemy Type Eldritch Size 1 Actions per round Stats Variation Shambler Sycophant Shambler Spore Shambler Spawn HP 8 12 16 HP (Stygian/Bloodmoon) 10 15 20 Dodge 17.5 26.25 40 Protection 0 0 0 Speed 10 11 12 Resistances Stun 50% 70% 90% Blight 40% 60% 80% Bleed 40% 60% 80% Debuff 40% 60% 80% Move 40% 60% 80% “ Behold the infinite malignity of the stars! „ ~ The Ancestor The Shambler is a dangerous Eldritch miniboss that lurks in blackest pitch, dropping Ancestral trinkets when killed. Contents 1 Encountering the Shambler 2 Behavior 3 Abilities 3.1 Notes 4 Ancestral Trinkets 5 Strategy 5.1 Shambler Hunting 6 Team Selection 6.1 Preferred Heroes 6.2 Reasonable Choices 6.3 Discouraged Heroes 7 Related Enemies 7.1 Wandering Bosses 8 Gallery 9 Trivia 10 See Also 11 References Encountering the Shambler The Shambler is usually encountered in one of two ways. When traveling at 0 torchlight , the Shambler may ambush the party replacing any hallway fight (1% chance on Apprentice, 8% on Veteran, 12% Champion). The Shambler may also be summoned by using a Torch on a Shambler's Altar , which will also set the light level to 0. Lastly, the Shambler may appear as a boss in the Endless Harvest . This is the only case where the fight does not take place at 0 torchlight, so this version of the Shambler has slight buffs to its HP and damage to make up for the otherwise reduced difficulty. Behavior While the Shambler is alive the Light Meter will be fixed at 0—and the light level cannot be altered in any way with torches or skills! This greatly increases the Stress and damage that the party will receive. The party will always be surprised when the battle starts, disrupting party formation. If the party flees combat with the Shambler, the Shambler will follow them—all subsequent hallway battles will be replaced with the Shambler encounter until it is defeated. Each round, the Shambler will likely attempt to summon two Shambler Tentacles with Obdurous Advancement or Undulating Withdrawal . When initially summoned a Tentacle is quite weak, but every turn it will heavily buff its own offensive and defensive stats with Clapperclaw . If at least one tentacle is left alive, the Shambler has a chance to use Stentorious Lament , shuffling the party in addition to causing heavy stress . The Shambler and its Tentacles have opposite but complementary attack patterns: the Shambler deals Bleed or Blight to the entire party along with a small amount of damage; while the Tentacles deal heavy damage to a single target, prioritising heroes with Mark . The Shambler is extremely slow, while the Tentacles are extremely fast and will buff their SPD even further. This means that each round, the Tentacles are likely to act first, then the party, then finally the Shambler—resummoning any Tentacles that the heroes may have killed. Unlike most boss minions, Shambler Tentacles will not automatically disappear after the Shambler is killed. This greatly increases the difficulty of the battle: even with the Shambler gone, the Tentacles can still deal an extreme amount of damage, especially if they've buffed themselves several times. Abilities Shambler Shambler Tentacle Shambler Shambler Tentacle Shambler Shambler Tentacle Notes Since the Light Meter is set to 0 while the Shambler is alive, the abilities above will gain +25% DMG, +5% CRIT, +12.5 ACC, not to mention heroes will take +40% stress . Tentacles will be summoned even if the Shambler's attack misses. Ancestral Trinkets The primary reason to hunt down the Shambler is to acquire its unique Ancestral trinkets . A defeated Shambler will drop one of the five trinkets below until all of them have been acquired, at which point it will drop gems instead. Trinkets are dropped regardless of the Shambler's difficulty level, so it is usually preferable to hunt Apprentice- and Veteran-level Shamblers if the goal is to acquire them. Ancestor's Map Ancestor's Bottle Ancestor's Candle Ancestor's Tentacle Idol Ancestor's Scroll +25% Trap Disarm Chance +25% Scouting Chance +10% Stress +25% MAX HP +50% Food Consumed +10% Stress +15% DMG if Torch above 50 +2 SPD if Torch above 50 +5 DODGE if Torch above 50 +10% Stress +20% Virtue Chance +8% Death Blow Resist +25% Healing Skills +25% Stress Skills +10% Stress Strategy The Shambler is easily more dangerous than most other bosses, and it is best to finish the quest first before summoning it as the party will likely be in very poor condition afterwards. In the worst case, fleeing the Shambler encounter will cause it to ambush the party in all subsequent hallway battles, making the quest nearly impossible to complete. Prepare for the party to be shuffled repeatedly: the fight always begins with an ambush, and Stentorious Lament will shuffle the party as well. It is recommended to bring rank-flexible heroes, or heroes with movement skills, so they don't waste many turns getting back into position. It is also recommended to pre-arrange the party into its worst possible configuration before starting the fight so any shuffle will strictly improve their positioning. The main challenge, even more important than killing the Shambler itself, is dealing with its Tentacles in an action-efficient way. A Tentacle must be killed quickly because Clapperclaw' s self-buff makes it extremely dangerous if left alive (up to +150% DMG, +15% CRIT, +60 ACC, +75% PROT, and +9 SPD after three turns). However the Shambler will re-summon a Tentacle every time it is killed; so the party must constantly spend actions killing or stunning Tentacles, while at the same time trying to damage the Shambler itself. The Shambler and Tentacles' alternating attack patterns can kill heroes very quickly: Clapperclaw' s high damage can bring a hero to Death's Door , to be finished off by the Shambler's party-wide Bleed and Blight . For this reason Holy Water , Antivenom , and Bandages are quite helpful, because they counter much of the Shambler's kill potential. Riposte is highly efficient against the Shambler, for two reasons: The Shambler's attacks hit the entire party, so is guaranteed to trigger many times. triggers before the Tentacle's PROT buff, allowing it to deal more damage than normal. Likewise Bleed and Blight bypass PROT and are effective against the Shambler and its Tentacles. have an additional benefit because they kill the enemy on its turn. Due to speed differences, each combat round will usually proceed in the following order: Tentacles attack first. Heroes take their turns. The Shambler acts, likely re-summoning any dead Tentacles. So if a hero kills a Tentacle with a direct attack, it will get re-summoned immediately; but will cause a Tentacle to die harmlessly at the beginning of the next round , effectively causing the Tentacles to lose a turn. Stun is extremely effective. In particular, stunning the Shambler on the first round is one of the most efficient actions in the fight, since it prevents two tentacles from being summoned. Likewise stunning Tentacles buys the party more time to deal with it; one plus a or skill is usually enough to kill a Tentacle. If using any of the above tactics, note that both the Shambler and its Tentacles have generally high resistances, so Trinkets are required for , , and to be effective. Tentacles are weakest when first summoned, before they buff their PROT. For this reason both extremely high and extremely low SPD are useful, allowing a hero to either act very early (before the Tentacle manages to buff itself), or very late (immediately after the Shambler summons them). Bleed and Blight applied at this time also get an extra tick, killing the Tentacles more quickly and reducing the number of their buffed-up attacks. DODGE can also be useful because a Tentacle does not buff itself when missing. A Tentacle without buffs is as weak as a newly summoned one, and in this case it may be preferable to Stun it without killing it outright, otherwise the Shambler will just re-summon it. Note, however, that Clapperclaw buffs ACC, so it becomes much more difficult to dodge attacks from already buffed Tentacles; as usual, these should be disabled and killed as quickly as possible. Certain area-of-effect attacks like Rake or Hew can deal enough burst damage to kill Tentacles before they become a threat. Mark compositions are especially effective at bursting down the Shambler, especially using the Houndmaster's Target Whistle . Shambler Tentacles, like most boss minions, disable stall penalties, so a properly prepared party can stall against them. Stun can be used to prolong the battle while preventing the Tentacles from attacking; not to mention, the Tentacles' self-buff increases their PROT, buying the party even more time to heal. Shambler Hunting Players may seek out the Shambler in order to acquire its Ancestral Trinkets . The chance of any given hallway curio being a Shambler's Altar is quite rare, around 1% to 1.5% depending on the region: Based on these numbers, the Cove would seem to be the best location to hunt Shamblers, not to mention the high proportion of Eldritch enemies makes it efficient to equip trinkets and skills that grant bonuses against them. However, one should also consider the average size of each dungeon, the number of hallway curios generated, and other strategic considerations like the chosen party's strength in a particular region. Team Selection Preferred Heroes Abomination - Both forms are quite strong against the Shambler. Human form's Manacles , when paired with the Broken Key, is a great opening Stun . Beast form can deal with the Tentacles almost entirely by himself thanks to Rake , his high DMG, and high SPD. Can reposition himself with Slam . Overall the Abomination allows the other three heroes to focus on killing the Shambler, making the fight much easier. Crusader - Rank-flexible: Stunning Blow and Holy Lance allow him to Stun or deal high damage every turn. His extremely low SPD allows him to act after the Shambler in order to or kill newly summoned Tentacles, and also makes him a strong dancing parter. Can also (stress) heal from any position with Battle Heal or Inspiring Cry . Flagellant - The hero with the strongest Bleed attacks. High SPD. Great recovery skills to save himself and allies. Can move to to the front in a single turn. Excellent synergy with the Plague Doctor . Grave Robber - Her high SPD also allows her to Lunge Tentacles before they can act. High DODGE. Rank-flexible, with Lunge and Shadow Fade helping fix the party's positioning. Pick to the Face and Poison Dart also ignore PROT. Highwayman - Duelist's Advance is the strongest Riposte in the game and also makes him resistant to shuffling. Open Vein can kill Tentacles with Bleed . Houndmaster - Target Whistle is arguably the best PROT debuff and the best Mark in the game, enabling his allies to deal a lot of damage. Fairly rank-flexible. Dog Treats greatly buff his own damage. Alternatively can serve as a DODGE tank with Guard Dog . Cry Havoc and camping skills can heal the party's stress afterwards. Jester - Solo is the one of the strongest DODGE tanking skills in the game, greatly buffing his own DODGE, applying a self- Mark to draw aggro, and allowing him to fix the party's positioning at the same time. When stacked with DODGE trinkets , can singlehandedly negate a lot of the Tentacles' actions. High SPD allows him to Dirk Stab Tentacles before they act. All his skills also contribute to a massive Finale . Alternatively, a support Jester can buff the team's SPD with Battle Ballad . Afterwards Inspiring Tune and camping skills can heal the party's stress. Man-at-Arms - Retribution enables Riposte . Bolster and Tactics greatly boost the party's DODGE. Rampart is a great Stun , making him shuffle resistant, allowing him to dance (with his slow SPD), and fixing the party's positioning. Occultist - Hands from the Abyss , when paired with Demon's Cauldron, is the best single-target Stun in the game. Not to mention, its usual downside, reducing the Light Meter , is irrelevant here. Vulnerability Hex is a good Mark . Shieldbreaker - High SPD and rank-flexible. Pierce ignores PROT and fixes the party's positioning. Snake Eyes allows the entire party to pierce some PROT. Plague Doctor - The hero with the strongest Blight attacks. High SPD. Great Stun and DODGE with the standard Blasphemous Vial / Ashen Distillation build. Battlefield Medicine can heal and cure from two heroes at once. Excellent synergy with the Flagellant . Reasonable Choices Antiquarian - Invigorating Vapours is a strong party-wide DODGE buff and a critical skill for most DODGE parties. Get Down! moves her back while greatly buffing her DODGE and SPD. Arbalest / Musketeer - Can move to the back with a single action. Mark greatly boosts her damage, and will also last fairly long due to the Shambler only having 1 action per round. Can heal with Battlefield Bandage . Bounty Hunter - Mark greatly boosts his damage. Weak when shuffled to Rank 4, but the party can be pre-shuffled to reliably avoid this. Hellion - Somewhat weak to being repositioned since Breakthrough , her only movement skill, is not very strong. PROT also reduces the effectiveness of her attacks. A Bleed build can function well since If it Bleeds can be used from rank 1-3. In many cases Barbaric Yawp ' s double Stun may be preferable to attacking directly, but the Hellion does not usually build enough chance to make this reliable against the Shambler or its Tentacles. Discouraged Heroes Leper - Useless if shuffled to the rear, and can only move forward one rank at a time. His low SPD means he'll usually act after the Tentacles buff themselves, so his attacks will struggle against their high PROT. That said, his extremely high base DMG can still make Chop and Hew effective—given proper setup and support from his teammates. Unconventionally, a duo Leper party can also be effective because it negates their greatest weakness, movement. Vestal - Her healing is not as impactful as preventing damage by killing enemies or Stun ning them. Unfortunately she has very low damage, and Dazzling Light ' s is not particularly reliable against the Shambler or its Tentacles. In the worst case Divine Comfort can save multiple heroes on Death's Door , but one should not allow the fight to reach this point to begin with. Related Enemies Wandering Bosses The Collector The Fanatic Thing from the Stars Gallery Shambler's combat animation The Shambler using Obdurous Advancement The Shambler using Undulating Withdrawal The Shambler using Stentorious Lament The Shambler defending The Shambler's corpse Shambler Tentacle's combat animation A Shambler Tentacle attacking A Shambler Tentacle defending Trivia In the early access and the original release, the Shambler left a normal-sized Corpse after it was killed instead of a large one, despite it taking up two Ranks during a fight. As evidenced by its corpse, the Shambler has purple blood. The Shuffling Horror , the boss from the first Darkest Dungeon quest, " We Are the Flame ," is a stronger, corrupted version of the Shambler. This version does not summon tentacles, but instead has another unit guarding it. The Shambler features in two Journals that can be found in the game. The first, "Journal of Darius, Highwayman", ends with Darius' party being ambushed and slaughtered by a Shambler. The other one, "The Blackest of Fates", documents the fate of a party whose occultist, "thrice damned Mizir", activated a Shambler Altar and unleashed a Shambler upon everyone. As of the Inhuman Bondage update, the Shambler will physically drag the party into another dimension. The area resembles a violet galaxy and functions the same as Pitch Black. The name "Shambler" likely comes from the "Dimensional Shambler", one of HP Lovecraft's creations. The Dimensional Shambler is a creature that comes from another dimension and attacks its prey by using a form of hypnosis to make the victim believe they've been dragged into another plane of existence. However the appearance of the Shambler does not match the description given of the Dimensional Shamblers, as they are mostly humanoid. Rather the Shambler's appearance closely resembles the description given of the Shoggoth, said to be "vaster than any subway train— a shapeless congeries of protoplasmic bubbles, faintly self-luminous, and with myriads of temporary eyes forming and un-forming. " Another reference to Lovecraft is when the narrator calls it a "Star-Spawned horror." In Lovecraft's work the Star Spawn are another name for the Cthulhi, which are spawn of the Great Old One Cthulhu, one of the central beings of Lovecraft's mythos. The word "Obdurous" in "Obdurous Advancement" does not exist, the actual word is "Obdurate", meaning "stubbornly persistent in wrongdoing". See Also Shambler (Darkest Dungeon II) References ↑ An example of stalling against Shambler Tentacles may be found in this thread . A video of the Shambler fight and subsequent stalling can be found here . ↑ H. P. Lovecraft, At The Mountains of Madness view Bosses Regional Necromancer Prophet Hag Brigand Pounder Swine Prince Flesh Siren Drowned Crew Roaming / Event Shambler Collector Fanatic Thing from the Stars Shrieker Brigand Vvulf Boss Minions Cauldron Brigand Matchman Shambler Wilbur Drowned Anchorman Shrieker's Nest Barrel O' Bombs Courtyard Baron Viscount Countess Crocodilian Garden Guardian Farmstead Miller Fracture Sleeper Darkest Dungeon Spoilers Shuffling Horror Templar Impaler Templar Warlord Mammoth Cyst Ancestor Heart of Darkness
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Obdurous Advancement | Melee | 1,2,3,4 | 1+2+3+4 | 82.5% | 2% | 1 | [Íconos: Poptext bleed.png, New game plus save icon.png] 100%Bleed2Summon 2Shambler Tentacles | [Íconos: Poptext move.png] Forward1 | 
+
+Undulating Withdrawal | Ranged | 1,2,3,4 | 1+2+3+4 | 82.5% | 2% | 1 | [Íconos: Poptext poison.png, New game plus save icon.png] 100%Blight2Summon 2Shambler Tentacles | [Íconos: Poptext move.png] Back1 | 
+
+Stentorious Lament | Ranged | 1,2,3,4 | 1+2+3+4 | 82.5% | 2% | 1 | [Íconos: Tray afflicted.png, Poptext move.png] Stress+1080%ShuffleParty |  | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Clapperclaw | Melee | 1,2,3,4 | 1,2,3,4 | 82.5% | 2% | 2-4 | [Íconos: Tray afflicted.png] Stress+10 | [Íconos: Poptext buff.png] Buff: +20 ACC, +5% CRIT,+50% DMG, +3 SPD, +25% PROT | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Obdurous Advancement | Melee | 1,2,3,4 | 1+2+3+4 | 88.75% | 6% | 1-2 | [Íconos: Poptext bleed.png, New game plus save icon.png] 120%Bleed3Summon 2Shambler Tentacles | [Íconos: Poptext move.png] Forward1 | 
+
+Undulating Withdrawal | Ranged | 1,2,3,4 | 1+2+3+4 | 88.75% | 6% | 1-2 | [Íconos: Poptext poison.png, New game plus save icon.png] 120%Blight3Summon 2Shambler Tentacles | [Íconos: Poptext move.png] Back1 | 
+
+Stentorious Lament | Ranged | 1,2,3,4 | 1+2+3+4 | 92.5% | 6% | 1-2 | [Íconos: Tray afflicted.png, Poptext move.png] Stress+1090%ShuffleParty |  | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Clapperclaw | Melee | 1,2,3,4 | 1,2,3,4 | 88.75% | 6% | 3-5 | [Íconos: Tray afflicted.png] Stress+10 | [Íconos: Poptext buff.png] Buff: +20 ACC, +5% CRIT,+50% DMG, +3 SPD, +25% PROT | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Obdurous Advancement | Melee | 1,2,3,4 | 1+2+3+4 | 102.5% | 9% | 1-3 | [Íconos: Poptext bleed.png, New game plus save icon.png] 140%Bleed4Summon 2Shambler Tentacles | [Íconos: Poptext move.png] Forward1 | 
+
+Undulating Withdrawal | Ranged | 1,2,3,4 | 1+2+3+4 | 102.5% | 9% | 1-3 | [Íconos: Poptext poison.png, New game plus save icon.png] 140%Blight4Summon 2Shambler Tentacles | [Íconos: Poptext move.png] Back1 | 
+
+Stentorious Lament | Ranged | 1,2,3,4 | 1+2+3+4 | 100% | 9% | 1-3 | [Íconos: Tray afflicted.png, Poptext move.png] Stress+10100%ShuffleParty |  | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Clapperclaw | Melee | 1,2,3,4 | 1,2,3,4 | 102.5% | 9% | 4-7 | [Íconos: Tray afflicted.png] Stress+10 | [Íconos: Poptext buff.png] Buff: +20 ACC, +5% CRIT,+50% DMG, +3 SPD, +25% PROT | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Region | Chance
+
+Ruins | 1/79 (1.27%)
+
+Weald | 1/79 (1.27%)
+
+Warrens | 1/76 (1.32%)
+
+Cove | 1/66 (1.52%)
+
+

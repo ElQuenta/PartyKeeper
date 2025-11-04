@@ -1,0 +1,52 @@
+TÍTULO: Madman
+URL: https://darkestdungeon.wiki.gg/wiki/Madman
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:14:48
+
+================================================================================
+
+Madman Enemy Type Human Size 1 Actions per round Stats Variation Madman Frothing Madman Raving Madman HP 14 20 27 HP (Stygian/Bloodmoon) 17 24 33 Dodge 20 28.75 41.25 Protection 0 0 0 Speed 9 10 11 Resistances Stun 10% 30% 50% Blight 10% 30% 50% Bleed 10% 30% 50% Debuff 15% 35% 55% Move 10% 30% 50% The Madman is a Human type enemy found in all regions except the Courtyard . A deranged lunatic driven to drag any poor adventurer who crosses his path to insanity with his great and terrible revelations, the Madman poses very little danger in terms of direct damage. However, his Doomsay ability can hit the entire party for serious stress damage (especially at low light ), and Accusation can also apply a debuff which increases a hero's incoming stress damage until the next time you camp , as well as a potent Horror to accompany it. It's best to eliminate him as soon as possible, before he can drive your whole party insane. Contents 1 Behavior 2 Strategy 3 Music Boxes 4 Abilities 5 Gallery 6 Trivia Behavior Madmen have two skills: Doomsay , a party stress attack, and Accusation , a Horror attack with a debuff for +Stress that lasts until camp . Both moves have an equal chance. They have no significant targeting bias, except that Accusation is more likely (2x/3x/4x) to target whatever hero has the highest stress. Strategy The Madman should be a very high-priority target, as his stress, though not at the same level as the Cultist Acolyte , is still for the entire party, and Accusation' s debuff can be terrible in the wrong situation. Debuffs which reduce the Madman's high DODGE stat can come in handy. As with many other opponents, stunning him can buy you some extra time to finish him off, especially because his resistances are very low. Accusation's debuff may not seem that dangerous on its own, but it lasts until the next time you camp , and can be stacked for a devastating vulnerability to stress. This means that the next enemy capable of inflicting heavy stress damage (such as the Cultist Acolyte ) will hit that much harder. However, it can be easily cleansed with Medicinal Herbs . Music Boxes The Madman will always drop something for your party as a reward for defeating this rare enemy. The exact probability for the Madman to drop a trinket instead of a regular provision item is 1/6 (~17%), and this trinket can either be a very common, common, uncommon or Madman-exclusive one (Overture, Aria or Crescendo Box), each with the same 25% chance of being randomly picked. This works out to 0.17*0.25 = ~0.042 = about a 4% chance of a music box drop. Only one of each music box can be in a player's inventory at once. Aria Box Crescendo Box Overture Box -25% Stress +2 SPD +15% DMG +10% Stress +15% MAX HP +8 DODGE -2 ACC Abilities Gallery Madman's combat animation Madman using Doomsay Madman using Accusation Madman defending Madman's corpse. Trivia The Madman was added in the Inhuman Bondage update, along with The Collector and Abomination . The music boxes the Madman drops are named after different keywords in music. An Aria is a long song that usually, but not always, accompanies a solo singer, though was originally any expressive melody. A Crescendo is a passage of music during which the volume gradually increases and in Italian literally translates to "increasing." And an Overture is an orchestral score used at the beginning of an opera. view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Doomsay | Ranged | 1,2,3,4 | 1+2+3+4 | 102.5% | 0% | 0 | [Íconos: Stress] 80%Stress+7 |  | 
+
+Accusation | Ranged | 1,2,3,4 | 1,2,3,4 | 102.5% | 0% | 1 | [Íconos: Horror, Debuff] Horror3 (4 rds)100%Debuff: +15%Stress(Until Camp) |  | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Doomsay | Ranged | 1,2,3,4 | 1+2+3+4 | 108.75% | 0% | 0 | [Íconos: Stress] 80%Stress+9 |  | 
+
+Accusation | Ranged | 1,2,3,4 | 1,2,3,4 | 108.75% | 0% | 1-2 | [Íconos: Horror, Debuff] Horror4 (4 rds)120%Debuff: +15%Stress(Until Camp) |  | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Doomsay | Ranged | 1,2,3,4 | 1+2+3+4 | 122.5% | 0% | 0 | [Íconos: Stress] 80%Stress+9 |  | 
+
+Accusation | Ranged | 1,2,3,4 | 1,2,3,4 | 122.5% | 0% | 1-3 | [Íconos: Horror, Debuff] Horror4 (4 rds)140%Debuff: +15%Stress(Until Camp) |  | 
+
+

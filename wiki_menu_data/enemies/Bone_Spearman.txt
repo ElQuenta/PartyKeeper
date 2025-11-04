@@ -1,0 +1,37 @@
+TÍTULO: Bone Spearman
+URL: https://darkestdungeon.wiki.gg/wiki/Bone_Spearman
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:14:14
+
+================================================================================
+
+Bone Spearman Enemy Type Unholy Size Average Actions per round Stats Variation Bone Spearman Bone Lancer HP 22 31 HP (Stygian/Bloodmoon) 27 38 Dodge 8.75% 22.5% Protection 0% 0% Speed 4 5 Stealth No No Resistances Stun 45% 70% Blight 30% 55% Bleed 220% 245% Debuff 35% 60% Move 45% 70% The Bone Spearman is an enemy found in the Ruins . Their spears provide them with incredible reach, letting them strike any point from anywhere on the battlefield. More dangerously, this same spear can impale the entire party at once. Contents 1 Behavior 2 Abilities 3 Related Enemies 3.1 All Areas 3.2 Ruins 3.3 Boss 4 Gallery Behavior The Bone Spearman is an Unholy enemy that appears in the Ruins . The Bone Spearman aims simply to cause as much damage as possible with his two lethal spear attacks, both of which carry considerable crit rates. Depending on party composition, he should be prioritized before most other enemies, exploiting his weakness to being stunned if possible. Abilities Related Enemies All Areas Bone Rabble Ruins Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Captain Bone Bearer Boss Necromancer Gallery Bone Spearman's combat animation Bone Spearman attacking Bone Spearman defending Bone Spearman's corpse view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Spear Thrust | Melee | 1, 2, 3, 4. | 1, 2, 3, 4. | 78.75% | 11% | 5-11 | [Íconos: Poptext move.png] 120%Knockback1 | No Effect | 
+
+Impale | Melee | 1, 2. | 1+2+3+4. | 88.75% | 16% | 3-5 | No Effect | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Spear Thrust | Melee | 1, 2, 3, 4. | 1, 2, 3, 4. | 92.5% | 12% | 8-16 | [Íconos: Poptext move.png] 140%Knockback1 | No Effect | 
+
+Impale | Melee | 1, 2. | 1+2+3+4. | 102.5% | 17% | 4-8 | No Effect | No Effect | 
+
+

@@ -1,0 +1,46 @@
+TÍTULO: Swine Wretch
+URL: https://darkestdungeon.wiki.gg/wiki/Swine_Wretch
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:14:39
+
+================================================================================
+
+Swine Wretch Enemy Type Beast Size 1 Actions per round Stats Variation Swine Wretch Swine Spawn Swine Heaver HP 12 17 25 HP (Stygian/Bloodmoon) 15 21 30 Dodge 12.5% 21.25% 35% Protection 0% 0% 0% Speed 8 9 10 Resistances Stun 10% 30% 55% Blight 40% 60% 85% Bleed 10% 30% 55% Debuff 15% 35% 60% Move 0% 20% 45% The Swine Wretch is a Beast type enemy that appears in the Warrens . While smaller in size and weaker defensively compared to other Swinefolk, the Swine Wretch is a major threat in the Warrens because of its high chance of spreading Diseases with every attack. Like other Swinefolk, the Swine Wretch appears to have both human and animal body parts; however, while most Swinefolk have Beast/Human type , Swine Wretches only have a single type, Beast. Contents 1 Behavior 2 Abilities 3 Related Enemies 3.1 Swinefolk 3.2 Bosses 4 Gallery Behavior The Swine Wretch appears in either the third or fourth rank. While the Wretch has low health and relatively low resistances, it is very quick and evasive, and will often act before the party does. The Wretch possesses only a single attack, Vomit , which deals stress and may inflict a random Disease upon its target. Because of how debilitating certain diseases can be, not to mention how annoying they are to treat, it is best to deal with the Wretch as quickly as possible. Abilities Related Enemies Swinefolk Swine Chopper Swine Slasher Swine Drummer Swinetaur Swine Skiver Bosses Swine Prince Wilbur Flesh Gallery Swine Wretch combat animation Attacking Defending Corpse view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Vomit | Ranged | 1, 2, 3, 4. | 1, 2, 3, 4. | 82.5% | 12% | 1 | [Íconos: Poptext disease.png, Tray afflicted.png] 33%Disease(any)Stress+10 | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Vomit | Ranged | 1, 2, 3, 4. | 1, 2, 3, 4. | 88.75% | 16% | 1-2 | [Íconos: Poptext disease.png, Tray afflicted.png, Poptext debuff.png] 33%Disease(any)Stress+10120%Debuff: -7% DODGE | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Vomit | Ranged | 1, 2, 3, 4. | 1, 2, 3, 4. | 102.5% | 17% | 1-3 | [Íconos: Poptext disease.png, Tray afflicted.png, Poptext debuff.png] 33%Disease(any)Stress+10140%Debuff: -10% DODGE | No Effect | 
+
+

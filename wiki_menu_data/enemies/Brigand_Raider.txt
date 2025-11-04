@@ -1,0 +1,26 @@
+TÍTULO: Brigand Raider
+URL: https://darkestdungeon.wiki.gg/wiki/Brigand_Raider
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:14:25
+
+================================================================================
+
+Brigand Raider Enemy Class Human Size Average Actions per round Stats HP 25 HP (Stygian/Bloodmoon) 30 Dodge 26.25 Protection 25% Speed 5 Resistances Stun 72.5% Blight 67.5% Bleed 67.5% Debuff 62.5% Move 73% Elite Brigand Cutthroats are equipped with improved armor and weapons, Brigand Raiders are most often seen accompanying Brigand Vvulf's personal group of enforcers. Contents 1 Behavior 2 Abilities 3 Related Enemies 3.1 All Areas 3.2 Bosses 4 Gallery 5 Trivia Behavior The Brigand Raider is a stronger variant of the Brigand Cutthroat which appears during Wolves at the Door , and within Champion-level dungeons. They will also be summoned by Brigand Vvulf during his boss fight. Raiders do more damage than Cutthroats, and unlike their lower-level counterparts, their Shank ability will also apply marks to its target - which can be a real problem when they're fought alongside Rabid Gnashers . The tactics used to defeat them are more or less identical to those used to defeat Cutthroats - just try not to let them get in too many hits. Abilities Related Enemies All Areas Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Hunter Bosses Brigand Pounder Brigand Matchman Brigand Vvulf Barrel O' Bombs Gallery Brigand Raider's combat animation Brigand Raider using Slice And Dice Sprite for all other attacks Brigand Raider defending Brigand Raider's corpse. Trivia The Brigand Raider was added in the Everything Burns update, along with the Brigand Hunter and the boss Brigand Vvulf . Originally the Brigand Raider could only be found in the quest Wolves at the Door , but a later update added the possibility of encountering them in every normal champion level quest view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Darkest Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Slice And Dice | Melee | 1,2,3 | 1+2 | 93.75% | 20% | 6-11 | [Íconos: Poptext debuff.png] 160%Debuff: -35% Bleed Resist |  | 
+
+Uppercut Slice | Melee | 1,2 | 1,2,3 | 93.75% | 15% | 4-9 | [Íconos: Poptext move.png] 140%Knockback1 |  | 
+
+Shank | Melee | 1,2,3 | 1,2,3,4 | 92.5% | 11% | 7-15 | [Íconos: Poptext bleed.png, Poptext tagged.png] 140%Bleed3Mark(3 rds) |  | 
+
+Harmless Poke | Melee | 4 | 1,2,3,4 | 62.5% | 0% | 4-9 |  | [Íconos: Poptext move.png, Poptext buff.png] Forward1Buff: SPD +2 | 
+
+

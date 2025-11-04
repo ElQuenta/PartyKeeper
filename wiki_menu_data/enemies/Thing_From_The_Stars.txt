@@ -1,0 +1,109 @@
+TÍTULO: Thing From The Stars
+URL: https://darkestdungeon.wiki.gg/wiki/Thing_From_The_Stars
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:15:39
+
+================================================================================
+
+Thing from the Stars Enemy Type Eldritch Size 2 Actions per round Stats Variation Thing from the Stars Thing from the Stars Thing from the Stars HP 106 148 191 HP (Stygian/Bloodmoon) 128 178 230 Dodge 5 13.75 25 Protection 0 0 0 Speed 2 3 4 Resistances Stun 85% 105% 125% Blight 40% 60% 80% Bleed 33% 53% 73% Debuff 40% 60% 80% Move 25% 45% 65% “ A shard of alien malignity! „ ~ The Ancestor The Thing from the Stars is a Eldritch miniboss from The Color of Madness DLC. An extremely dangerous opponent, the Thing has multiple turns per round and is capable of inflicting massive Stress damage and Blight . The Thing is perhaps most notorious for its second phase—when it reaches low health, it gains a series of buffs that make it highly resistant to direct damage while simultaneously greatly boosting its offensive power. Contents 1 Spawn Mechanics 2 Behaviour 3 Strategy 3.1 Dealing with the Second Phase 3.1.1 Ignoring PROT 3.1.2 Reducing PROT 3.1.3 Dodge 3.2 Slow Stunning 3.3 Avoiding the Thing 4 Loot 4.1 Prismatic Quirks 5 Abilities 6 Gallery 7 Trivia 8 References Spawn Mechanics The Thing from the Stars will not appear until the first expedition to the Farmstead has been completed. After that point, the Thing will begin to randomly wander around the map. When embarking, an icon will appear on the minimap indicating the location where the Thing is patrolling this week. In this location, the Thing has a 50% chance to spawn on any Expedition , including boss expeditions, as an extra hallway battle. If a hallway is scouted which contains two battles then it is highly likely, but not guaranteed, that one of them is the Thing. Furthermore the Thing can only spawn when the map is generated; a newly generated battle that appears when re-entering a hallway will not contain the Thing. The Thing does not patrol the Courtyard or the Darkest Dungeon ; however, it may (fittingly) appear as a random boss in the Farmstead . Behaviour The encounter with the Thing from the Stars is largely defined by Return to the Stars , an Auto-Action (free action) that it uses at the beginning of every round starting from the second round onwards. Return to the Stars summons a Crystalline Aberration , inflicts Stress on the entire party, cures the Thing of Bleed and Blight , deals a small amount of damage to the Thing itself, and applies a number of very powerful Buffs to the Thing for the remainder of the battle: Buff (1 Battle): If HP below 45%: +80% PROT +6 SPD +40% DMG +13% CRIT Note that Return to the Stars , being a free action, does not trigger Bleed or Blight damage before curing them. The Crystalline Aberration , if left alive, will self-destruct, inflicting heavy Stress and damage on the party. After Return to the Stars , the Thing has two regular turns per round. All of the Thing's attacks inflict significant Stress on the target. Vorpal Strike and Phase Gnaw are its primary damaging attacks: Vorpal Strike can hit any position with high damage and CRIT chance. Phase Gnaw can only hit the first two ranks and has lower direct damage, but deals a lot of Blight (the single highest amount in the game) and may also infect the hero with Sky Taint , a Disease that further lowers Bleed and Blight resistance and increases Stress received. Additionally the Thing has a number of powerful stuns and debuffs— Paralysing Shard , Weakening Shard , and Transfixing Shard . Each of these has a 1-turn cooldown, and will never be used twice in the same round. The Thing has an unforgiving set of targeting biases, prioritizing heroes with the lowest stun resistance with Paralysing Shard and stressed heroes with Phase Gnaw . Strategy Dealing with the Second Phase The primary challenge when fighting the Thing from the Stars is dealing with its second phase quickly. When at or below 45% health, the Thing gains a ridiculous buff of +80% PROT that, in the worst case, could make the second phase of the fight last five times as long as the first phase. This is an especially difficult prospect given the Thing's high damage and stress output. Conventionally there are two ways to approach the second phase—ignoring PROT, or reducing it. Ignoring PROT Damage-over-time attacks are very effective against the Thing's second phase as they ignore PROT entirely. One challenge is that Return to the Stars automatically clears all Bleed and Blight at the beginning of each round, limiting DOTs to at most two turns as opposed to the usual three. In order to maximise DoTs characters must have enough Speed and luck to act before the Thing's first turn, right after Return to the Stars . Acting after the Thing's first turn will cause the DOT to only tick for one turn, and in the worst case, a DOT that is applied after the Thing's second turn will deal no damage at all. One effective combination using damage-over-time attacks is the classic Flagellant - Plague Doctor combo. Both are extremely fast and deal the most Bleed and Blight , respectively, amongst all heroes; they also have ways of dealing with the Thing's high Stress output, clearing Blight , healing, and removing Disease . This is all in addition to the two heroes' strong innate synergies, which will make completing the rest of the expedition easier. Outside of Bleed and Blight , the Shieldbreaker's Pierce and Grave Robber's Pick to the Face also completely ignore PROT. One problem, however, is that both of those skills deal comparatively low damage, particularly in the early game. The Apprentice level Plague Grenade , for example, can consistently deal 10 damage per round to the Thing; but Pick to the Face struggles to get close to that amount. Not to mention, both the Shieldbreaker and Grave Robber have low survivability compared to other heroes. Still, solely because of their PROT piercing, they are strong options compared to other damage dealers. Reducing PROT Debuffs can also reduce the Thing's PROT to a manageable level. The Houndmaster's Target Whistle stands out as the most useful of these: It has a staggeringly high debuff chance, 130% at base—the highest in the game. This means that the debuff can be applied consistently without any additional trinket investment. The PROT debuff applies for four turns, one turn longer than usual. Even with the Thing's multiple turns per round, it is easy to stack the debuff, doubling its effectiveness. Lastly, it applies a Mark . This works well with the Houndmaster's strong synergy with other -based damage dealers like the Arbalest and the Bounty Hunter . The Shieldbreaker's camping skill, Snake Eyes , also grants all the Shieldbreaker's companions a small amount of PROT piercing. The skill is quite efficient in that it stacks with all other sources of PROT reduction and, as a camping buff, does not need to be reapplied every round. Dodge Since Return to the Stars deals a small amount of damage to the Thing every round, it is possible in theory to outlast the Thing until it simply… returns to the stars. In practice, however, this is quite difficult given the Thing's high damage output. One possible approach is to stack Dodge buffs (e.g. the Man-at-Arms Bolster and the Antiquarian's Invigorating Vapours ), a tactic that trivialises much of the rest of the game. Note however, that Return to the Stars has extremely high accuracy, making it effectively undodgeable, and so the party is likely to suffer a lot of Stress in the process. Slow Stunning One challenge when fighting the Thing from the Stars is action efficiency—constantly dealing damage while keeping heroes from dying. For example, each round at least one hero turn must be spent destroying the Crystalline Aberration, leaving only three turns for attacking the Thing or sustaining the party. It is in fact possible, however, to prevent the Thing from using Return to the Stars entirely: if the Thing is stunned after its second turn, it will begin the next round stunned, thereby skipping both Return to the Stars and its first normal turn. This is extremely action-efficient: It saves the team from needing to destroy the Crystalline Aberration that would otherwise be spawned. It prevents the Thing from clearing damage-over-time effects, making Bleed and Blight more effective. It prevents half of the Thing's regular attacks, not to mention the party-wide stress from Return to the Stars , making the battle much less punishing. The main difficulty with this strategy is having a hero with a sufficiently low SPD and high stun chance. One way to achieve this is to consume The Blood , which debuffs a non-cursed hero by a massive -8 SPD, greatly increasing the chance that they will act last. The Blood also reduces the hero's HP, allowing them to take advantage of the +40% Stun Skill Chance bonus from the Crystalline Fang . Many heroes can reach 200% or higher stun chance with this method, enough to disable the Thing fairly often. It is in fact possible to completely bypass the Thing's second phase with this method: since the Thing's powerful self-buffs are only applied when Return to the Stars is used for the first time, if it is stunned at the end of every round, then it will never enter the second phase. This is difficult to execute, requiring the right skills, trinkets, and a little luck, but can make the fight much, much easier. Avoiding the Thing From a strategic perspective, it is often better to avoid the Thing from the Stars entirely, especially during the early weeks when there are few heroes in the roster who can deal with it effectively. Fortunately, this is quite easy to do—one may simply avoid the Farmstead until the roster is sufficiently developed; or avoid the dungeon where the Thing is patrolling; or, barring that, avoid any suspicious-looking hallways with multiple battles. Loot After defeating the Thing from the Stars, the party will receive 15, 20, or 25 Comet Shards alongside a randomized amount of gold. The Thing may additionally drop one of its unique Trinkets or Ancestor Trinket. The exact chance is 1/7 (~14%) on Veteran missions, and 1/5 (20%) on Champion. There is an equal chance the Thing will drop a Memory on death instead, which is otherwise only obtainable by defeating The Sleeper . Neither will drop in Apprentice missions. Thing's Mesmerizing Eye Crystalline Fang Phase Shifting Hide Prismatic Heart Crystal +4% CRIT if HP above 41% +8% CRIT if HP below 40% +10% Stun Skill Chance if HP above 40% +40% Stun Skill Chance if HP below 41% -15% Stress if HP above 41% -50% Stress if HP below 40% +35% Blight Skill Chance vs Thing +35% Bleed Skill Chance vs Thing +12% CRIT vs Thing Prismatic Quirks If the Thing is defeated, at the end of the expedition one hero will acquire a prismatic quirk from the list below. Prismatic quirks are unique : each can only be present on one hero in the entire roster. The rewarded quirk will always be the first one in the list below that is not present on any hero. A prismatic quirk is automatically locked when acquired, and the Sanitarium will only offer the option to remove it—and since prismatic quirks are unique, this is the only way to allow another hero to gain the prismatic quirk. Defeating the Thing in the Farmstead will also cause a hero to gain a prismatic quirk. The following list is of the quirks in the order they can be obtained, and their effects: Abilities Gallery Thing from the Stars' combat animation Idle stance Thing from the Stars using Return to the Stars Thing from the Stars using Phase Gnaw Thing from the Stars using Paralysing Shard , Transfixing Shard , and Weakening Shard Thing from the Stars using Vorpal Strike Thing from the Stars defending Thing from the Stars' corpse Trivia The Thing from the Stars may be a reference to H.P. Lovecraft's "The Colour Out of Space." It can be seen to have incorporated the body parts of at least two small humans and a large farm animal, the same as were found in the farmstead well at the end of Lovecraft's story. The move "Vorpal Strike" may be a reference to the Lewis Caroll poem "Jabberwocky" which is a nonsense poem describing a fight against a powerful beast called the Jabberwock. It specifically references the line "He took his vorpal sword in hand", vorpal itself being a portmanteau of the words vortex and portal. view Bosses Regional Necromancer Prophet Hag Brigand Pounder Swine Prince Flesh Siren Drowned Crew Roaming / Event Shambler Collector Fanatic Thing from the Stars Shrieker Brigand Vvulf Boss Minions Cauldron Brigand Matchman Shambler Wilbur Drowned Anchorman Shrieker's Nest Barrel O' Bombs Courtyard Baron Viscount Countess Crocodilian Garden Guardian Farmstead Miller Fracture Sleeper Darkest Dungeon Spoilers Shuffling Horror Templar Impaler Templar Warlord Mammoth Cyst Ancestor Heart of Darkness References ↑ https://www.youtube.com/watch?v=H5MYRkgFoXk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+[Íconos: Panel monster indicator.png] Positive Quirks
+
+Prismatic Isolation | +25%DebuffResist
+
+Prismatic Stability | +25%MoveResist
+
+Prismatic Solidity | +25%StunResist
+
+Prismatic Coagulation | +25%BleedResist
+
+Prismatic Purity | +25%BlightResist
+
+Prismatic Calm | -30%Stress
+
+Prismatic Force | +15% DMG
+
+Prismatic Speed | +3 SPD
+
+Prismatic Precision | +4% CRIT
+
+Prismatic Eye | +8 ACC
+
+Husk Slayer | +10 ACC and +5% CRIT vsHusk
+
+Scythemaster | +15% DMG vs Husk
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Return to the Stars | Ranged | 1,2,3,4 | 1+2+3+4 | 202.5% | 0% | 0 | [Íconos: Summon, Stress] Summon 1Crystalline Aberration60%Stress+7 | [Íconos: Deathavoided.png, Skill attribute cure.png] Lose 5 HPCureBlight/Bleed | 
+
+Phase Gnaw | Melee | 1,2,3,4 | 1,2 | 92.5% | 2% | 3-5Armor Piercing | [Íconos: Stress, Blight, Disease] Stress+14110%Blight520%Disease: Sky Taint |  | 
+
+Vorpal Strike | Melee | 1,2,3,4 | 1,2,3,4 | 97.5% | 10% | 6-9 | [Íconos: Stress] Stress+9 |  | 
+
+Paralysing Shard | Ranged | 1,2,3,4 | 1,2,3,4 | 97.5% | 6% | 1 | [Íconos: Stress, Stun] Stress+11115%Stun |  | 
+
+Weakening Shard | Ranged | 1,2,3,4 | 1,2,3,4 | 102.5% | 6% | 1 | [Íconos: Stress, Debuff] Stress+11115%Debuff: -20%Stun,Blight,Bleed,DebuffResist (4 rds) |  | 
+
+Transfixing Shard | Ranged | 1,2,3,4 | 1,2,3,4 | 97.5% | 6% | 1 | [Íconos: Stress, Debuff] Stress+11115%Debuff: -4 SPD, -25% DMG (4 rds) |  | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Return to the Stars | Ranged | 1,2,3,4 | 1+2+3+4 | 208.75% | 0% | 0 | [Íconos: Summon, Stress] Summon 1Crystalline Aberration60%Stress+7 | [Íconos: Deathavoided.png, Skill attribute cure.png] Lose 7 HPCureBlight/Bleed | 
+
+Phase Gnaw | Melee | 1,2,3,4 | 1,2 | 98.75% | 6% | 5-6Armor Piercing | [Íconos: Stress, Blight, Disease] Stress+14130%Blight622%Disease: Sky Taint |  | 
+
+Vorpal Strike | Melee | 1,2,3,4 | 1,2,3,4 | 103.75% | 11% | 9-12 | [Íconos: Stress] Stress+9 |  | 
+
+Paralysing Shard | Ranged | 1,2,3,4 | 1,2,3,4 | 103.75% | 12% | 2 | [Íconos: Stress, Stun] Stress+11135%Stun |  | 
+
+Weakening Shard | Ranged | 1,2,3,4 | 1,2,3,4 | 108.75% | 12% | 2 | [Íconos: Stress, Debuff] Stress+11135%Debuff: -20%Stun,Blight,Bleed,DebuffResist (4 rds) |  | 
+
+Transfixing Shard | Ranged | 1,2,3,4 | 1,2,3,4 | 103.75% | 12% | 2 | [Íconos: Stress, Debuff] Stress+11135%Debuff: -5 SPD, -25% DMG (4 rds) |  | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Return to the Stars | Ranged | 1,2,3,4 | 1+2+3+4 | 220% | 0% | 0 | [Íconos: Summon, Stress] Summon 1Crystalline Aberration60%Stress+7 | [Íconos: Deathavoided.png, Skill attribute cure.png] Lose 9 HPCureBlight/Bleed | 
+
+Phase Gnaw | Melee | 1,2,3,4 | 1,2 | 110% | 9% | 6-8Armor Piercing | [Íconos: Stress, Blight, Disease] Stress+14150%Blight725%Disease: Sky Taint |  | 
+
+Vorpal Strike | Melee | 1,2,3,4 | 1,2,3,4 | 115% | 12% | 11-16 | [Íconos: Stress] Stress+9 |  | 
+
+Paralysing Shard | Ranged | 1,2,3,4 | 1,2,3,4 | 115% | 14% | 2 | [Íconos: Stress, Stun] Stress+11155%Stun |  | 
+
+Weakening Shard | Ranged | 1,2,3,4 | 1,2,3,4 | 120% | 14% | 2 | [Íconos: Stress, Debuff] Stress+11155%Debuff: -20%Stun,Blight,Bleed,DebuffResist (4 rds) |  | 
+
+Transfixing Shard | Ranged | 1,2,3,4 | 1,2,3,4 | 117.5% | 14% | 2 | [Íconos: Stress, Debuff] Stress+11155%Debuff: -6 SPD, -25% DMG (4 rds) |  | 
+
+
