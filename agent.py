@@ -159,14 +159,14 @@ def create_agent(priorities: list[str] | None = None) -> dspy.Module | None:
     web_search_tool = dspy.Tool(
         name="web_search",
         # ===> (1.1.2) YOUR web_search_tool TOOL DESCRIPTION HERE
-        desc="Performs a web search for the given query and returns the results.",
+        desc="Executes a web search using only the provided keywords, focusing on gathering broad, general information rather than precise or detailed results. Example: Instead of searching for 'Darkest Dungeon Crate interaction without cleansing effects details,' it simply searches for 'crate.'",
         func=lambda query: web_search_tool_fn(query),
     )
 
     local_search_tool = dspy.Tool(
         name="local_search",
         # ===> (1.1.2) YOUR local_search_tool TOOL DESCRIPTION HERE
-        desc="Performs a local search for the given query and returns the results.",
+        desc="Executes a local search based solely on the provided keywords, retrieving general contextual information instead of targeting specific data. Example: Instead of searching for 'Darkest Dungeon Crate interaction without cleansing effects details,' it simply searches for 'crate.'",
         func=lambda query: rag_tool(query),
     )
 
