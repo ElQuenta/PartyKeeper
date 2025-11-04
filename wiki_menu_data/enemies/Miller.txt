@@ -1,0 +1,79 @@
+TÍTULO: Miller
+URL: https://darkestdungeon.wiki.gg/wiki/Miller
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:15:44
+
+================================================================================
+
+This article or section may contain spoilers about The Color of Madness DLC . You might want to avoid reading further if you don't want to spoil the surprise for yourself! Miller Enemy Type Poor Soul Size Large (2) Actions per round Stats Variation Miller Miller HP 143 181 HP (Stygian/Bloodmoon) 172 218 Dodge 13.75 26.25 Protection 20 20 Speed 5 6 Stealth No No Resistances Stun 95% 115% Blight 60% 80% Bleed 220% 240% Debuff 60% 80% Move 70% 90% Frozen Farmhand Enemy Type Husk Size Average (1) Actions per round Stats Variation Frozen Farmhand Frozen Farmhand HP 25 35 HP (Stygian/Bloodmoon) 30 42 Dodge 0 0 Protection 35 35 Speed 2 3 Stealth No No Resistances Stun 70% 90% Blight 20% 40% Bleed 70% 90% Debuff 70% 90% Move 20% 40% “ '' The poor Miller — thrice a victim. The seasons took his livelihood, I took his land , and now, uncountable years later, the comet has taken his humanity. My only regret is that I did not live to see that shoddy mill smashed to pieces by the miraculous bounty I reaped from beyond the void. „ ~ The Ancestor The Miller is a boss found within the Farmstead . He must be defeated to unlock the Endless Harvest mode, and is also always the first boss encountered on every Endless Harvest run. Contents 1 Behavior 2 Strategy 3 Abilities 4 Barks 5 Gallery Behavior The Miller has a versatile set of skills, with his most offensive attack being The Reaping , a skill that inflicts heavy AoE damage, especially to heroes in the front. He can also summon various enemies from the Farmstead with The Master Beckons , including Scarecrows , Sleeper's Heralds , and Farmhands , with a cooldown of 7, 5, and 8 turns, respectively. The enemies the Miller summons do roll initiatives , and will be able to act as soon as they are summoned. If a Farmhand is present on the battlefield, the Miller will use Winter's Breath to transform it into a Frozen Farmhand , a unique enemy found only during this battle. The Frozen Farmhand will permanently guard the Miller, and disable all guard skills for heroes while it is alive. It also has a 0-damage attack called Hollow Keening that deals a fair bit of stress and Horror . If it survives for 3 or more turns, it may use The Soil Thaws to revert itself back to a normal Farmhand. The Miller also has the rarely-used ability The Harvest , which can only be used if at least one hero has over 50 stress, and the Miller is below 70% health. It is very unique in that it will actually heal a hero's stress, while giving the Miller a modest heal and a short buff for +15% PROT. It has a cooldown of 4 turns. Lastly, an important note about this battle is the existence of the trinket Mildred's Locket (obtained from interacting with the husk of the Miller's wife, Mildred , might be found before the battle). Equipping it will have the unique effect of giving the Miller a new ability, Immortal Beloved , which debuffs himself by removing his inherent PROT for a short time. Additionally, the hero with Mildred's Locket takes no damage from The Reaping , and deals +40% extra damage to the Miller. The Miller has fairly long cooldowns on all of his abilities except for The Reaping . This can create a situation where the only ability the Miller can use is The Reaping , and he will use it twice in one round, which can be very painful for the party. Strategy The Miller is a very powerful soul, considering his nature as a shriveled husk. He has fairly high HP, 20% PROT, and a number of powerful moves. It would be more than ideal to equip one of your heroes with Mildred's Locket, which you may find before his fight (or bring it with you, if on Endless mode), as the debuff the Miller gives himself with Immortal Beloved will give a much-needed offensive boost to the party. It is recommended to give the Locket to someone in the front ranks, both because The Reaping deals the most damage there and heroes with the Locket deal significantly more damage to the Miller. The Miller has two actions per round, and when the battle begins he will most likely use The Master Beckons to summon a Farmhand, which he will transform on his second action with Winter's Breath . The Frozen Farmhand created from Winter's Breath is typically only a minor nuisance; it will disable guard skills for the heroes (but not remove existing guards), but the most damaging attack in the battle ( The Reaping ) will bypass guards anyway since it targets the whole party. The more annoying effect of the Frozen Farmhand's presence is that it guards the Miller until defeated (or reverted back to a normal Farmhand). It has 35% PROT, but relatively low HP and resistances, particularly against blight . Destroying his summons can mitigate the Miller's damage output, as he will often spend at least one turn summoning a new enemy, most likely a Sleeper's Herald . However, his cooldowns will all but guarantee that at some point he will use The Reaping multiple times in quick succession, as that may be the only move he has available. His large damage output can quickly destroy even a full health party in short order, so be ready to give out some very necessary heals, especially with very low-HP heroes like the Jester or Occultist . The Miller is effectively immune to bleed (disregarding debuffs), but weak to blight, favoring a party with Plague Doctors or Shieldbreakers , who both can deal significant blight to the Miller regardless of their position. The Shieldbreaker has the bonus of being able to pierce through the Miller's inherent PROT, and disabling the Frozen Farmhand's guard with Puncture . An additional strategy is to use a Bounty Hunter with Mildred's Locket; a single crit with Collect Bounty on a marked Miller can easily take off a quarter to a third of his health. However, be warned that the Miller's 2 actions per round will reduce the effective duration of the mark , and Frozen Farmhands using guard will further interfere with this strategy. Abilities Miller Frozen Farmhand Miller Frozen Farmhand * Can only target a Farmhand . ** Used when a party member has Mildred's Locket Barks Some of the Miller's abilities trigger unique barks from targeted heroes. These are not class-specific. Skill Bark The Reaping "The ground itself thirsts for our blood!" "Ashes to ashes!" The Harvest* "My breath turns to ash!" Immortal Beloved "Is this the same man portrayed in the locket..?" "His grief causes my heart to quail in sympathy!" * This line is bugged and does not appear in-game, as the effect that is meant to trigger it doesn't actually target a hero, but the Miller himself. Gallery Miller's combat animation The Miller using The Reaping The Miller using The Harvest The Miller using Winter's Breath The Miller using The Master Beckons The Miller using Immortal Beloved The Miller defending The Miller's corpse Frozen Farmhand's combat animation view Bosses Regional Necromancer Prophet Hag Brigand Pounder Swine Prince Flesh Siren Drowned Crew Roaming / Event Shambler Collector Fanatic Thing from the Stars Shrieker Brigand Vvulf Boss Minions Cauldron Brigand Matchman Shambler Wilbur Drowned Anchorman Shrieker's Nest Barrel O' Bombs Courtyard Baron Viscount Countess Crocodilian Garden Guardian Farmstead Miller Fracture Sleeper Darkest Dungeon Spoilers Shuffling Horror Templar Impaler Templar Warlord Mammoth Cyst Ancestor Heart of Darkness
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+The Reaping | Melee | 1,2,3,4 | 1+2+3+4 | 103.75% | 8% | 6-10 vs Rank 15-8 vs Rank 25-7 vs Rank 32-4 vs Rank 4 |  |  | 
+
+The Harvest | Melee | 1,2,3,4 | 1,2,3,4 | 103.75% | 0% | 3-5 | [Íconos: Stress Heal] Stress-5 | [Íconos: Heal, Buff] Heal15Buff: +15% PROT (2 rds) | 
+
+The Master Beckons | Support | 1,2,3,4 | Self |  |  |  | [Íconos: Summon] Summon 1Scarecrow,Farmhand, orSleeper's Herald |  | 
+
+Winter's Breath* | Support | 1,2,3,4 | 1,2,3,4(allies) |  |  |  | [Íconos: Panel monster newmove.png] TransformFarmhandintoFrozen Farmhand |  | 
+
+Immortal Beloved** | Ranged | 1,2,3,4 | 1,2,3,4 | 208.75% | 0% | 2 | -15%Stress(3 rds) | [Íconos: Debuff] Debuff: -20% PROT | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Hollow Keening | Ranged | 1,2,3,4 | 1,2,3,4 | 92.5% | 0% | 0 | [Íconos: Stress, Horror] Stress+5Horror5 |  | 
+
+The Soil Thaws | Support | 1,2,3,4 | Self |  |  |  |  | [Íconos: Panel monster newmove.png] Transform back intoFarmhand | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Darkest Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+The Reaping | Melee | 1,2,3,4 | 1+2+3+4 | 115% | 10% | 8-14 vs Rank 17-12 vs Rank 27-12 vs Rank 34-7 vs Rank 4 |  |  | 
+
+The Harvest | Melee | 1,2,3,4 | 1,2,3,4 | 115% | 0% | 4-7 | [Íconos: Stress Heal] Stress-7 | [Íconos: Heal, Buff] Heal20Buff: +15% PROT (2 rds) | 
+
+The Master Beckons | Support | 1,2,3,4 | Self |  |  |  | [Íconos: Summon] Summon 1Scarecrow,Farmhand, orSleeper's Herald |  | 
+
+Winter's Breath* | Support | 1,2,3,4 | 1,2,3,4(allies) |  |  |  | [Íconos: Panel monster newmove.png] TransformFarmhandintoFrozen Farmhand |  | 
+
+Immortal Beloved** | Ranged | 1,2,3,4 | 1,2,3,4 | 222.5% | 0% | 2 | -15%Stress(3 rds) | [Íconos: Debuff] Debuff: -20% PROT | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Darkest Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Hollow Keening | Ranged | 1,2,3,4 | 1,2,3,4 | 102.5% | 0% | 0 | [Íconos: Stress, Horror] Stress+8Horror6 |  | 
+
+The Soil Thaws | Support | 1,2,3,4 | Self |  |  |  |  | [Íconos: Panel monster newmove.png] Transform back intoFarmhand | 
+
+

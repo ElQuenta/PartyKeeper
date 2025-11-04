@@ -1,0 +1,193 @@
+TÍTULO: Collector
+URL: https://darkestdungeon.wiki.gg/wiki/Collector
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:15:19
+
+================================================================================
+
+The Collector Enemy Type Human / Eldritch Size 1 Actions per round Stats Variation The Collector The Collector The Collector HP 70 98 137 HP (Stygian/Bloodmoon) 84 118 165 Dodge 0 8.75 21.25 Protection 0 0 0 Speed 5 6 7 Resistances Stun 50% 70% 90% Blight 20% 40% 60% Bleed 20% 40% 60% Debuff 20% 40% 60% Move 25% 45% 65% Collected Highwayman Enemy Type Eldritch Size 0 Actions per round Stats Variation Collected Highwayman Collected Highwayman Collected Highwayman HP 16 22 31 HP (Stygian/Bloodmoon) 20 27 38 Dodge 7.5 16.25 28.75 Protection 0 0 0 Speed 3 4 5 Resistances Stun 25% 45% 65% Blight 40% 60% 80% Bleed 40% 60% 80% Debuff 15% 35% 55% Move 10% 30% 50% Collected Man-at-Arms Enemy Type Eldritch Size 0 Actions per round Stats Variation Collected Man-at-Arms Collected Man-at-Arms Collected Man-at-Arms HP 16 22 31 HP (Stygian/Bloodmoon) 20 27 38 Dodge 7.5 16.25 28.75 Protection 0 0 0 Speed 7 8 9 Resistances Stun 25% 45% 65% Blight 40% 60% 80% Bleed 40% 60% 80% Debuff 15% 35% 55% Move 10% 30% 50% Collected Vestal Enemy Type Eldritch Size 0 Actions per round Stats Variation Collected Vestal Collected Vestal Collected Vestal HP 16 22 31 HP (Stygian/Bloodmoon) 20 27 38 Dodge 7.5 16.25 28.75 Protection 0 0 0 Speed 5 6 7 Resistances Stun 25% 45% 65% Blight 40% 60% 80% Bleed 40% 60% 80% Debuff 15% 35% 55% Move 10% 30% 50% This article is about the miniboss in Darkest Dungeon . For its appearance in the sequel, see The Collector (Darkest Dungeon II) . “ The twisted faces of the damned, piled high, and cloaked in malice. „ ~ The Ancestor The Collector is an Eldritch / Human miniboss who has a 3%, 4%, or 5% chance, depending on difficulty, to spawn if the inventory is at least 79% full (that is, thirteen slots full). It is notable for being able to summon "Collected" versions of the Highwayman , Man-at-Arms , and Vestal , with the Collected Highwayman in particular being one of the most damaging non-boss enemies in the game. When defeated, the Collector will drop either a Puzzling Trapezohedron (worth 3,500 gold), or one of three unique and powerful trinkets : Dismas' Head, Barristan's Head, or Junia's Head . Contents 1 Behavior 2 Abilities 3 Rewards 4 Strategy 5 Gallery 6 Trivia Behavior The Collector is guaranteed to use Collect Call on his first turn, spawning a combination of Collected Highwaymen, Collected Men-at-Arms, and Collected Vestals. There is a 3/7 (~43%) chance to spawn a Collected Highwayman, a 2/7 (~28.5%) chance for a Collected Man-at-Arms, and a 2/7 (~28.5%) chance for a Collected Vestal. At most one Vestal or Man-at-Arms can be present at any time, while Highwaymen are limited to two. The Collector is more likely to use Collect Call if there are fewer Collected present: He has a base 3x chance to use it if there are 2 Collected left. The chance increases to 9x if there is 1 Collected left. He is guaranteed to use it if there are no Collected Highwaymen, or if no Collected are left. Aside from Collect Call , the Collector will also use Show Collection and Life Steal , with a slight bias towards Show Collection . Collected Highwaymen have only one skill, Headhunt , which can target any position, with a 3x higher chance to target heroes with Mark . The Collected Man-at-Arms can only use its Guard , Head Games , if there is at least one other Collected alive aside from itself; it will almost always guard either the Collector or a Collected Highwayman. Head Games has a 2x chance to be used over Head Knocker , which has no biases towards targeting. The Collected Vestal normally has a 2x chance for either its Buff Headache or its stress attack Head Rush , and a 1x chance for its healing skill Headstrong . It has a significant bias to buff (2x) or heal (5x) the Collector. Otherwise, it will usually buff a Collected Highwayman (4x) or just use Head Rush . When the Collector is killed, all the Collected will die as well. Abilities The Collector Collected Highwayman Collected Man-at-Arms Collected Vestal The Collector Collected Highwayman Collected Man-at-Arms Collected Vestal The Collector Collected Highwayman Collected Man-at-Arms Collected Vestal Rewards The Collector has a 3/4 chance to drop a Puzzling Trapezohedron and a 1/4 chance to drop one of the collected head trinkets . An estate can only have one of each head in the inventory, so after all three head trinkets have been acquired, the Collector will only drop Trapezohedrons. Dismas' Head Barristan's Head Junia's Head +25% DMG -10% MAX HP +20% Stress +25% PROT +20% Stress +30% Healing Skills +20% Stress Strategy The Collector is generally considered an easy boss, with the main difficulty being that he appears more or less at random. This makes him especially dangerous in the early weeks (while heroes are still at Resolve Level 0 and have few upgraded skills or equipment), or after a difficult fight when the team is already at low health or high stress . As the most commonly encountered boss in the game, strategies effective against the Collector are also strong strategies in Darkest Dungeon as a whole. The Collector effectively serves as a test for whether the party can accomplish the following: Can the party deal enough damage on the back ranks? Does the party have any stuns, or enough crowd control skills to shut down dangerous enemies? Do all heroes have above a certain minimum threshold of health? The Collector will continuously summon and re-summon minions, pushing him back to rank 4. Thus the party will need be able to deal damage to the back ranks to kill him quickly. Alternatively one may take advantage of the Collector's low Move resistance to pull him forward. An effective strategy is to try to Stun the Collector on turn 1 before he can summon any minions. He has relatively low Stun resistance and health for a miniboss, so getting a free turn to deal damage to him will essentially trivialise the fight. A stun skill with a +stun chance trinket can usually reach an 80% chance to stun him. By far the biggest challenge when facing the Collector is the Collected Highwaymen. Headhunt is one of the most damaging non-boss attacks in the game and has high Critical Hit chance; it can easily bring a hero to Death's Door , with subsequent the Bleed damage or another attack killing them. It is highly recommended to Stun or disable Collected Highwaymen whenever they appear, then kill them as quickly as possible. It is also recommended to raise each hero's maximum health so that they can survive a critical Headhunt plus one tick: Safe HP Thresholds Difficulty HP Apprentice 20 Veteran 26 Champion 34 In fact, Headhunt belongs to a category of skills (along with the Brigand Bloodletter 's Point Black Shot , the Swinetaur 's Boar Rush , and a few others) that have similar maximum damage values. The safe HP thresholds above will allow a hero to survive all of these attacks with at least 1 HP. The Collected Vestal and Man-at-Arms are comparatively less dangerous. The Man-at-Arms' Guard can be countered with Stun s as usual. The Vestal's Buff can be potentially quite dangerous when applied to the Highwayman or the Collector himself. However, one can control the behaviour of both by simply stunning and killing the Highwayman, preventing him from attacking and at the same time forcing the Collector to use Collect Call . Gallery The Collector's combat animation The Collector using Collect Call The Collector using Show Collection The Collector using Life Steal The Collector defending The Collector's corpse Collected Highwayman's combat animation Collected Man-at-Arms's combat animation Collected Vestal's combat animation Trivia The Collector was added in the Inhuman Bondage update, along with the Madman and Abomination . The Collector is a reference to Hastur, otherwise known as The King in Yellow. The Collector also bears a striking resemblance to the Bloodborne character Micolash, Host of the Nightmare, who also has a cage affixed to his head. The cage that the Collector wears was once a common form of torture employed for prisoners and lunatics. Spikes could be outfitted to the bottom of the cage to inflict additional pain on a subject being tortured should they attempt to crane their heads in response to pain. Additionally, some models featured sharpened spikes or spurs that projected from the horizontal cross-bars of the cage into the mouth, whereupon they dug into the tongue if the victim attempted to speak and were often fitted onto those accused of heresy or witchcraft. A variant called a "scold's bridle" or "the branks" was even employed to silence and humiliate housewives between the 1500-1700's by means of a curb plate which projected into mouth and pressed down upon the top of the tongue, preventing speech. The Collector's trinkets bear the predetermined names of the Highwayman (Dismas), Man-at-Arms (Barristan), and Vestal (Junia). This is especially evident for the Highwayman, since the one you start the game with is named Dismas. The Collector is the most recognizable boss enemy in the game and the game's global community due to its design. The Collector can sometimes be anticipated by one of the narrator's quotes prior to encountering it as a hallway fight. Despite leaving a corpse, the body itself cannot be targeted, has no health bar, and hides behind the 1st enemy position. It is unknown if this is intentional or a glitch. The corpse itself also only disappears after combat, and may be the only enemy to leave a corpse if he is the only enemy left when slain. view Bosses Regional Necromancer Prophet Hag Brigand Pounder Swine Prince Flesh Siren Drowned Crew Roaming / Event Shambler Collector Fanatic Thing from the Stars Shrieker Brigand Vvulf Boss Minions Cauldron Brigand Matchman Shambler Wilbur Drowned Anchorman Shrieker's Nest Barrel O' Bombs Courtyard Baron Viscount Countess Crocodilian Garden Guardian Farmstead Miller Fracture Sleeper Darkest Dungeon Spoilers Shuffling Horror Templar Impaler Templar Warlord Mammoth Cyst Ancestor Heart of Darkness
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Collect Call | Support | 1,2,3,4 | Self |  |  |  | [Íconos: Summon] Summon 3 Collected |  | 
+
+Show Collection | Melee | 1,2,3,4 | 1+2 | 92.5% | 0% | 1 | [Íconos: Stress] 80%Stress+10 |  | 
+
+Life Steal | Ranged | 1,2,3,4 | 3,4 | 82.5% | 16% | 3-7 | [Íconos: Bleed, Mark] 100%Bleed2MarkTarget (2 rds) | [Íconos: Heal] Heal10 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Headhunt | Melee | 1,2,3,4 | 1,2,3,4 | 87.5% | 12% | 5-11 | [Íconos: Bleed] 100%Bleed2 |  | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Head Games | Support | 1,2,3,4 | 1,2,3,4(allies) |  |  |  | [Íconos: Guard] GuardAlly (2 rds) | [Íconos: Buff] Buff: +25% PROT | 
+
+Head Knocker | Melee | 1,2,3,4 | 1,2,3,4 | 92.5% | 2% | 3-7 | [Íconos: Stun] 100%Stun |  | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Headstrong | Support | 1,2,3,4 | 1,2,3,4(allies) |  |  |  | [Íconos: Heal] Heal6-12 |  | 
+
+Headache | Support | 1,2,3,4 | 1,2,3,4(allies) |  |  |  | [Íconos: Buff] Buff: +10 ACC, +10% CRT, +50% DMG |  | 
+
+Head Rush | Ranged | 1,2,3,4 | 1,2,3,4 | 97.5% | 2% | 2-4 | [Íconos: Stress] Stress+10 |  | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Collect Call | Support | 1,2,3,4 | Self |  |  |  | [Íconos: Summon] Summon 3 Collected |  | 
+
+Show Collection | Melee | 1,2,3,4 | 1+2 | 98.75% | 0% | 1-2 | [Íconos: Stress] 80%Stress+10 |  | 
+
+Life Steal | Ranged | 1,2,3,4 | 3,4 | 88.75% | 22% | 5-9 | [Íconos: Bleed, Mark] 110%Bleed2MarkTarget (2 rds) | [Íconos: Heal] Heal14 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Headhunt | Melee | 1,2,3,4 | 1,2,3,4 | 93.75% | 16% | 7-15 | [Íconos: Bleed] 110%Bleed2 |  | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Head Games | Support | 1,2,3,4 | 1,2,3,4(allies) |  |  |  | [Íconos: Guard] GuardAlly (2 rds) | [Íconos: Buff] Buff: +25% PROT | 
+
+Head Knocker | Melee | 1,2,3,4 | 1,2,3,4 | 98.75% | 6% | 5-9 | [Íconos: Stun] 110%Stun |  | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Headstrong | Support | 1,2,3,4 | 1,2,3,4(allies) |  |  |  | [Íconos: Heal] Heal8-14 |  | 
+
+Headache | Support | 1,2,3,4 | 1,2,3,4(allies) |  |  |  | [Íconos: Buff] Buff: +10 ACC, +10% CRT, +50% DMG |  | 
+
+Head Rush | Ranged | 1,2,3,4 | 1,2,3,4 | 103.75% | 6% | 3-5 | [Íconos: Stress] Stress+10 |  | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Collect Call | Support | 1,2,3,4 | Self |  |  |  | [Íconos: Summon] Summon 3 Collected |  | 
+
+Show Collection | Melee | 1,2,3,4 | 1+2 | 112.5% | 0% | 1-3 | [Íconos: Stress] 80%Stress+10 |  | 
+
+Life Steal | Ranged | 1,2,3,4 | 3,4 | 102.5% | 24% | 6-13 | [Íconos: Bleed, Mark] 120%Bleed3MarkTarget (2 rds) | [Íconos: Heal] Heal18 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Headhunt | Melee | 1,2,3,4 | 1,2,3,4 | 107.5% | 19% | 10-20 | [Íconos: Bleed] 120%Bleed3 |  | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Head Games | Support | 1,2,3,4 | 1,2,3,4(allies) |  |  |  | [Íconos: Guard] GuardAlly (2 rds) | [Íconos: Buff] Buff: +25% PROT | 
+
+Head Knocker | Melee | 1,2,3,4 | 1,2,3,4 | 112.5% | 9% | 6-13 | [Íconos: Stun] 120%Stun |  | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Headstrong | Support | 1,2,3,4 | 1,2,3,4(allies) |  |  |  | [Íconos: Heal] Heal10-18 |  | 
+
+Headache | Support | 1,2,3,4 | 1,2,3,4(allies) |  |  |  | [Íconos: Buff] Buff: +10 ACC, +10% CRT, +50% DMG |  | 
+
+Head Rush | Ranged | 1,2,3,4 | 1,2,3,4 | 117.5% | 9% | 4-7 | [Íconos: Stress] Stress+10 |  | 
+
+

@@ -1,0 +1,52 @@
+TÍTULO: Bone Courtier
+URL: https://darkestdungeon.wiki.gg/wiki/Bone_Courtier
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:14:11
+
+================================================================================
+
+Bone Courtier Enemy Type Unholy Size 1 Actions per round Stats Variation Bone Courtier Bone Noble Bone Royalty HP 10 15 21 HP (Stygian/Bloodmoon) 12 18 26 Dodge 12.5% 21.25% 35% Protection 0% 0% 0% Speed 8 9 10 Resistances Stun 10% 30% 55% Blight 10% 30% 55% Bleed 200% 220% 245% Debuff 15% 35% 60% Move 10% 30% 55% Bone Courtier is an Unholy enemy found in the Ruins , and one of the first enemies encountered that specialize in dealing Stress damage. Though ill-suited for combat, their signature Tempting Goblet is a well-known source of stress in the earlier stages of the game. Contents 1 Behavior and strategy 2 Trinket 3 Abilities 4 Related Enemies 4.1 All Areas 4.2 Ruins 4.3 Boss 5 Gallery 6 Trivia Behavior and strategy Bone Courtier always appears at the back of an Unholy party. As long as he is in ranks 3 and 4, he continuously uses Tempting Goblet: a ranged attack that can hit any rank of the player's party that deals low health damage, while inflicting heavy stress . Since stress damage is harder to heal than health, leaving the Bone Courtier free to act will endanger the rest of the mission with the threat of affliction , especially if encountered early in longer expeditions; as such, he should be focused down as quickly as possible. His relatively high speed means it's not uncommon for him to attack first, making him an even bigger nuisance to deal with especially if you have slower heroes. As all skeletal monsters, Bone Courtier is virtually immune to bleeding , but not to blight : his low HP makes him a good target for blight attacks, if there is no faster way of dealing with him. His resistance to stun is also very low, and most unholy enemies are not particularly tough, so stunning him can be an effective method to keep him at bay while the front ranks protecting him are being decimated, if there is no option to attack him first. Another effective course of action against him is exploiting his low move resistance to place him in the front ranks of the enemy formation, thus impeding him from using his Tempting Goblet: when in the front ranks, the Bone Courtier will instead attack with Knife in the Dark; a weak melee ability that causes no stress and has limited damage potential. Unlike other "desperation attacks" of ranged enemies forced to the front, Knife in the Dark will not move the Courtier back, so landing a single move attack will usually render him close to useless for the rest of the fight. He can then be either focused down or left as the last enemy while now more dangerous foes are brought down with higher priority. It's important to note that if currently in the second rank of the formation, the Courtier can still be able to toss his Goblet, though the Knife attack can also be randomly selected. If bringing him to the absolute front is not viable, he should be focused down even when in second position. Shuffle or pull skills such as the Bounty Hunter or the Occultist are optimal for moving him to the front, while this can also be attained by a Plague Doctor equipped with Disorienting Blast, who can also stun him together with another foe in front of him. Trinket Bone Royalty (Champion level Courtiers) have a very low chance to drop a unique Trinket . Tempting Goblet +20% MAX HP +3 SPD +8 DODGE +25% Stress -10% Virtue chance Abilities Related Enemies All Areas Bone Rabble Ruins Bone Soldier Bone Arbalist Bone Defender Bone Captain Bone Spearman Bone Bearer Boss Necromancer Gallery Bone Courtier's combat animation Bone Courtier using "Tempting Goblet" Bone Courtier using "Knife in the Dark" Bone Courtier defending Bone Courtier's corpse. Trivia The Bone Courtier is regarded as one of the most iconic enemies in Darkest Dungeon , due largely to its distinctive design and appearance early in the game. "Knife in the Dark" is the name of one of the chapters in J.R.R. Tolkien's "The Fellowship of the Ring". view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Tempting Goblet | Ranged | 2, 3, 4. | 1, 2, 3, 4. | 92.5% | 0% | 2-4 | [Íconos: Tray afflicted.png] Stress+15 | No Effect | 
+
+Knife in The Dark | Melee | 1, 2. | 1, 2. | 62.5% | 6% | 2-4 | No Effect | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Tempting Goblet | Ranged | 2, 3, 4. | 1, 2, 3, 4. | 98.75% | 4% | 3-5 | [Íconos: Tray afflicted.png, Poptext debuff.png] Stress+15120%Debuff: -3% CRT | No Effect | 
+
+Knife in The Dark | Melee | 1, 2. | 1, 2. | 68.75% | 11% | 3-5 | No Effect | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Tempting Goblet | Ranged | 2, 3, 4. | 1, 2, 3, 4. | 112.5% | 7% | 4-8 | [Íconos: Tray afflicted.png, Poptext debuff.png] Stress+15140%Debuff: -5% CRT | No Effect | 
+
+Knife in The Dark | Melee | 1, 2. | 1, 2. | 82.5% | 12% | 4-8 | No Effect | No Effect | 
+
+

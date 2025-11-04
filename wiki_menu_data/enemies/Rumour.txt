@@ -1,0 +1,80 @@
+TÍTULO: Rumour
+URL: https://darkestdungeon.wiki.gg/wiki/Rumour
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:15:31
+
+================================================================================
+
+Almost every item that appears in Confessions mode also appears in Kingdoms , and additionally there some items exclusive to Kingdoms . Major changes include: Inn items buffs and debuffs normally last 3 regions as opposed to 1 region to compensate for regions being shorter in Kingdoms . However, food item effects still usually last for 1 region. Many items now heal Fatigue . Items related to Confessions -unique mechanics (like Candles of Hope and Flames ) do not appear. Contents 1 All Modules 1.1 Deliverables 1.2 Combat Items 1.3 Signature Items 1.4 Stagecoach Items 1.4.1 Trophies 2 Hunger of the Beast Clan 2.1 Combat Items 2.2 Inn Items 3 Secrets of the Coven 3.1 Combat Items 3.2 Inn Items 4 Curse of the Court 4.1 Combat Items 4.2 Inn Items 5 Excluded Items All Modules Deliverables Rumours are a Kingdoms-exclusive deliverable which have a hint and corresponding location which upon arrival will grant an indelible faction or hero trinket. Deliverable Region Hint Corresponding Node Rumour Tangle "I gave my possessions to a family for safekeeping..." "Heard the howling, got scared. Ditched everything in the hollow tree..." "The old man gave me this promissory note. Hope he's good for it..." "You'll find it behind the triage tent, under the wooden coffins..." "I stashed everything we'll need by the old fountain..." "That dilapidated study - there's a secret panel behind the desk on the second floor..." "Enjoy the view. Don't forget to look under the loose floorboard." Assistance Encounter Creature Den Hoarder Field Hospital Oasis Academic's Study Watchtower Rumour Sprawl "I gave my possessions to a family for safekeeping..." "Heard the howling, got scared. Ditched everything in the hollow tree..." "The old man gave me this promissory note. Hope he's good for it..." "You'll find it behind the triage tent, under the wooden coffins..." "I stashed everything we'll need by the old fountain..." "That dilapidated study - there's a secret panel behind the desk on the second floor..." "Enjoy the view. Don't forget to look under the loose floorboard." Assistance Encounter Creature Den Hoarder Field Hospital Oasis Academic's Study Watchtower Rumour Foetor "I gave my possessions to a family for safekeeping..." "Heard the howling, got scared. Ditched everything in the hollow tree..." "The old man gave me this promissory note. Hope he's good for it..." "You'll find it behind the triage tent, under the wooden coffins..." "I stashed everything we'll need by the old fountain..." "That dilapidated study - there's a secret panel behind the desk on the second floor..." "Enjoy the view. Don't forget to look under the loose floorboard." Assistance Encounter Creature Den Hoarder Field Hospital Oasis Academic's Study Watchtower Rumour Shroud "I gave my possessions to a family for safekeeping..." "Heard the howling, got scared. Ditched everything in the hollow tree..." "The old man gave me this promissory note. Hope he's good for it..." "You'll find it behind the triage tent, under the wooden coffins..." "I stashed everything we'll need by the old fountain..." "That dilapidated study - there's a secret panel behind the desk on the second floor..." "Enjoy the view. Don't forget to look under the loose floorboard." Assistance Encounter Creature Den Hoarder Field Hospital Oasis Academic's Study Watchtower Rumour Tundra "I gave my possessions to a family for safekeeping..." "Heard the howling, got scared. Ditched everything in the hollow tree..." "The old man gave me this promissory note. Hope he's good for it..." "You'll find it behind the triage tent, under the wooden coffins..." "I stashed everything we'll need by the old fountain..." "That dilapidated study - there's a secret panel behind the desk on the second floor..." "Enjoy the view. Don't forget to look under the loose floorboard." Assistance Encounter Creature Den Hoarder Field Hospital Oasis Academic's Study Watchtower Rumour Sluice "Heard the howling, got scared. Ditched everything in the hollow tree..." "That dilapidated study - there's a secret panel behind the desk on the second floor..." Creature Den Academic's Study Rumour Catacombs "Heard the howling, got scared. Ditched everything in the hollow tree..." "That dilapidated study - there's a secret panel behind the desk on the second floor..." Creature Den Academic's Study Combat Items Signal Flares Signal Flares are a unique combat item that add Peasant Militia units to the hero party for 1 combat on use. They can be purchased by upgrading the Barracks and getting the corresponding Signal Flare upgrade. Main article: Sieges Signature Items SIGNATURE ITEMS EFFECTS BARKS Bundle of Contracts "Business is good." [ 1 Target ] Bounty Hunter Gain On Killing Blow: +Relics (1 Region) I’m coming for you. All of you. Stagecoach Items Image Stagecoach Item Description Almanac: The Tundra Road Gear 40 In The Tundra: +2 In The Tundra: +15% DMG In The Tundra: +10% RES Trophies Hunger of the Beast Clan Combat Items Inn Items All Inn Items except Food Items and Signature Items in Kingdoms last for 3 Regions as opposed to the 1 Region duration present in Confessions. (due to the length of regions in Kingdoms being much shorter) Image Inn Item Description Beastmen Blood [1 Target] Usable only once used per inn/camp If self has : +50% DMG +1 Received Beastmen Flesh [1 Target] Usable only once used per inn/camp Gain On Resist: Add 3 Positive Tokens Gain The Runs Secrets of the Coven During part of the Secrets of the Coven quest, Bosses will begin to drop Wooden Tokens , a currency unique to the module which can be used to purchase the items below. Combat Items Inn Items All Inn Items except Food Items and Signature Items in Kingdoms last for 3 Regions as opposed to the 1 Region duration present in Confessions. Image Inn Item Description Stalwart Stew [1 Target] Food Usable only once used per inn/camp +20% Max Gain on Resist : 3 Gain on Resist : Fatigue heal 5% Bundle of Herbs [1 Target] Usable only once used per inn/camp Combat Start: x2 or 4 or Apply On Hit: 1 Curse of the Court Combat Items Inn Items All Inn Items except Food Items and Signature Items in Kingdoms last for 3 Regions as opposed to the 1 Region duration present in Confessions. Image Inn Item Description Powdered Wig [1 Target] Usable only once used per inn/camp Target: 100% CRIT when target has Target: -100% CRIT when target has no Blood Splattered Cravat [1 Target] Usable only once used per inn/camp Target: +100% healing received from skills when self Target: remove , , when self Target: +1 duration received Excluded Items Image Stagecoach Item Description Shrine Map Scouting Gear 25 +100% Hero Shrine Location Scouting Collector's Chandelier Luxury Gear 40 Increases Stacking for Candles of Hope by 4 per Stack +33% Candles of Hope Chance at Locations Rewards 8 Candles of Hope upon killing the Collector Carriage Lamps Road Gear 40 +33% Loathing RES Candles of Hope
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Image | Combat Item | Effects
+
+[Íconos: Signal flare 1.png]  | [Íconos: Relics] End the turn upon useSignal Flare (Conscripts)[Self-targeting]Stacks 24 | Summon aConscript FighterorConscript Arbalisterat the back per Missing AllyIneffective in Lairs
+
+[Íconos: Signal flare 2.png]  | [Íconos: Relics] End the turn upon useSignal Flare (Partisans)[Self-targeting]Stacks 28 | Summon aPartisan FighterorPartisan Arbalisterat the back per Missing AllyIneffective in Lairs
+
+[Íconos: Signal flare 3.png]  | [Íconos: Relics] End the turn upon useSignal Flare (Veterans)[Self-targeting]Stacks 216 | Summon aVeteran FighterorVeteran Arbalisterat the back per Missing AllyIneffective in Lairs
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Image | Trophy | Effects
+
+[Íconos: Trophy cultist boss exemplar.png]  | Yearning Despair | [Íconos: HP, Speed, Damage over Time] PerStaineditem equipped on Hero Party:+10%DMG,+10%Max,+1-10%Healing Received,-10%RES
+
+[Íconos: Trophy cultist boss exemplar.png]  | Boundless Vanity | [Íconos: Combo, Combo] Round Start: RandomHeroandEnemy:Round End:HeroesandEnemieswith: Add 1 Random Token
+
+[Íconos: Trophy cultist boss exemplar.png]  | Perpetual Lethargy | [Íconos: Speed, Block+, Speed] Round Start: If<= 0:When Passing: Reset Skill Uses,-2(1 Battle)
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Image | Combat Item | Effects
+
+[Íconos: Beastmen bell.png]  | Tribecaller's Bell[1 Target]Stacks 4 | [Íconos: Strength, Stress, Block, Stress] Target:x2,+1Self:x3,+1
+
+[Íconos: Beastmen horn.png]  | Horrific Horn[1 Target]Stacks 4 | [Íconos: Strength] Deals 8 DMG to target+10% CRIT(1 Battle)
+
+[Íconos: Beastmen hatchet.png]  | Huntsman's AxeWeapon[1 Target]Stacks 4 | [Íconos: Blight, Weak] DMG: 1-3  10% CRITRemove 1PositiveToken-10%RES
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Image | Combat Item | Effects
+
+[Íconos: Coven mandrake root.png]  | Mandrake Root[1 Target]Stacks 4 | [Íconos: Stun, Stun] Target:Self:
+
+[Íconos: Coven mushroom item.png]  | Magic Mushroom[Party]Stacks 4 | -100%Healing Received
+
+[Íconos: Coven rook skull.png]  | Rook Skull[1 Target]Stacks 4 | DMG: 4-4RemoveNegativeandHerbtokensDeal additional damage perNegativeandHerbtokens removed
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Image | Combat Item | Effects
+
+[Íconos: Courtier proboscis.png]  | Fractured Proboscis[1 Target]Stacks 4 | [Íconos: Bleed] Target:Steal 4Health,1 (3 Turns)
+
+[Íconos: Courtier wing.png]  | Membranous Wing[Friendly Target]Stacks 4 | [Íconos: Dodge, Speed] Target:x2,+2
+
+

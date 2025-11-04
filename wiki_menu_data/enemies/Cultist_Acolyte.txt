@@ -1,0 +1,58 @@
+TÍTULO: Cultist Acolyte
+URL: https://darkestdungeon.wiki.gg/wiki/Cultist_Acolyte
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:15:13
+
+================================================================================
+
+Cultist Acolyte Enemy Type Human Size 1 Actions per round Stats Variation Cultist Acolyte Cultist Enchantress Cultist Witch HP 13 18 25 HP (Stygian/Bloodmoon) 16 22 30 Dodge 12.5 21.25 33.75 Protection 0 0 0 Speed 7 8 9 Resistances Stun 25% 45% 65% Blight 20% 40% 60% Bleed 20% 40% 60% Debuff 40% 60% 80% Move 10% 30% 50% The Cultist Acolyte is a Human enemy that can be encountered in any area, usually with Cultist Brawlers and always in the third and fourth ranks. While unable to inflict the same physical damage as their counterparts, the Acolyte assaults the mind instead, dealing high stress damage with their unholy incantations, which also mark targets from Veteran Level onward to enhance the damage of the Brawler's Rend for the Old Gods . They can also sow confusion by altering the party's formation with Eldritch Push and Eldritch Pull . Contents 1 Behavior 2 Strategy 3 Abilities 4 Gallery Behavior Cultist Acolytes have 3 abilities, Stressful Incantation , Eldritch Pull , and Eldritch Push . All of their abilities deal stress on Veteran level onward, and Stressful Incantation marks heroes to synergize with the Cultist Brawlers' Rend for the Old Gods . Overall it has a 2x chance to use Stressful Incantation over Eldritch Pull and Push , except on the Acolyte's first turn, where it has a 7x chance. Interestingly, Acolytes will never use Stressful Incantation if all 4 heroes have a Virtue . In terms of target priority, it will tend to use Stressful Incantation to focus heroes who are already stressed, with an effective 2x/3x/4x chance depending on difficulty. Strategy Cultist Acolytes are the prototypical stress dealer—fast, high dodge, but otherwise weak in survivability. Like most stress dealers, they should be focused as a priority target, especially with fast heroes who can take them out before they deal stress damage, as stress typically is harder to deal with than health damage. However, their abilities are not influenced at all by position, and they have no frontline attack like the Bone Courtier's Knife in the Dark , so the only reason to move them is to get them into range of damage dealers. Abilities Gallery Cultist Acolyte's combat animation Cultist Acolyte's attack Cultist Acolyte defending Cultist Acolyte's corpse. view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Stressful Incantation | Ranged | 1,2,3,4 | 1,2,3,4 | 82.5% | 0% | 1 | [Íconos: Stress, Torch] Stress+15Torch -10 |  | 
+
+Eldritch Pull | Ranged | 2,3,4 | 3,4 | 82.5% | 6% | 1 | [Íconos: Pull] 100%Pull2 |  | 
+
+Eldritch Push | Ranged | 1,2,3,4 | 1,2 | 82.5% | 6% | 1 | [Íconos: Push] 100%Knockback2 |  | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Stressful Incantation | Ranged | 1,2,3,4 | 1,2,3,4 | 92.5% | 0% | 1-2 | [Íconos: Stress, Torch, Mark] Stress+17Torch -10MarkTarget  (3 rds) |  | 
+
+Eldritch Pull | Ranged | 2,3,4 | 3,4 | 88.75% | 12% | 1-2 | [Íconos: Pull, Stress] 120%Pull2Stress+5 |  | Has a cooldown of 2 turns after use.
+
+Eldritch Push | Ranged | 1,2,3,4 | 1,2 | 88.75% | 12% | 1-2 | [Íconos: Push, Stress] 120%Knockback2Stress+5 |  | Has a cooldown of 2 turns after use.
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Stressful Incantation | Ranged | 1,2,3,4 | 1,2,3,4 | 100% | 0% | 1-3 | [Íconos: Stress, Torch, Mark] Stress+20Torch -10MarkTarget  (3 rds) |  | 
+
+Eldritch Pull | Ranged | 2,3,4 | 3,4 | 102.5% | 14% | 1-3 | [Íconos: Pull, Stress] 140%Pull2Stress+8 |  | Has a cooldown of 2 turns after use.
+
+Eldritch Push | Ranged | 1,2,3,4 | 1,2 | 102.5% | 14% | 1-3 | [Íconos: Push, Stress] 140%Knockback2Stress+8 |  | Has a cooldown of 2 turns after use.
+
+

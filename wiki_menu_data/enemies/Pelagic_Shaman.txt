@@ -1,0 +1,64 @@
+TÍTULO: Pelagic Shaman
+URL: https://darkestdungeon.wiki.gg/wiki/Pelagic_Shaman
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:14:58
+
+================================================================================
+
+Pelagic Shaman Enemy Type Eldritch Size 1 Actions per round Stats Variation Pelagic Shaman Pelagic Oracle Pelagic Tidemaster HP 12 17 25 HP (Stygian/Bloodmoon) 15 21 30 Dodge 7.5% 16.25% 30% Protection 0% 0% 0% Speed 10 11 12 Stealth None Yes Yes Resistances Stun 10% 30% 55% Blight 10% 30% 55% Bleed 50% 70% 95% Debuff 20% 40% 65% Move 10% 30% 55% The Pelagic Shaman is a stress-inflicting enemy appearing in the Cove . Unlike other enemies that specialize in dealing Stress damage, like the Bone Courtier or Swine Drummer , the Pelagic Shaman complements its Stress repertoire with a mixture of support spells to aid its allies, with the ability to heal and buff them. Stronger versions of the Shaman have also mastered the art of Stealth , giving them a few turns of safety at the start of each fight. Contents 1 Behavior 1.1 Skill Selection 1.2 Skill Targeting 2 Abilities 3 Related Enemies 4 Gallery Behavior The Pelagic Shaman is an Eldritch type that appears in the Cove . It is the stress dealer of the Pelagic monsters and with their Stress Wave it can hit two heroes at once. It also has the ability to heal their allies with Sea Breeze, a rare ability amongst the hordes of horrors you face. They may also buff their pelagic brethren with Call of the Deep. They can't use their magic in the first position however, as they are forced to use their weak Ceremonial Cut. It focuses on causing stress and casting positive magic on its team. However, aside from a high Bleed resistance (like most other monsters in the Cove), its resistances are overall poor, making it vulnerable to DOT and debuffs. Skill Selection If any monster other than the Shaman is below 70% Health, the Shaman has a 1/4 chance to select Sea Breeze , a 1/4 chance to select Call of the Deep and a 2/4 chance to select Stress Wave . Otherwise, the Shaman has a 1/3 chance to select Call of the Deep and a 2/3 chance to select Stress Wave . If any monster other than the Shaman is below 70% Health, the Shaman has a 1/5 chance to select Sea Breeze , a 1/5 chance to select Call of the Deep and a 3/5 chance to select Stress Wave . Otherwise, the Shaman has a 1/4 chance to select Call of the Deep and a 3/4 chance to select Stress Wave . If the Shaman is in Rank 1, it will always select Ceremonial Cut , since that is the only skill it can use. Skills which are on cooldown cannot be selected. This makes Stress Wave more common than the raw chances would suggest. Skill Targeting Unlike the majority of Stress -inducing monsters, who prefer to inflict Stress on the hero with the most Stress, the Shaman actually prefers to target the hero with the least Stress. Note that "+100% chance" in the context of skill targeting doesn't mean that targeting will be guaranteed against that victim. Consider the scenario where a skill can target four heroes - if one of these four heroes has a +100% chance to be targeted by that skill, it will amount to that hero having a 2/5 chance to be targeted, with the three other heroes each having a 1/5 chance to be targeted. Stress Wave Call of the Deep Ceremonial Cut Sea Breeze On Apprentice difficulty, +100% chance to target the hero with the least Stress . On Veteran difficulty, +200% chance to target the hero with the least Stress . On Champion difficulty, +300% chance to target the hero with the least Stress . Always targets a random monster other than the Shaman itself. Always targets a random hero. Cannot target the Shaman itself. Always targets the monster with the lowest Health. Abilities * Cannot target self. Related Enemies Cove: The Pelagics Pelagic Grouper Pelagic Guardian Sea Maggot Deep Stinger Uca Major Bosses Siren Cove: The Drowned Drowned Thrall Squiffy Ghast Bosses Drowned Crew Drowned Anchorman Gallery Pelagic Shaman's combat animation Casting a spell Using Ceremonial Cut Defending Corpse view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Stress Wave | Ranged | 2, 3, 4. | 1, 2, 3, 4, 25% +1 Target | 82.5% | 0% | 1 | [Íconos: Tray afflicted.png] Stress+15 | [Íconos: Poptext move.png] Back1 | 
+
+Call of the Deep* | Support | 2, 3, 4. | 1, 2, 3, 4 (allies). |  |  |  | [Íconos: Poptext buff.png] Buff: +5 ACC, +3% CRT, +25% DMG | No Effect | Has a cooldown of 2 turns after use
+
+Ceremonial Cut | Melee | 1 | 1, 2. | 62.5% | 2% | 2-4 | No Effect | No Effect | 
+
+Sea Breeze* | Support | 2, 3, 4. | 1, 2, 3, 4 (allies). |  |  |  | [Íconos: Skill attribute heal.png] Heal 6-12 | No Effect | Has a cooldown of 3 turns after use
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Stress Wave | Ranged | 2, 3, 4. | 1, 2, 3, 4, 30% +1 Target | 88.75% | 0% | 1-2 | [Íconos: Tray afflicted.png] Stress+15 | [Íconos: Poptext move.png] Back1 | 
+
+Call of the Deep* | Support | 2, 3, 4. | 1, 2, 3, 4 (allies). |  |  |  | [Íconos: Poptext buff.png] Buff: +7 ACC, +5% CRT, +25% DMG | No Effect | Has a cooldown of 2 turns after use
+
+Ceremonial Cut | Melee | 1 | 1, 2. | 68.75% | 6% | 3-5 | No Effect | No Effect | 
+
+Sea Breeze* | Support | 2, 3, 4. | 1, 2, 3, 4 (allies). |  |  |  | [Íconos: Skill attribute heal.png] Heal 8-14 | No Effect | Has a cooldown of 2 turns after use
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Stress Wave | Ranged | 2, 3, 4. | 1, 2, 3, 4, 35% +1 Target. | 102.5% | 0% | 1-3 | [Íconos: Tray afflicted.png] Stress+15 | [Íconos: Poptext move.png] Back1 | 
+
+Call of the Deep* | Support | 2, 3, 4. | 1, 2, 3, 4 (allies). |  |  |  | [Íconos: Poptext buff.png] Buff: +10 ACC, +7% CRT, +25% DMG | No Effect | Has a cooldown of 2 turns after use
+
+Ceremonial Cut | Melee | 1 | 1, 2. | 82.5% | 7% | 4-8 | No Effect | No Effect | 
+
+Sea Breeze* | Support | 2, 3, 4. | 1, 2, 3, 4 (allies). |  |  |  | [Íconos: Skill attribute heal.png] Heal 10-18 | No Effect | Has a cooldown of 2 turns after use
+
+

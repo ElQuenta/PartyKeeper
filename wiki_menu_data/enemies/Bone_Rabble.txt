@@ -1,0 +1,52 @@
+TÍTULO: Bone Rabble
+URL: https://darkestdungeon.wiki.gg/wiki/Bone_Rabble
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:14:13
+
+================================================================================
+
+Bone Rabble Enemy Type Unholy Size 1 Actions per round Stats Variation Bone Rabble Bone Conscript Bone Militia HP 8 11 16 HP (Stygian/Bloodmoon) 10 14 20 Dodge 0 8.75 21.25 Protection 0 0 0 Speed 1 2 3 Resistances Stun 10% 30% 50% Blight 10% 30% 50% Bleed 200% 220% 240% Debuff 15% 35% 55% Move 10% 30% 50% The Bone Rabble is a common enemy in the Ruins , and an uncommon enemy everywhere else. Compared to other enemies, the Rabble is very weak. Contents 1 Behavior 2 Abilities 3 Related Enemies 3.1 Ruins 3.2 Boss 4 Gallery Behavior The Bone Rabble is an Unholy -type enemy that can be found in almost any area, although it is most common in the Ruins . It is often encountered in pairs, with both individuals taking up the first two ranks. With low HP, no protection , low speed , very poor resistances (save for bleed ), and weak, inaccurate attacks, this enemy is by far the weakest of all Unholy enemies and should be considered a very low priority in battle. Its main purpose is to use its body (or corpse ) to protect enemies in the back of the formation, although its Bump in the Night attack can reduce the victim's Dodge stat by a fairly significant amount in Veteran or Champion levels. Abilities Related Enemies Ruins Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Captain Bone Spearman Bone Bearer Boss Necromancer Gallery Bone Rabble's combat animation Bone Rabble attacking Bone Rabble defending Bone Rabble's corpse. view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Bump in the Night | Melee | 1,2,3 | 1,2 | 62.5% | 2% | 2-5 |  |  | 
+
+Tic-Toc | Melee | 4 | 1,2 | 42.5% | 0% | 2-5 |  | [Íconos: Poptext move.png] Forward1 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Bump in the Night | Melee | 1,2,3 | 1,2 | 68.75% | 6% | 2-6 | [Íconos: Poptext debuff.png] 120%Debuff: -7 DODGE |  | 
+
+Tic-Toc | Melee | 4 | 1,2 | 48.75% | 0% | 2-6 |  | [Íconos: Poptext move.png] Forward1 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Bump in the Night | Melee | 1,2,3 | 1,2 | 82.5% | 9% | 3-8 | [Íconos: Poptext debuff.png] 140%Debuff: -10 DODGE |  | 
+
+Tic-Toc | Melee | 4 | 1,2 | 62.5% | 0% | 3-8 |  | [Íconos: Poptext move.png] Forward1 | 
+
+

@@ -1,0 +1,52 @@
+TÍTULO: Swine Drummer
+URL: https://darkestdungeon.wiki.gg/wiki/Swine_Drummer
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:14:43
+
+================================================================================
+
+Swine Drummer Enemy Type Human / Beast Size 1 Actions per round Stats Variation Swine Drummer Swine Marcher Swine Thunderer HP 15 22 31 HP (Stygian/Bloodmoon) 18 27 38 Dodge 0% 8.75% 22.5% Protection 0% 0% 0% Speed 7 8 9 Resistances Stun 10% 30% 55% Blight 40% 60% 85% Bleed 20% 40% 65% Debuff 15% 35% 60% Move 25% 45% 70% Swine Drummers are the primary Stress -dealing enemies found within the Warrens . Carrying around a drum made from the flayed skin of its victims, the Drummers act by pounding on their drums as loudly as possible. The Drummer coordinates their allies by marking a hero to attack, but sometimes the sound of the drum alone, echoing in the enclosed spaces of the Warrens, can be a stressful thing to hear. Contents 1 Behavior 2 Abilities 3 Related Enemies 3.1 Swinefolk 3.2 Bosses 4 Gallery Behavior The Swine Drummer is a Human / Beast type enemy that is only encountered in the Warrens . It usually spawns in the back ranks of a Swine Party and serves as a support unit. The Swine Drummer is a dangerous enemy in that its attacks can inflict debuffs and stress damage to the party. It also has the ability to Mark party members to increase the damage of other enemies. The Swine Drummer should be dealt with quickly to limit the effects of its attacks. On its own, the Drummer has a decent amount of health and speed, but has no protection and fairly low resistances to status effects. Abilities Related Enemies Swinefolk Swine Chopper Swine Slasher Swine Wretch Swinetaur Swine Skiver Bosses Swine Prince Wilbur Flesh Gallery Swine Drummer's combat animation Swine Drummer's drumming animation Attacking Defending Corpse view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Drum of Doom | Ranged | 1, 2, 3, 4. | 1+2+3+4. | 82.5% | 2% | 1 | [Íconos: Tray afflicted.png] 70%Stress+5 | No Effect | 
+
+Drum of Debilitation | Ranged | 1, 2, 3, 4. | 1, 2, 3, 4. | 82.5% | 6% | 1 | [Íconos: Poptext debuff.png, Poptext tagged.png] 100%Debuff: -10 DODGEMark | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Drum of Doom | Ranged | 1, 2, 3, 4. | 1+2+3+4. | 88.75% | 6% | 2 | [Íconos: Tray afflicted.png] 70%Stress+5 | No Effect | 
+
+Drum of Debilitation | Ranged | 1, 2, 3, 4. | 1, 2, 3, 4. | 88.75% | 11% | 2 | [Íconos: Poptext debuff.png, Poptext tagged.png] 120%Debuff: -15 DODGEMark | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Drum of Doom | Ranged | 1, 2, 3, 4. | 1+2+3+4. | 102.5% | 7% | 2 | [Íconos: Tray afflicted.png] 70%Stress+5 | No Effect | 
+
+Drum of Debilitation | Ranged | 1, 2, 3, 4. | 1, 2, 3, 4. | 102.5% | 12% | 2 | [Íconos: Poptext debuff.png, Poptext tagged.png] 140%Debuff: -20 DODGEMark | No Effect | 
+
+

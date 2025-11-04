@@ -1,0 +1,26 @@
+TÍTULO: Templar Impaler
+URL: https://darkestdungeon.wiki.gg/wiki/Templar_Impaler
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:15:21
+
+================================================================================
+
+Templar Impaler Enemy Class Eldritch / Beast Size Large (2) Actions per round Stats HP 137 HP (Stygian/Bloodmoon) 165 Dodge 26.25% Protection 0% Speed 5 Resistances Stun 97.5% Blight 97.5% Bleed 67.5% Debuff 67.5% Move 73% The Templar Impaler is a miniboss which guards the altars in the second quest in the Darkest Dungeon . He takes 2 actions per turn, one of which is typically a Revelation attack. His other action will be spent on one of his remaining attack abilities, all of them equally dangerous. Contents 1 Strategy 2 Team Selection 2.1 Preferred Heroes 2.2 Reasonable Choices 3 Abilities 4 Related Enemies 4.1 All Areas 4.2 The Darkest Dungeon 5 Gallery Strategy Bringing all 3 Talismans of the Flame is required in order to survive this fight. Your party member who is left unprotected from the devastating Revelation should be guarded by a MAA or Houndmaster . Alternately an Antiquarian can be brought without the trinket and she can use "Protect Me" skill to make another unit guard her. You'll also want to bring a lot of Antivenom - the Impaler can apply heavy blight. Similarly, Holy Water can help prevent you from being blighted in the first place. When fighting the double Templars, it would be recommended to focus down the Warlord first, as it is the one with the less amount of HP. If you manage to stun them after each revelation attack, you can really minimize the amount of damage they deal to almost none if the Revelation lands on a protected hero. If you can displace the Impaler to the back row you will be safe from the Stinger Stab, which deals massive Blight damage. Considering their mediocre Move Resistance, this can be a pretty feasible task. Team Selection Preferred Heroes Man-at-Arms - Long-lasting Guard can defend the one vulnerable hero. Bolster is always a good inclusion for the fights. Houndmaster - Can Guard the vulnerable hero. Hound's Rush does massive damage to the Templars and their companions. For the intermittent fights, relieve the party's Stress with Cry Havoc Flagellant - Very durable unit who can hold out through the three fights. Can bring out massive heals and provide Stress relief. You can even leave him as the one hero without the Talisman, as Eternity's Collar can raise his damage output when he's at high Stress. Occultist - Bonus damage to the many Eldritch enemies in this fight. Can deliver massive heals to whoever's Guarding. Vestal - There's a lot of damage going about. Reliable healing will be helpful. Reasonable Choices Jester - Can spread Bleeds about the enemy formations and relieve Stress when needed. Plague Doctor - Battlefield Medicine to cure any Blight your heroes take. Leper - Massive raw damage speeds up the progress of the fight. Consider using Withstand to raise his Blight and Move resistances. Antiquarian - If you're missing heroes who can Guard, use her to force someone to take the hits for her. However, her actual combat ability is not that strong, so you'll be in for a long fight. Bounty Hunter - Use Planned Takedown to raise his damage against the large Templars. He's perfectly workable in position 3 if your frontline gets crowded. Abilities Related Enemies All Areas Cultist Brawler Cultist Acolyte The Darkest Dungeon Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Templar Warlord Templar Gladiator Templar Sniper Gallery Templar Impaler's combat animation Templar Impaler using Torment Templar Impaler using Sting Stab Templar Impaler using Body Slam Templar Impaler using Revelation Templar Impaler defending Templar Impaler's corpse. view Bosses Regional Necromancer Prophet Hag Brigand Pounder Swine Prince Flesh Siren Drowned Crew Roaming / Event Shambler Collector Fanatic Thing from the Stars Shrieker Brigand Vvulf Boss Minions Cauldron Brigand Matchman Shambler Wilbur Drowned Anchorman Shrieker's Nest Barrel O' Bombs Courtyard Baron Viscount Countess Crocodilian Garden Guardian Farmstead Miller Fracture Sleeper Darkest Dungeon Spoilers Shuffling Horror Templar Impaler Templar Warlord Mammoth Cyst Ancestor Heart of Darkness
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Darkest Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Torment | Melee | 1, 2, 3, 4. | 1+2. | 103.75% | 7% | 8-17 | No Effect | No Effect | 
+
+Stinger Stab | Melee | 1, 2. | 1, 2, 3. | 103.75% | 7% | 9-20 | [Íconos: Poptext poison.png] 150%Blight10 | No Effect | 
+
+Body Slam | Melee | 1, 2, 3. | 1, 2, 3. | 98.75% | 14% | 8-18 | [Íconos: Poptext move.png, Poptext stun.png] 150%Push2150%Stun | [Íconos: Poptext move.png] Forward1 | 
+
+Revelation | Ranged | 1, 2, 3, 4. | 1, 2, 3, 4. | 123.75% | 0% | 16-26 | [Íconos: Tray afflicted.png] Stress+40 | No Effect | 
+
+

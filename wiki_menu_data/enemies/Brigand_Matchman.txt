@@ -1,0 +1,52 @@
+TÍTULO: Brigand Matchman
+URL: https://darkestdungeon.wiki.gg/wiki/Brigand_Matchman
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:14:27
+
+================================================================================
+
+Brigand Matchman Enemy Type Human Size 1 Actions per round Stats Variation Brigand Matchman Brigand Fuseman Brigand Pyro HP 8 12 16 HP (Stygian/Bloodmoon) 10 15 20 Dodge 12.5% 21.25% 35% Protection 0% 0% 0% Speed −20 −19 −18 Resistances Stun 25% 45% 70% Blight 10% 30% 55% Bleed 10% 30% 55% Debuff 15% 35% 60% Move 25% 45% 70% One of the members of the infamous "Brigands Brigade", the Brigand Matchman is arguably the weakest among their ranks, but also the deadliest. He alone can operate the terrible Brigand Cannon , unleashing thundering blasts of fire and death that can easily decimate even the healthiest of parties. Contents 1 Behavior 2 Abilities 3 Gallery 4 Related Enemies 4.1 All Areas 4.2 Bosses 5 Trivia Behavior The Brigand Matchman is a special enemy found only during the Brigand Pounder boss fight and usually spawns on the third or fourth rank. The Matchman has low health, low resistances to status effects, and ludicrously low speed (He will always act last on a given turn). However, if he is allowed to act, he will activate the Pounder and allow it to use its devastating attack. As such, he should be considered the highest priority target during the fight and eliminated before he is allowed to act. Additionally, if he is felled, the Pounder will always summon a new Matchman at the beginning of the next turn. Once the Pounder is destroyed, the Matchman and all Brigands will die with it, ending the battle. Abilities Gallery Brigand Matchman's combat animation Related Enemies All Areas Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Bosses Brigand Pounder Brigand Vvulf Barrel O' Bombs Trivia The Matchman's Hot Shot attack would only be used in previous builds of the game when he wouldn't immediately die with the Pounder's destruction.
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Fire in the Hole! | Melee | 1, 2, 3, 4. | 1, 2, 3, 4 (allies). | 0% | 6% | 0 | No Effect | [Íconos: Poptext move.png] Back3 | 
+
+Hot Shot | Melee | 1, 2, 3, 4. | 1+2+3+4. | 77.5% | 2% | 1 | No Effect | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Fire in the Hole! | Melee | 1, 2, 3, 4. | 1, 2, 3, 4 (allies). | 0% | 11% | 0 | No Effect | [Íconos: Poptext move.png] Back3 | 
+
+Hot Shot | Melee | 1, 2, 3, 4. | 1+2+3+4. | 83.75% | 2% | 1-2 | No Effect | No Effect | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Fire in the Hole! | Melee | 1, 2, 3, 4. | 1, 2, 3, 4 (allies). | 0% | 12% | 0 | No Effect | [Íconos: Poptext move.png] Back3 | 
+
+Hot Shot | Melee | 1, 2, 3, 4. | 1+2+3+4. | 97.5% | 2% | 1-3 | No Effect | No Effect | 
+
+

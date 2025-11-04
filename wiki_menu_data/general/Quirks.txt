@@ -1,0 +1,330 @@
+TÍTULO: Quirks
+URL: https://darkestdungeon.wiki.gg/wiki/Quirks
+CATEGORÍA: general
+FECHA: 2025-11-04 00:13:45
+
+================================================================================
+
+The faces of comedy and tragedy are used to symbolize quirks. Heroes may gain semi-permanent traits, called quirks , through activities in the Hamlet or during expeditions. Quirks can be positive or negative, and have a variety of effects, from changing a hero's stats or altering their behaviour. Contents 1 Acquiring and managing quirks 2 Notes 3 Chance of Acquiring Quirks 4 List of Quirks 4.1 Comparable Quirks 4.2 Independent Positive Quirks 4.3 Treatment Quirks 4.4 Independent Negative Quirks 4.5 Forced Interaction Quirks 4.6 Corvid Quirks 4.7 Prismatic Quirks 5 Trivia 6 References Acquiring and managing quirks An Occultist having both the Gambler and Known Cheat quirks, effectively preventing him from benefiting from stress relief facilities until cured in the Sanitarium . Heroes recruited from the Stage Coach will possess a random set of quirks - at least one positive and one negative. Additional quirks, positive and negative, are gained during expeditions by interacting with Curios , and after expeditions in the post-expedition screen. Quirks may also occur as a result of partaking in stress relief buildings in the Hamlet via the Tavern and Abbey . A character can possess a maximum of ten quirks - five positive and five negative. After this, if a hero gains an additional quirk, a random existing quirk will be replaced, denoted by two spiralling arrows next to the new quirk (these arrows may be hovered over to see what quirk got replaced). Quirks may be modified by using the Sanitarium in the Hamlet, which allows you to expend gold to either remove a quirk (positive or negative), or to permanently "lock in" a positive quirk, which prevents it from being replaced when new quirks are earned. Removal and reinforcement of quirks at the Sanitarium must be done one at a time, per type of quirk - you may not remove more than one negative quirk per week, nor can you reinforce more than one positive quirk per week, though you can do one of both. A total of three positive quirks may be reinforced. Using the Sanitarium for quirks tends to be expensive, and like all other Hamlet facilities is a factor of the hero's level - overall, positive quirk treatment is more expensive than negative quirk treatment. If a negative quirk is left untreated for long enough over the course of several expeditions, it also has a chance of becoming reinforced and locked in. Like reinforced positive quirks, these quirks will not be replaced when new quirks are earned. Reinforced negative quirks are more costly to remove at the Sanitarium. Several curios found in the dungeons will remove random negative quirks on the Hero interacting with the curio. The most reliable of these require the correct supply item to be used on the curio for the desired effect: Eldritch Altars can be found occasionally in rooms in any of the four major regions , and remove a negative quirk when Holy Water is used on them. Piles of Scrolls are found in hallways in the Warrens , and remove a negative quirk when they are burned with a Torch . Eerie Coral is found in hallways in the Cove , and removes a negative quirk when Medicinal Herbs are used on it. The Confession Booth , found in hallways in the Ruins , has a 25% chance to remove a negative quirk if activated with no items. The Sacrificial Stone , found in rooms in the Warrens, has a 25% chance to remove a negative quirk if activated with no items. Notes It is possible to acquire two opposing quirks (e.g. Skilled Gambler and Bad Gambler), which effectively nullifies the effect of both quirks. It is possible to acquire quirks that prevent Heroes from using any Hamlet de-stressing facilities (e.g. Love Interest and Deviant Tastes) On rare occasions, if a Hero interacts with a curio and receives a quirk they already have, the quirk will be reinforced even if the hero already has three locked quirks. This allows the hero to bypass the normal lock-in limits and have more than 3 permanent positive quirks. For example, the Ruins Tactician quirk may be reinforced upon interacting with the Suit of Armor curio. The Prismatic and Twilight Dreamer positive quirks from the Color Of Madness DLC are automatically reinforced, and can only be removed in the Sanitarium. The Shard Mercenary negative quirk, also from the Color Of Madness DLC cannot be removed or replaced by new quirks, though it can become reinforced. Chance of Acquiring Quirks Whenever an expedition is completed, your surviving Heroes have a chance to gain negative or positive quirks, calculated as a percentage. The precise percentage is based on successful completion of the quest objective, and each hero's current stress, up to a maximum of 100, as detailed below. Quest Success: % Chance of Positive Quirk: 50 - (0.10 × Current Stress) % Chance of Negative Quirk: 30 + (0.20 × Current Stress) Quest Failure: % Chance of Positive Quirk: 40 - (0.15 × Current Stress) % Chance of Negative Quirk: 40 + (0.30 × Current Stress) Stress values over 100 are rounded down to 100. Additionally, each negative quirk has a 25% chance of becoming locked after each mission, regardless of quest success and current stress. List of Quirks Comparable Quirks Comparable Quirks are a pair of quirks, one negative and one positive, that alter the same state but in opposite ways. For example, Clumsy reduces a hero's DODGE by 5, while Evasive increases the hero's DODGE by the same amount. However, not all comparable quirks have even values. For example. Clotter increases a hero's Bleed Resist by 15%, whereas its counterpart Anemic reduces it only by 10%. Independent Positive Quirks Independent Quirks have no comparable opposite, and thus are unique to themselves. Independent Positive Quirks mainly deal with area specific bonuses, camping and reducing gold costs in town. Treatment Quirks These quirks affect which treatments a hero may use to relieve stress in the hamlet. Independent Negative Quirks As with Positive Quirks, Negative Quirks have their own set that are independent with no positive counterpart. There is another unique independent negative quirk called Shard Mercenary . It cannot be removed or gained, and is instead found on special mercenary heroes in the Stage Coach after the Endless Mode in the Farmstead is unlocked. Shard Mercenary 10% Shard loot taken. Hero will only undertake Endless Harvest quest in the Farmstead . (Cannot be removed) Forced Interaction Quirks A subset of independent negative quirks. These quirks cause heroes to activate Curios without the player's consent. Each Quirk has a type of Curio that it has a chance to interact with. Also because Heroes will never use items with these interactions, they can easily hurt themselves or acquire diseases. Additionally, some quirks will cause the Hero to steal the items they loot, meaning that the player loses those items forever. Not all Forced Interactions are based on Quirks. For a full list, look here . Corvid Quirks Heroes who survive against The Shrieker have a chance of acquiring new quirks unique to the quest. Both the positive and negative quirk are stronger than ordinary quirks. The chance of acquiring a positive quirk is twice the chance of acquiring a negative one. Prismatic Quirks In The Color of Madness DLC , heroes who survive against the new miniboss known as the Thing from the Stars may acquire new quirks that cannot be obtained elsewhere. These quirks are immensely potent, but are unique ; they can only be on one hero in your whole roster. Only one hero will receive a quirk at the end of the mission, and gaining more requires defeating the Thing once again. They are automatically locked, and the Sanitarium will only offer the option to remove them. Removing Prismatic quirks allows them to be obtained again the next time the Thing is defeated. Prismatic Quirks will not count towards the limit of locked quirks on a Hero, so it's possible to have a Hero with three normal locked quirks and two Prismatic ones. However, having five locked quirks on a hero doesn't lock them out of being chosen to earn a Prismatic Quirk at the end of an encounter. If that happens, the new Prismatic Quirk is lost, and nothing is replaced. The quirks will be obtained in the order below: Trivia When Skilled Gambler was originally released, it was accidentally programmed as a negative quirk. References ↑ See the quests tagged with crow_map1 in campaign/quest/quest.plot_quests.json .
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+[Íconos: Panel monster indicator.png] Positive Quirks | [Íconos: Panel monster indicator.png] Negative Quirks | 
+
+Name | Effects | Name | Effects | Type
+
+Beast Hater | +15% DMG and -15%Stressvs Beast | Fear of Beasts | +15%Stressand -10 ACC vs Beast | vsBeast
+
+Beast Slayer | +10 ACC and +5% CRIT vs Beast | Zoophobia | +20%Stressvs Beast
+
+Clotter | +15%BleedResist | Anemic | -10%BleedResist | Resist -Bleed
+
+Clutch Hitter | +5% CRIT if HP below 50% | Dud Hitter | -5% CRIT if HP below 50% | CRIT - Low Health
+
+Cove Adventurer | -20%Stressin Cove | Cove Phobe | +20%Stressin Cove | Stress inCove
+
+Deadly | +2% CRIT | Misses the Spot | -2% CRIT | CRIT
+
+Eagle Eye | +5% CRITRangedSkills | Flawed Release | -5% CRITRangedSkills | CRIT -Ranged
+
+Early Riser | +2 SPD if Torch above 75 | Nocturnal | -2 SPD if Torch above 75 | SPD -Radiant Light
+
+Eldritch Hater | +15% DMG and -15%Stressvs Eldritch | Fear of Eldritch | +15%Stressand -10 ACC vs Eldritch | vsEldritch
+
+Eldritch Slayer | +10 ACC and +5% CRIT vs Eldritch |  | 
+
+Evasive | +5 DODGE | Clumsy | -5 DODGE | DODGE
+
+[Íconos: Exclusive to The Color of Madness DLC] Gifted | +20%HealingReceived | [Íconos: Exclusive to The Color of Madness DLC] Infirm | -20%HealingReceived | HealingReceived
+
+[Íconos: Exclusive to The Color of Madness DLC] Gothic | Wyrd Reconstruction: +25%HealingReceived | [Íconos: Exclusive to The Color of Madness DLC] Ascetic | Wyrd Reconstruction: -20%HealingReceived | HealingReceivedfromOccultist
+
+Hard Noggin | +15%StunResist | Shocker | -10%StunResist | Resist -Stun
+
+[Íconos: Exclusive to The Color of Madness DLC] Hippocratic | +20%HealingSkills | [Íconos: Exclusive to The Color of Madness DLC] Bad Healer | -20%HealingSkills | HealingDone
+
+Irrepressible | +5%VirtueChance | Mercurial | -5%VirtueChance | Virtue Chance
+
+Last Gasp | +1 SPD if HP below 50% | Winded | -1 SPD if HP below 50% | SPD - Low Health
+
+Lurker | +10% DMG if Torch below 26 | Night Blindness | -10% DMG if Torch below 26 | DMG -Dark/Black as Pitch
+
+[Íconos: Exclusive to The Color of Madness DLC] Luminous | +2 SPD, +5 DODGE | [Íconos: Exclusive to The Color of Madness DLC] Fading | -2 SPD, -5 DODGE | SPD/DODGE
+
+Mankind Hater | +15% DMG and -15%Stressvs Human | Fear of Mankind | +15%Stressand -10 ACC vs Human | vsHuman
+
+Man Slayer | +10 ACC and +5% CRIT vs Human | Automatonophobia | +20%Stressvs Human
+
+[Íconos: Exclusive to The Color of Madness DLC] Musical | Inspiring Tune: +25%StressHeal Received | [Íconos: Exclusive to The Color of Madness DLC] Tone Deaf | Inspiring Tune: -20%StressHeal Received | Stress Heal ReceivedfromJester
+
+Natural Eye | +5 ACCRangedSkills | Lazy Eye | -5 ACCRangedSkills | ACC -Ranged
+
+Natural Swing | +5 ACC | The Yips | -5 ACC | ACC
+
+Night Owl | +2 SPD if Torch below 26 | Diurnal | -2 SPD if Torch below 26 | SPD -Dark/Black as Pitch
+
+On Guard | +4 SPD and +5 DODGE on First Round | Off Guard | -4 SPD and -5 DODGE on First Round | SPD/DODGE - First Turn
+
+Photomania | -20%Stressif Torch above 75 | Phengophobia | +20%Stressif Torch above 75 | Stress inRadiant Light
+
+Precise Striker | +5% CRITMeleeSkills | Weak Grip | -5% CRITMeleeSkills | CRIT -Melee
+
+Quickdraw | +4 SPD on First Round | Slowdraw | -4 SPD on First Round | SPD - First Turn
+
+Quick Reflexes | +2 SPD | Slow Reflexes | -1 SPD | SPD
+
+Resilient | +10%StressHeal Received | Ruminator | -10%StressHeal Received | Stress Heal Received
+
+Robust | +15%DiseaseResist | Sickly | -10%DiseaseResist | Resist -Disease
+
+Ruins Adventurer | -20%Stressin Ruins | Ruins Phobe | +20%Stressin Ruins | Stress inRuins
+
+Second Wind | +10% DMG if HP below 50% | Tuckered Out | -10% DMG if HP below 50% | DMG - Low Health
+
+Skilled Gambler | +12.9% chance of winning money and +13.3% chance of winning trinkets while Gambling | Bad Gambler | +11.4% chance of losing money and +13.3% chance of losing trinkets while Gambling | Gambling
+
+Slugger | +10% DMGMeleeSkills | Torn Rotator | -5% DMGMeleeSkills | DMG -Melee
+
+[Íconos: Exclusive to The Color of Madness DLC] Spiritual | Divine Grace, Divine Comfort: +25%HealingReceived | [Íconos: Exclusive to The Color of Madness DLC] Scientific | Divine Grace, Divine Comfort: -20%HealingReceived | HealingReceivedfromVestal
+
+Steady | -10%Stress | Nervous | +10%Stress | Stress
+
+Stress Faster | -100% Food Consumed ifStressabove 50 | Stress Eater | +100% Food Consumed ifStressabove 50 | Food Consumed at high Stress
+
+Thick Blooded | +10%BlightResist | Thin Blooded | -10%BlightResist | Resist -Blight
+
+Tough | +10% MAX HP | Fragile | -10% MAX HP | MAX HP
+
+Hard Skinned | +10% PROT | Soft | -5% MAX HP | PROT/MAX HP
+
+Unholy Hater | +15% DMG and -15%Stressvs Unholy | Fear of Unholy | +15%Stressand -10 ACC vs Unholy | vsUnholy
+
+Unholy Slayer | +10 ACC and +5% CRIT vs Unholy | Satanophobia | +20%Stressvs Unholy
+
+Unerring | +10% DMGRangedSkills | Scattering | -5% DMGRangedSkills | DMG -Ranged
+
+Unyielding | +10%Death BlowResist | Weak Grip on Life | -10%Death BlowResist | Resist -Death Blow
+
+Warrens Adventurer | -20%Stressin Warrens | Warrens Phobe | +20%Stressin Warrens | Stress inWarrens
+
+Warrior of Light | +10% DMG if Torch above 75 | Light Sensitive | -10% DMG if Torch above 75 | DMG -Radiant Light
+
+Weald Adventurer | -20%Stressin Weald | Weald Phobe | +20%Stressin Weald | Stress inWeald
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+[Íconos: Panel monster indicator.png, Panel monster indicator.png] Positive Quirks
+
+Name | Effects
+
+Armor Tinker | -20% Armor Upgrade Cost at theBlacksmith
+
+Back Tracker | No Stress penalty when walking backwards
+
+Balanced | +15%MoveResist
+
+Cove Explorer | +10%ScoutingChance in Cove
+
+Cove Scrounger | +5%ScoutingChance in Cove
+
+Cove Tactician | +15% DMG in Cove
+
+[Íconos: Exclusive to The Color of Madness DLC] Daredevil | +15 DODGE if HP below 25%
+
+[Íconos: Exclusive to The Color of Madness DLC] Fairweather Fighter | +20% DMG if HP above 99%
+
+Fast Healer | +10%HealingSkills while Camping
+
+Fated | 10% chance to turn any MISS into a HIT
+
+Healer's Gift | +20%HealingSkills while Camping
+
+[Íconos: Exclusive to The Color of Madness DLC] Hot to Trot | +25% DMG, +20 ACC, +5% CRIT on First Round
+
+Meditator | +20%StressHeal Received fromMeditation(Does not actually increase Stress Heal Received while Camping)
+
+[Íconos: Exclusive to The Color of Madness DLC] Natural | +20% MAX HP, +20%HealingReceived,and +3 SPD while wearing no trinkets
+
+Nymphomania | +20%StressHeal Received fromBrothel
+
+Ruins Explorer | +10%ScoutingChance in Ruins
+
+Ruins Scrounger | +5%ScoutingChance in Ruins
+
+Ruins Tactician | +15% DMG in Ruins
+
+Stout | +15%HealingSkills while Camping
+
+[Íconos: Exclusive to The Color of Madness DLC] Twilight Dreamer | IgnoresStealth(One per roster)
+
+Warrens Explorer | +10%ScoutingChance in Warrens
+
+Warrens Scrounger | +5%ScoutingChance in Warrens
+
+Warrens Tactician | +15% DMG in Warrens
+
+Weald Explorer | +10%ScoutingChance in Weald
+
+Weald Scrounger | +5%ScoutingChance in Weald
+
+Weald Tactician | +15% DMG in Weald
+
+Weapon Tinker | -20% Weapon Upgrade Cost at theBlacksmith
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Treatment Quirks
+
+Cloister | Enlightened | In Town, will only Meditate for stress relief | Unquiet Mind | In town, will not meditate in the Cloister for stress relief
+
+Transept | God Fearing | In Town, will only Pray for stress relief. | Witness | Will not take part in Prayer activity in town, after certain traumatic events
+
+Penance Hall | Flagellant | In Town, will only Flagellate for stress relief | Faithless | Will not Pray or Flagellate for stress relief.
+
+Bar | Tippler | In town, will only visit the Bar for stress relief | Resolution | In town, will never Drink
+
+Gambling Hall | Gambler | In town, will only Gamble for stress relief | Known Cheat | Is not allowed to visit the Gambling Hall
+
+Brothel | Love Interest | In town, will only visit the Brothel for stress relief | Deviant Tastes | Is not allowed to visit the Brothel, for reasons best left to the imagination
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+[Íconos: Panel monster indicator.png, Panel monster indicator.png] Negative Quirks
+
+Name | Effects
+
+[Íconos: Exclusive to The Color of Madness DLC] Antsy | +20Stresswhen left Idle for the week
+
+[Íconos: Exclusive to The Color of Madness DLC] Ashen | -10%BleedResist-10%BlightResist
+
+Calm | -15% DMG on First Round
+
+Claustrophobia | +20%Stressin Hallways
+
+[Íconos: Exclusive to The Color of Madness DLC] Germophobe | -10 ACC vsBlighted
+
+[Íconos: Exclusive to The Color of Madness DLC] Imposter Syndrome | "Consumed by thoughts of inadequacy"4% chance to pass turn
+
+Lygophobia | +20%Stressif Torch below 26
+
+[Íconos: Exclusive to The Color of Madness DLC] Nervous Bleeder | -10 ACC whileBleeding
+
+[Íconos: Exclusive to The Color of Madness DLC] Perfectionist | +5Stresswhen attack misses
+
+[Íconos: Exclusive to The Color of Madness DLC] Risktaker | +10% DMG-10 DODGE
+
+Thanatophobia | +20%Stressif HP below 50%
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+[Íconos: Panel monster indicator.png, Panel monster indicator.png] Negative Quirks
+
+Name | Description | Curio Type | Chance | Steal? | Bark
+
+Ablutomania | Obsessed with cleanliness | Fountains | 40% | - | "Out of my way! I must cleanse myself..."
+
+Bloodthirsty | Fascinated with injury, wounds, and torture | Torture | 35% | - | "Such carnage...yes..."
+
+Compulsive | Suffers intense need to do specific actions | All | 20% | - | "Nothing must be left untouched/unopened/undisturbed."
+
+Curious | Obsessed with the acquisition of knowledge | All | 20% | - | "I simply MUST know what is within...""Hmmm, what have we here...""I wonder how this works..."
+
+Dacnomania | Obsessed with killing | Torture | 40% | - | "What a fantastic way to inflict death on someone!"
+
+Dark Temptation | Prone to investigating the Dark Arts | Unholy | 40% | - | "Finally, I get my hands on an authentic eldritch sample!"
+
+Demonomania | Believes is possessed by demons | Unholy | 40% | - | "The spirits command me to do this!"
+
+Dipsomania | Intense craving for alcohol | Drink | 40% | - | "By gods light and dark, I hope this liquid has some kick..."
+
+Egomania | Obsessed with self-worship | Reflective | 40% | Yes | "Look! I cut quite the heroic figure, do I not?"
+
+Guilty Conscience | Bears the crushing guilt of deeds real and imagined | Worship | 35% | - | "I have sinned so very much...Light guide me."
+
+Hagiomania | Obsessed with sainthood | Worship | 40% | - | "Yes, Divine Lords! I am here..."
+
+Hieromania | Experiences religious visions and delusions | Worship | 35% | - | "This is a call. I am prepared to accept it!"
+
+Hylomania | Obsessed with material things | Treasure | 40% | - | "I came from nothing, but I'll not end with nothing!"
+
+Kleptomaniac | Prone to stealing | Treasure | 35% | Yes | "<whistles>"
+
+Necromania | Fascinated with corpses | Body | 40% | - | "Let me see! I must see!"
+
+Paranormania | Obsessed with the paranormal | Haunted | 40% | - | "Let me investigate. I sense the work of spirits!"
+
+Plutomania | Manic for money | Treasure | 40% | - | "Is that the sparkle of coin I see?"
+
+Sitiomania | Obsessed with food | Food | 40% | - | "Let me by... I am famished!"
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+[Íconos: Panel monster indicator.png] Positive Quirks | [Íconos: Panel monster indicator.png] Negative Quirks
+
+Corvid's Eye | +8 ACC+8%ScoutingChance | Corvid's Blindness | -10 ACC if Torch above 50
+
+Corvid's Grace | +6 DODGE+25%MoveResist | Corvid's Appetite | +100% Food Consumed33% chance of interacting with "Body" curios
+
+Corvid's Resilience | +33%DiseaseResist | Corvid's Curiosity | 27.5% chance of interacting with all curios
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+[Íconos: Panel monster indicator.png] Positive Quirks
+
+Prismatic Isolation | +25%DebuffResist
+
+Prismatic Stability | +25%MoveResist
+
+Prismatic Solidity | +25%StunResist
+
+Prismatic Coagulation | +25%BleedResist
+
+Prismatic Purity | +25%BlightResist
+
+Prismatic Calm | -30%Stress
+
+Prismatic Force | +15% DMG
+
+Prismatic Speed | +3 SPD
+
+Prismatic Precision | +4% CRIT
+
+Prismatic Eye | +8 ACC
+
+Husk Slayer | +10 ACC and +5% CRIT vsHusk
+
+Scythemaster | +15% DMG vs Husk
+
+

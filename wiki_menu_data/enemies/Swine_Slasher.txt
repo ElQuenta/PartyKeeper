@@ -1,0 +1,46 @@
+TÍTULO: Swine Slasher
+URL: https://darkestdungeon.wiki.gg/wiki/Swine_Slasher
+CATEGORÍA: enemies
+FECHA: 2025-11-04 00:14:40
+
+================================================================================
+
+Swine Slasher Enemy Type Human / Beast Size 1 Actions per round Stats Variation Swine Slasher Swine Gorer Swine Meathooker HP 8 12 16 HP (Stygian/Bloodmoon) 10 15 20 Dodge 7.5% 16.25% 30% Protection 25% 40% 40% Speed 5 6 7 Stealth None Yes Yes Resistances Stun 10% 30% 55% Blight 40% 60% 85% Bleed 40% 60% 85% Debuff 15% 35% 60% Move 25% 45% 70% The Swine Slasher is Human / Beast enemy that appears in the Warrens . While they have very little in the way of health and status resistances, they possess a rather high protection stat and are capable of inflicting heavy damage to any rank from anywhere with their sole attack; Hook Where It Hurts . In addition to a high crit chance , this attack also moves the Swine Slasher back one rank, making it harder for your front line heroes to deal damage to it. On Veteran and Champion levels, this attack can also inflict a Debuff that will make your heroes more likely to contract a Disease or succumb to Bleeding (keep this in mind when healing with the Occultist ). With these attributes, this enemy should be considered a high priority in battle. Contents 1 Abilities 2 Related Enemies 2.1 Swinefolk 2.2 Bosses 3 Gallery Abilities Related Enemies Swinefolk Swine Chopper Swine Wretch Swine Drummer Swinetaur Swine Skiver Bosses Swine Prince Wilbur Flesh Gallery Swine Slasher's combat animation Attacking Defending Corpse view Enemies Shared Cultist Brawler Cultist Acolyte Brigand Cutthroat Brigand Fusilier Brigand Bloodletter Brigand Raider Brigand Hunter Madman Maggot Webber Spitter Bone Rabble Ghoul Gargoyle Supplicant Sycophant Manservant Gatekeeper Chevalier Pliskin Rattler Adder Ruins Bone Rabble Bone Soldier Bone Courtier Bone Arbalist Bone Defender Bone Spearman Bone Captain Bone Bearer Weald Ectoplasm Large Ectoplasm Fungal Scratcher Fungal Artillery Rabid Gnasher Crone Unclean Giant Hateful Virago Necrotic Fungus Warrens Swine Chopper Swine Slasher Swine Wretch Swine Drummer Carrion Eater Large Carrion Eater Swinetaur Swine Skiver Cove Pelagic Grouper Pelagic Shaman Pelagic Guardian Sea Maggot Deep Stinger Drowned Thrall Uca Major Squiffy Ghast Courtyard Supplicant Sycophant Chevalier Manservant Esquire Courtesan Carrion Eater Farmstead Crystalline Aberration Farmhand Foreman Scarecrow Plow Horse Sleeper's Herald Sleeper's Dream Darkest Dungeon Spoilers Ascended Brawler Ascended Witch Rapturous Cultist Cultist Priest Malignant Growth Defensive Growth Flesh Hound Polyp Templar Gladiator Templar Sniper Antibody White Cell Stalk
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Apprentice Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Hook Where It Hurts | Melee | 1, 2, 3, 4. | 1, 2, 3. | 82.5% | 16% | 3-7 | No Effect | [Íconos: Poptext move.png] Back1 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Veteran Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Hook Where It Hurts | Melee | 1, 2, 3, 4. | 1, 2, 3. | 88.75% | 21% | 4-9 | [Íconos: Poptext debuff.png] 120%Debuff: -20% Bleed Resist, -10% Disease Resist | [Íconos: Poptext move.png] Back1 | 
+
+
+
+
+
+=== TABLA DE INTERACCIONES ===
+
+
+Champion Level
+
+Skill Name | Range | Rank | Target | Accuracy | CritChance | Damage | Effect(Target) | Effect(Self) | Notes
+
+Hook Where It Hurts | Melee | 1, 2, 3, 4. | 1, 2, 3. | 102.5% | 22% | 7-13 | [Íconos: Poptext debuff.png] 140%Debuff: -30% Bleed Resist, -15% Disease Resist | [Íconos: Poptext move.png] Back1 | 
+
+
