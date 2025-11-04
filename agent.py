@@ -148,7 +148,7 @@ def configure_llm():
     return llm
 
 
-def create_agent(conn: sqlite3.Connection, query_history: list[str] | None = None, priorities: list[str] | None = None) -> dspy.Module | None:
+def create_agent(priorities: list[str] | None = None) -> dspy.Module | None:
     """Create and return the DDAgent instance.
 
     priorities: optional list controlling fallback order (e.g. ["local_search", "web_search"]).

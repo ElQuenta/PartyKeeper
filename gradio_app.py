@@ -5,11 +5,10 @@ import os
 from agent import create_agent
 
 
-_conn = sqlite3.connect(":memory:")
 try:
     priorities_env = os.getenv("RAG_PRIORITIES")
     priorities = priorities_env.split(",") if priorities_env else None
-    _agent = create_agent(_conn, priorities=priorities)
+    _agent = create_agent(priorities=priorities)
 except Exception as e:
     print("[gradio_app] Warning: failed to create agent at import time:", e)
 
@@ -60,14 +59,5 @@ def respond(message: str, history: list[tuple]) -> tuple[list[tuple], str]:
     return history, ""
 
 
-def start_ui(share: bool = False):
-    """Create and launch the Gradio chat UI. Returns the Gradio app instance.
-    Call `start_ui()` to run the server.
-    """
-    with gr.Blocks() as demo:
-        chatbot = gr.Chatbot()
-        msg = gr.Textbox(placeholder="Ask a question and press Enter")
-
-        msg.submit(respond, inputs=[msg, chatbot], outputs=[chatbot, msg])
-
-    demo.launch(share=share)
+demo = gr.ChatInterface(respond, type="messages")
+demo.launch()
