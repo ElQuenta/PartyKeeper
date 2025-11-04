@@ -1,0 +1,353 @@
+Título: Trinkets
+URL: https://darkestdungeon.wiki.gg/wiki/Trinkets
+Fecha: 2025-11-03 20:21:40
+
+================================================================================
+
+Trinkets Butcher's Circus Trinkets are pieces of equipment obtained while adventuring in the dungeons, earned as rewards from quests, or bought at the Nomad Wagon . Certain trinkets are earned by defeating specific enemies. Each hero is able to carry up to two different trinkets at a time. If a hero dies, their trinkets can be scavenged if the player perseveres and wins the battle. Fleeing a battle will not give such an opportunity. The trinkets confer stat bonuses and penalties when worn, and it is up to the player to use them to their full effect. Trinkets have different rarities, which are denoted in game by color and description. A trinket is given as a reward for completing each expedition , starting at Common for short Apprentice dungeons and increasing one level of rarity for each additional difficulty or length (up to Ancestral for long Champion dungeons). Boss-slaying expeditions always have a Very Rare trinket as a reward regardless of difficulty. Some trinkets can be found as a quest reward for only a specific region. These can still be bought from the Nomad Wagon . Some unique trinkets can only be found by killing specific enemies. Madmen will very rarely drop music boxes, and The Collector miniboss will sometimes drop powerful head-based trinkets (though these can also be found in Secret Rooms ). Defeating the Champion version of any of the 8 bosses (from the 4 normal regions) also awards a Trophy trinket exclusive to that boss. Ancestral trinkets, enemy trinkets (Madman, Collector, and Trophy ), and some Very Rare trinkets (particularly those from DLCs) are all unique. Once you own one, you cannot find a duplicate. If a Trophy (or a Talisman of the Flame) is lost, it will automatically reappear in the inventory the next week. If any other unique trinket is sold or discarded from the inventory, it must be found again from the same source. If you have lost (not sold/discarded) at least eight trinkets throughout your playthrough, a special quest named Shrieker's Perch will become available on the Estate map. This is a regular encounter with the Shrieker that rewards eight of your lost trinkets upon completion. Certain unique trinkets, like Ancestral trinkets, can only be recovered this way if lost. Two trinkets, the Stone of Patience and the Stone of Endurance, are currently exclusive to the PS4 and VITA versions of the game. Contents 1 Equipping Trinkets 2 Selling Trinkets 3 Normal Trinkets List 3.1 Generic Trinkets 3.2 Hero Trinkets 4 Unique Trinkets 4.1 Enemy Trinkets 4.2 The Ancestor's Trinkets 4.3 Trophies 4.4 Shrieker Trinkets 4.5 Crimson Court Trinkets 4.6 Trinket Sets 4.7 Color of Madness Trinkets 5 Special 6 History 7 Unused Trinkets 8 Number of Trinkets Equipping Trinkets Trinkets are listed in your Trinket Inventory , accessed by left-clicking the "chest" icon at the bottom right of your game screen. Your trinkets can be sorted by Class Restriction, by Rarity, or Alphabetically by name. To equip a trinket to a Hero, open that Hero's character sheet by right-clicking the picture of that hero. Then simply drag/drop the desired trinket to one of the two slots at the bottom of the screen, or manually sorted by dragging/dropping them to a new slot in the inventory. If a trinket is already in a selected slot (on the character or in the inventory), that trinket will swap places with the new one. This technique can also be used during a mission via that Inventory screen, to either equip a newly found trinket (and freeing up an inventory slot, if no equipped trinket replaces it), to unequip an unwanted trinket (assuming there is an open slot in the Inventory), or even to swap trinkets from one character to another by using both these actions. There is also an option to "unequip all trinkets" from any and all Heroes. Newly unequipped trinkets will be listed at the bottom of the inventory until re-sorted. Selling Trinkets Trinkets can be sold in the hamlet from the Trinket Inventory by holding SHIFT and clicking on them. Sell values for trinkets are as follows: Darkest Dungeon , Trophy , Crystalline , Keepsake , and Thing trinkets cannot be sold. Normal Trinkets List There are two types of Normal Trinkets; Generic and Hero specific. The player can have as many of these Trinkets in their inventory as they'd like. Generic Trinkets Generic Trinkets can be equipped by any hero. Hero Trinkets Hero Trinkets can only be equipped by the specific hero listed on the trinket. Each hero has 1-3 common/uncommon trinkets along with 1 rare/very rare trinket. Unique Trinkets The second type of Trinkets are Unique Trinkets. The player can only have one of each of the following trinkets in their inventory at once. Enemy Trinkets These Trinkets are mainly only dropped after defeating certain rare and/or powerful enemies. The only exception is The Collector's heads, which can also be found within Secret Rooms. The Ancestor's Trinkets While he was alive, the Ancestor had several powerful items that have since been scattered across the land. These items are powerful, and any hero who wields them might hold that power. However, the weight of the Ancestor's horrible actions still cling to these artifacts, and any hero holding them will feel that sinister energy upon themselves... Ancestral trinkets are usually obtained from completing long Champion-level quests and in Endless Harvest at rounds 100+. They may rarely be discovered in loot. Certain areas in the Darkest Dungeon have chests guaranteed to contain Ancestral trinkets. Five of these trinkets can only be obtained by killing the Shambler or Shuffling Horror . The "Sentimental relics from our forefathers" achievement requires the player to acquire all 14 Ancestral trinkets, which will involve needing to hunt Shamblers. Trophies Trophies are unique Trinkets that are only offered as quest rewards when defeating the highest level of a boss encounter. They mostly only offer positive bonuses with no penalties, and will also re-appear in your inventory back at the hamlet, should you lose them in a mission. Shrieker Trinkets The Radiant Update added a monster known as The Shrieker. It spawns from certain town events, one of which is called "Shrieker's Prize." Each time you complete this quest, you are awarded one of these trinkets. Crimson Court Trinkets These are special trinkets unique to the Crimson Court DLC . While they act like most Very Rare trinkets, the player can only keep one each in their inventory. All of them have effects that involve the Crimson Curse or the Courtyard in some way. All of these items can be dropped by the Fanatic , except Sculptor's Tools, which is treated the same as any Very Rare trinket. Trinket Sets The Crimson Court DLC added special Trinket Sets, two for each hero. They confer powerful bonuses to the hero equipped with them, and having both equipped at once yields an additional bonus, which is shown greyed out at the bottom. The origin dungeon for all Trinket Sets is the Courtyard and they all have the rarity Crimson Court . The Shieldbreaker Trinket Set , however, is only obtainable through her final 6th and 7th nightmare encounters and won't be dropped or given as a reward in the Courtyard. Trinkets you already have will stop dropping, so there's value in not selling the ones you don't like until you get the ones you want. Color of Madness Trinkets The Color of Madness DLC added trinkets with a new rarity, Crystalline . Each hero has their own unique crystalline trinket which can be bought from Jeweler inside the Nomad Wagon with Crystal Shards found within the Farmstead . Special These are special trinkets that have special properties that make them more unique than other trinkets. They include trinkets only found when the game begins, and the Talisman of the Flame. History When originally introduced, Tempting Goblet's rarity was Very Rare . A new subset of ancestral items were introduced in the Fiends & Frenzy update, Ancestor's trinkets. Ancestral trinkets not belonging to the Ancestor Set were later reclassified as Very Rare trinkets. The Inhuman Bondage update added a new subset of trinkets that can be found by defeating the new enemies ( Madman and The Collector ). With the full release of the game, Trophy Trinkets were introduced. With the release of the PS4 and VITA ports of the game, 5 new trinkets were added to the console versions. Two of which, the Stone of Endurance and Stone of Patience, are currently available upon starting up a new game. The other three are very rarely dropped by champion level enemies. With the release of the The Crimson Court , Trinket Sets and Sets bonuses were introduced to the game, alongside plenty of new Very Rare quality trinkets and rebalancing of old trinkets' effect and rarity. The The Color of Madness added crystalline trinkets which can be bought with shards, earned by completing the Farmstead quests. The Musketeer was also made available to all players, bringing her trinkets into the available pool. Additionally, several of the existing trinkets were rebalanced in terms of effects and rarity. Unused Trinkets There are a few unused trinkets in the game folders with unknown uses. Number of Trinkets Below are tables that shows the number of trinkets in the game depending on DLC, as well as how many are in each trinket group. Unused trinkets, backer trinkets , and the two PS4 exclusive trinkets will not be listed.
+
+
+=== TABLA 2 ===
+
+Trinket Image | Trinket Name | Rarity | Origin Dungeon | Effect | Additional Notes
+[Íconos: Inv trinket-accuracy stone.png]  | Accuracy Stone | (Very) Common | Warrens | +4 ACC -1 SPD | 
+[Íconos: Inv trinket-bleed charm.png]  | Bleed Charm | (Very) Common | Weald | +20% Bleed Resist -2 DODGE | 
+[Íconos: Inv trinket-bleed stone.png]  | Bleed Stone | (Very) Common |  | +15% Bleed Skill Chance -1 SPD | 
+[Íconos: Inv trinket-blight charm.png]  | Blight Charm | (Very) Common |  | +20% Blight Resist -2 DODGE | 
+[Íconos: Inv trinket-blight stone.png]  | Blight Stone | (Very) Common |  | +15% Blight Skill Chance -1 SPD | 
+[Íconos: Inv trinket-critical stone.png]  | Critical Stone | (Very) Common | Warrens | +3% CRIT -1 SPD | 
+[Íconos: Inv trinket-debuff charm.png]  | Debuff Charm | (Very) Common |  | +20% Debuff Resist -2 DODGE | 
+[Íconos: Inv trinket-debuff stone.png]  | Debuff Stone | (Very) Common | Ruins | +15% Debuff Skill Chance -1 SPD | 
+[Íconos: Inv trinket-disease charm.png]  | Disease Charm | (Very) Common |  | +20% Disease Resist -2 DODGE | 
+[Íconos: Inv trinket-dodge stone.png]  | Dodge Stone | (Very) Common | Ruins | +4 DODGE -1 SPD | 
+[Íconos: Inv trinket-health stone.png]  | Health Stone | (Very) Common |  | +10% MAX HP -1 SPD | 
+[Íconos: Inv trinket-move charm.png]  | Move Charm | (Very) Common | Weald | +20% Move Resist -1 SPD | 
+[Íconos: Inv trinket-move stone.png]  | Move Stone | (Very) Common |  | +15% Move Skill Chance -1 SPD | 
+[Íconos: Inv trinket-protection stone.png]  | Protection Stone | (Very) Common |  | +5% PROT -1 SPD | 
+[Íconos: Inv trinket-stun charm.png]  | Stun Charm | (Very) Common | Ruins | +20% Stun Resist -2 DODGE | 
+[Íconos: Inv trinket-stun stone.png]  | Stun Stone | (Very) Common |  | +10% Stun Skill Chance -1 SPD | 
+[Íconos: Inv trinket-archers ring.png]  | Archer's Ring | Common |  | +5 ACC Ranged Skills -1 SPD | 
+[Íconos: Inv trinket-bloodied fetish.png]  | Bloodied Fetish | Common |  | +20% Blight Resist +20% Bleed Resist -20% Disease Resist | 
+[Íconos: Inv trinket-book of intuition.png]  | Book of Intuition | Common |  | -20% Chance Party Surprised -1 SPD | 
+[Íconos: Inv trinket-caution cloak.png]  | Caution Cloak | Common | Weald | +10% Scouting Chance -10 SPD on First Round | 
+[Íconos: Inv trinket-damage stone.png]  | Damage Stone | Common |  | +10% DMG -4 DODGE | 
+[Íconos: Inv trinket-dazzling charm.png]  | Dazzling Charm | Common |  | +10% Stun Skill Chance | 
+[Íconos: Inv trinket-deteriorating bracer.png]  | Deteriorating Bracer | Common | Weald | +10 DODGE if HP above 75% -6 DODGE if HP below 50% | 
+[Íconos: Inv trinket-reckless charm.png]  | Reckless Charm | Common | Weald | +5 ACC -2 DODGE | 
+[Íconos: Inv trinket-slippery boots.png]  | Slippery Boots | Common |  | +4 DODGE -20% Move Resist | 
+[Íconos: Inv trinket-snake oil.png]  | Snake Oil | Common | Ruins | -10% Stress | 
+[Íconos: Inv trinket-speed stone.png]  | Speed Stone | Common |  | +1 SPD | 
+[Íconos: Inv trinket-survival guide.png]  | Survival Guide | Common |  | +10% Scouting Chance +10% Trap Disarm Chance -1 SPD | 
+[Íconos: Inv trinket-warriors bracer.png]  | Warrior's Bracer | Common |  | +10% DMG Melee Skills -4 DODGE | 
+[Íconos: Inv trinket-warriors cap.png]  | Warrior's Cap | Common |  | +5 ACC Melee Skills | 
+[Íconos: Inv trinket-bleed amulet.png]  | Bleed Amulet | Uncommon |  | +20% Bleed Skill Chance +20% Bleed Resist -20% Blight Resist | 
+[Íconos: Inv trinket-blight amulet.png]  | Blight Amulet | Uncommon |  | +20% Blight Skill Chance +20% Blight Resist -20% Bleed Resist | 
+[Íconos: Inv trinket-blood charm.png]  | Blood Charm | Uncommon |  | +30% Bleed Resist | 
+[Íconos: Inv trinket-bloodthirst ring.png]  | Bloodthirst Ring | Uncommon |  | -100% Food Consumed +10% MAX HP -25% Healing Received | 
+[Íconos: Inv trinket-book of constitution.png]  | Book of Constitution | Uncommon |  | +30% Blight Resist +30% Disease Resist -1 SPD | 
+[Íconos: Inv trinket-book of holiness.png]  | Book of Holiness | Uncommon |  | -20% Stress -10% Death Blow Resist | 
+[Íconos: Inv trinket-book of rage.png]  | Book of Rage | Uncommon | Weald | +20% DMG if HP below 33% +8% CRIT if HP below 33% -10% Bleed Resist -10% Blight Resist | 
+[Íconos: Inv trinket-book of relaxation.png]  | Book of Relaxation | Uncommon |  | -10% Stress +4 ACC -4 DODGE | 
+[Íconos: Inv trinket-camouflage cloak.png]  | Camouflage Cloak | Uncommon |  | +15 DODGE if Torch above 75 -20% Stun Resist | 
+[Íconos: Inv trinket-calming crystal.png]  | Calming Crystal | Uncommon | Ruins | -15% Stress -1 SPD | 
+[Íconos: Inv trinket-chirurgeons charm.png]  | Chirurgeon's Charm | Uncommon |  | +15% Healing Skills | 
+[Íconos: Inv trinket-dark bracer.png]  | Dark Bracer | Uncommon |  | +8% CRIT if Torch below 26 +5 DODGE if Torch below 51 -10% DMG if Torch above 51 | 
+[Íconos: Inv trinket-debuff amulet.png]  | Debuff Amulet | Uncommon |  | +30% Debuff Skill Chance +30% Debuff Resist -4 DODGE | 
+[Íconos: Inv trinket-gamblers charm.png]  | Gambler's Charm | Uncommon |  | +15% MAX HP -10% Death Blow Resist | 
+[Íconos: Inv trinket-heavy boots.png]  | Heavy Boots | Uncommon |  | +40% Move Resist +20% PROT -2 SPD | 
+[Íconos: Inv trinket-life crystal.png]  | Life Crystal | Uncommon |  | +20% MAX HP -1 SPD | 
+[Íconos: Inv trinket-move amulet.png]  | Move Amulet | Uncommon |  | +20% Move Skill Chance +30% Move Resist -10% Debuff Resist | 
+[Íconos: Inv trinket-seer stone.png]  | Seer Stone | Uncommon | Ruins | +15% Scouting Chance -1 SPD | 
+[Íconos: Inv trinket-shimmering cloak.png]  | Shimmering Cloak | Uncommon | Ruins | +8 DODGE -33% Healing Received | 
+[Íconos: Inv trinket-solar bracer.png]  | Solar Bracer | Uncommon | Warrens | +4% CRIT if Torch above 75 +5 DODGE if Torch above 75 -5% CRIT if Torch below 50 -6 DODGE if Torch below 51 | 
+[Íconos: Inv trinket-steady bracer.png]  | Steady Bracer | Uncommon |  | +10 ACC Ranged Skills -2 DODGE | 
+[Íconos: Inv trinket-stun amulet.png]  | Stun Amulet | Uncommon |  | +10% Stun Skill Chance +20% Stun Resist -4 DODGE | 
+[Íconos: Inv trinket-surgical glove.png]  | Surgical Gloves | Uncommon | Warrens | +8% CRIT Melee Skills +5 ACC Melee Skills -20% Move Resist -10% Debuff Resist | 
+[Íconos: Inv trinket-swift cloak.png]  | Swift Cloak | Uncommon |  | +2 SPD -20% Move Resist | 
+[Íconos: Inv trinket-tenacity ring.png]  | Tenacity Ring | Uncommon | Ruins | +10% Death Blow Resist +5 DODGE -5% CRIT | 
+[Íconos: Inv trinket-worrystone.png]  | Worrystone | Uncommon |  | +10% Virtue Chance -10% Stress -1 SPD | 
+[Íconos: Inv trinket-beast slayers ring.png]  | Beast Slayer's Ring | Rare |  | +25% DMG vs Beast -8 DODGE | 
+[Íconos: Inv trinket-berserk charm.png]  | Berserk Charm | Rare | Warrens | +3 SPD +15% DMG +15% Stress -5 ACC -10% Virtue Chance | 
+[Íconos: Inv trinket-brawlers gloves.png]  | Brawler's Gloves | Rare |  | +25% DMG if in position 1 -5% CRIT -1 SPD | 
+[Íconos: Inv trinket-dark crown.png]  | Dark Crown | Rare | Weald | -25% Stress if Torch below 26 +15% Virtue Chance if Torch below 26 | 
+[Íconos: Inv trinket-eldritch slayers ring.png]  | Eldritch Slayer's Ring | Rare |  | +25% DMG vs Eldritch -8 DODGE | 
+[Íconos: Inv trinket-fasting seal.png]  | Fasting Seal | Rare | Warrens | -100% Food Consumed -100% DMG Inflicted When Starving +5 DODGE | 
+[Íconos: Inv trinket-feather crystal.png]  | Feather Crystal | Rare |  | +2 SPD +8 DODGE -20% Stun Resist -20% Move Resist | 
+[Íconos: Inv trinket-man slayers ring.png]  | Man Slayer's Ring | Rare |  | +25% DMG vs Human -8 DODGE | 
+[Íconos: Inv trinket-moon cloak.png]  | Moon Cloak | Rare |  | +15% PROT if Torch below 26 +10 DODGE if Torch below 26 +10% Stress | 
+[Íconos: Inv trinket-moon ring.png]  | Moon Ring | Rare |  | +15% DMG if Torch below 26 +10 ACC if Torch below 26 +10% Stress | 
+[Íconos: Inv trinket-quick draw charm.png]  | Quick Draw Charm | Rare |  | +8 SPD on First Round +12% CRIT on First Round -3 SPD after First Round | 
+[Íconos: Inv trinket-recovery charm.png]  | Recovery Charm | Rare |  | +40% Healing Received | 
+[Íconos: Inv trinket-snipers ring.png]  | Sniper's Ring | Rare |  | +15 ACC if in position 4 +4% CRIT if in position 4 -2 SPD | 
+[Íconos: Sun crown.png]  | Solar Crown | Rare |  | -20% Stress if Torch above 75 | 
+[Íconos: Inv trinket-sun cloak.png]  | Sun Cloak | Rare |  | +5% PROT if Torch above 75 +10 DODGE if Torch above 75 +10% Stress | 
+[Íconos: Inv trinket-sun ring.png]  | Sun Ring | Rare |  | +10% DMG if Torch above 75 +5 ACC if Torch above 75 +10% Stress | 
+[Íconos: Inv trinket-unholy slayers ring.png]  | Unholy Slayer's Ring | Rare |  | +25% DMG vs Unholy -8 DODGE | 
+[Íconos: Inv trinket-book of sanity.png]  | Book of Sanity | Very Rare |  | -20% Stress | 
+[Íconos: Inv trinket-cleansing crystal.png]  | Cleansing Crystal | Very Rare | Warrens | +40% Blight Resist +40% Bleed Resist +40% Debuff Resist -15% Blight Skill Chance -15% Bleed Skill Chance -15% Debuff Skill Chance | 
+[Íconos: Inv trinket-ethereal crucifix.png]  | Ethereal Crucifix | Very Rare |  | +25% DMG vs Eldritch +30% Bleed Resist -20% MAX HP | The player can only have one of this trinket in their inventory.
+[Íconos: Inv trinket-focus ring.png]  | Focus Ring | Very Rare |  | +10 ACC +5% CRIT -8 DODGE | 
+[Íconos: Inv trinket-fortifying garlic.png]  | Fortifying Garlic | Very Rare |  | +33% Blight Resist +33% Bleed Resist +33% Disease Resist | The player can only have one of this trinket in their inventory.
+[Íconos: Inv trinket-heros ring.png]  | Hero's Ring | Very Rare |  | +25% Virtue Chance | 
+[Íconos: Inv trinket-legendary bracer.png]  | Legendary Bracer | Very Rare |  | +20% DMG -1 SPD +10% Stress | 
+[Íconos: Inv trinket-martyrs seal.png]  | Martyr's Seal | Very Rare |  | +60% DMG at Death's Door +14% CRIT at Death's Door +12% Death Blow Resist +15% MAX HP | 
+[Íconos: Inv trinket-tough ring.png]  | Tough Ring | Very Rare |  | +10% PROT +15% MAX HP -15% DMG +10% Stress | 
+
+
+=== TABLA 3 ===
+
+Trinket Image | Trinket Name | Rarity | Class Restriction | Origin Dungeon | Effect | Additional Notes
+[Íconos: Inv trinket padlock patience.png]  | Lock of Patience | Common | Abomination |  | +10% Virtue Chance | 
+[Íconos: Padlockoftransference.png]  | Padlock of Transference | Uncommon | Abomination |  | +20% Stun Skill Chance +20% Blight Skill Chance | 
+[Íconos: Protectivepadlock.png]  | Protective Padlock | Uncommon | Abomination |  | +15% PROT -1 SPD | 
+[Íconos: Lockoffury.png]  | Lock of Fury | Rare | Abomination |  | +10% DMG +3 SPD -10% MAX HP | 
+[Íconos: Restrainingpadlock.png]  | Restraining Padlock | Very Rare | Abomination |  | Transform: -40% Stress Inflicted on Party -40% Transformation Stress | 
+[Íconos: Bag of Marbles.png]  | Bag of Marbles | Common | Antiquarian |  | +10 DODGE | 
+[Íconos: Bloodcourse Medallion.png]  | Bloodcourse Medallion | Uncommon | Antiquarian |  | +33% Healing Received | 
+[Íconos: Carapace Idol.png]  | Carapace Idol | Uncommon | Antiquarian |  | +25% PROT | 
+[Íconos: Fleet Florin.png]  | Fleet Florin | Rare | Antiquarian |  | +4 SPD +20% Debuff Skill Chance | 
+[Íconos: Candle of Life.png]  | Candle of Life | Very Rare | Antiquarian |  | +50% Healing Skills +15% MAX HP | 
+[Íconos: Sturdygreaves.png]  | Sturdy Greaves | Common | Arbalest |  | +30% Move Resist +30% Move Skill Chance -1 SPD | 
+[Íconos: Vengefulgreaves.png]  | Vengeful Greaves | Common | Arbalest |  | +3% CRIT | 
+[Íconos: Inv trinket medics greaves.png]  | Medic's Greaves | Uncommon | Arbalest |  | +33% Healing Skills | 
+[Íconos: One eye bandana.png]  | Bull's Eye Bandana | Rare | Arbalest |  | +8 ACC +5% CRIT -4 DODGE | 
+[Íconos: Bandana.png]  | Wrathful Bandana | Very Rare | Arbalest | Warrens | +25% DMG if in position 4 +30% Debuff Skill Chance -50% Healing Skills | 
+[Íconos: Inv trinket-agile talon.png]  | Agility Talon | Common | Bounty Hunter |  | +1 SPD +4 DODGE | 
+[Íconos: Inv trinket-unmovable helmet.png]  | Unmovable Helmet | Common | Bounty Hunter |  | +30% Move Resist +20% Move Skill Chance | 
+[Íconos: Inv trinket-campers helmet.png]  | Camper's Helmet | Uncommon | Bounty Hunter |  | +20% Stress Heal Received while Camping +10% Scouting Chance | 
+[Íconos: Inv trinket-hunters talon.png]  | Hunter's Talons | Rare | Bounty Hunter | Warrens | +6% CRIT +10 ACC +50% Food Consumed | Increases maximum food eaten at camp by 1, as compared to 2 with +100% Food Consumed.
+[Íconos: Inv trinket-wounding helmet.png]  | Wounding Helmet | Very Rare | Bounty Hunter |  | +25% DMG Melee Skills -25% Move Skill Chance -20% Stun Skill Chance | 
+[Íconos: Inv trinket-defenders seal.png]  | Defender's Seal | Common | Crusader |  | +5% PROT -3% CRIT | 
+[Íconos: Inv trinket-knights crest.png]  | Knight's Crest | Common | Crusader |  | +10% MAX HP | 
+[Íconos: Inv trinket-swordsmans crest.png]  | Swordsman's Crest | Common | Crusader |  | +10% DMG Melee Skills -50% Healing Skills | 
+[Íconos: Inv trinket-paralyzers crest.png]  | Paralyzer's Crest | Uncommon | Crusader |  | +20% Stun Skill Chance -2 DODGE | 
+[Íconos: Inv trinket-commanders orders.png]  | Commander's Orders | Rare | Crusader |  | +15% Stress Heal Received +33% Healing Skills -10% DMG | 
+[Íconos: Inv trinket-holy orders.png]  | Holy Orders | Very Rare | Crusader |  | +15% Virtue Chance -20% Stress +12% Death Blow Resist -20% Blight Resist -20% Bleed Resist | 
+[Íconos: Flag hood 1.png, Exclusive to The Crimson Court DLC]  | Heartburst Hood | Common | Flagellant |  | +4 SPD if HP below 40% | 
+[Íconos: Flag collar 1.png, Exclusive to The Crimson Court DLC]  | Resurrection's Collar | Uncommon | Flagellant |  | +33% Healing Skills -15% Bleed Skill Chance | 
+[Íconos: Flag hood 2.png, Exclusive to The Crimson Court DLC]  | Punishment's Hood | Uncommon | Flagellant |  | +20% Bleed Skill Chance -20% Healing Skills +15% DMG if HP below 40% | 
+[Íconos: Flag collar 2.png, Exclusive to The Crimson Court DLC]  | Suffering's Collar | Rare | Flagellant |  | +20% Bleed Resist if HP below 40% +20% Blight Resist if HP below 40% +10% MAX HP | 
+[Íconos: Eternity's Collar.png, Exclusive to The Crimson Court DLC]  | Eternity's Collar | Very Rare | Flagellant |  | +10% Death Blow Resist +20 DODGE at Death's Door +20% DMG if Stress above 85 | 
+[Íconos: Inv trinket-quickening satchel.png]  | Quickening Satchel | Common | Grave Robber |  | +2 SPD | 
+[Íconos: Inv trinket-stunning satchel.png]  | Sickening Satchel | Common | Grave Robber |  | +20% DMG vs Blighted | 
+[Íconos: Inv trinket-seers satchel.png]  | Blighting Satchel | Uncommon | Grave Robber |  | +25% Blight Skill Chance +1 SPD -4 DODGE | 
+[Íconos: Inv trinket-lucky talisman.png]  | Lucky Talisman | Rare | Grave Robber |  | +12 DODGE +10 ACC Ranged Skills +10% Stress | 
+[Íconos: Inv trinket-raiders talisman.png]  | Raider's Talisman | Very Rare | Grave Robber | Warrens | +5% CRIT +30% Trap Disarm Chance +2 SPD +15% Scouting Chance -10% MAX HP | 
+[Íconos: Inv trinket-bleeding pendant.png]  | Bleeding Pendant | Common | Hellion |  | +15% Bleed Skill Chance | 
+[Íconos: Inv trinket-selfish pendant.png]  | Selfish Pendant | Common | Hellion | Weald | -15% Stress | 
+[Íconos: Inv trinket-double edged pendant.png]  | Double-Edged Pendant | Uncommon | Hellion |  | +15% MAX HP -20% Stun Resist | 
+[Íconos: Inv trinket-heavens hairpin.png]  | Heaven's Hairpin | Rare | Hellion |  | -25% Stress if Torch above 75 +10 ACC if Torch above 75 | 
+[Íconos: Inv trinket-hells hairpin.png]  | Hell's Hairpin | Very Rare | Hellion |  | +10% CRIT if Torch below 25 +15 ACC if Torch below 25 -10% Debuff Resist -10% Bleed Resist | 
+[Íconos: Inv trinket-drifters buckle.png]  | Drifter's Buckle | Common | Highwayman |  | +10% Trap Disarm Chance +4 DODGE -5% Stress Heal Received | 
+[Íconos: Inv trinket-flashfire gunpowder.png]  | Flashfire Gunpowder | Common | Highwayman |  | +10% DMG Ranged Skills -20% Stun Resist | 
+[Íconos: Inv trinket-cursed buckle.png]  | Stalwart Buckle | Common | Highwayman |  | +5% CRIT +5% Stress -3% Virtue Chance | 
+[Íconos: Inv trinket-dodgy sheath.png]  | Dodgy Sheath | Uncommon | Highwayman |  | +8 DODGE +1 SPD -10 ACC Ranged Skills | 
+[Íconos: Inv trinket-sharpening sheath.png]  | Sharpening Sheath | Rare | Highwayman |  | +7% CRIT Melee Skills +40% Bleed Skill Chance -1 SPD | 
+[Íconos: Inv trinket-poisoning buckle.png]  | Gunslinger's Buckle | Very Rare | Highwayman | Ruins | +20% DMG Ranged Skills +15 ACC Ranged Skills -10% DMG Melee Skills -5% CRIT Melee Skills | 
+[Íconos: Inv trinket-agility whistle.png]  | Agility Whistle | Common | Houndmaster |  | +4 DODGE +1 SPD -20% Debuff Resist | 
+[Íconos: Inv trinket scouting whistle.png]  | Scouting Whistle | Common | Houndmaster |  | +20% Scouting Chance if Torch below 51 +20% Trap Disarm Chance | With above 75 light, the Scouting bonus is +15%, while below 51 has no bonus (thus the scouting bonus is a net +5% compared to high light).
+[Íconos: Caudgel weight.png]  | Cudgel Weight | Uncommon | Houndmaster |  | +25% Stun Skill Chance -1 SPD | 
+[Íconos: Protective Collar.png]  | Protective Collar | Rare | Houndmaster |  | +12 DODGE -15% DMG | 
+[Íconos: Collar.png]  | Spiked Collar | Very Rare | Houndmaster | Warrens | +20% DMG +30% Bleed Skill Chance -50% Healing Skills -20% Healing Received | 
+[Íconos: Inv trinket-bloody dice.png]  | Bloody Dice | Common | Jester |  | +30% Bleed Skill Chance -10% Bleed Resist | 
+[Íconos: Inv trinket-lucky dice.png]  | Lucky Dice | Common | Jester |  | +4 ACC +4 DODGE | 
+[Íconos: Inv trinket-critical dice.png]  | Critical Dice | Uncommon | Jester |  | +7% CRIT | 
+[Íconos: Inv trinket-bright tambourine.png]  | Bright Tambourine | Rare | Jester |  | +20% Stress Skills -25% Stress if Torch above 75 +15% Stress if Torch below 51 | 
+[Íconos: Inv trinket-dark tambourine.png]  | Dark Tambourine | Very Rare | Jester |  | +12% Death Blow Resist -25% Stress if Torch below 26 +10% Virtue Chance if Torch below 26 | 
+[Íconos: Inv trinket-healing armlet.png]  | Healing Armlet | Common | Leper |  | +20% Healing Received | 
+[Íconos: Inv trinket-selfish armlet.png]  | Redemption Armlet | Common | Leper |  | +15% DMG if in position 1 -3% Virtue Chance | 
+[Íconos: Inv trinket-fortunate armlet.png]  | Fortunate Armlet | Uncommon | Leper |  | +8 ACC +3% CRIT +10% Stress | 
+[Íconos: Inv trinket-immunity mask.png]  | Immunity Mask | Rare | Leper |  | +40% Stun Resist +30% Blight Resist +30% Bleed Resist -10% MAX HP | 
+[Íconos: Berserk mask.png]  | Berserk Mask | Very Rare | Leper |  | +8% CRIT +3 SPD -10% Virtue Chance -33% Healing Received | 
+[Íconos: Inv trinket-cleansing eyepatch.png]  | Cleansing Eyepatch | Common | Man-at-Arms | Weald | +30% Blight Resist +20% Disease Resist -2 DODGE | 
+[Íconos: Inv trinket-sly eyepatch.png]  | Sly Eyepatch | Common | Man-at-Arms |  | +4 DODGE -10% Stun Resist -10% Move Resist | 
+[Íconos: Inv trinket longevity eyepatch.png]  | Longevity Eyepatch | Uncommon | Man-at-Arms |  | +15% MAX HP -2 SPD | 
+[Íconos: Inv trinket-guardians shield.png]  | Rampart Shield | Rare | Man-at-Arms |  | +40% Move Skill Chance +30% Stun Skill Chance -15% DMG | 
+[Íconos: Man at arms Shield.png]  | Guardian's Shield | Very Rare | Man-at-Arms |  | +10% PROT if in position 4 +50% Healing Received if in position 4 +10 DODGE if in position 4 | 
+[Íconos: Sturdy boots.png]  | Sturdy Boots | Common | Musketeer |  | +30% Move Resist +30% Move Skill Chance -1 SPD | 
+[Íconos: Vengeful boots.png]  | Vengeful Boots | Common | Musketeer |  | +3% CRIT | 
+[Íconos: Medics boots.png]  | Medic's Boots | Uncommon | Musketeer |  | +33% Healing Skills | 
+[Íconos: Bullseyehat.png]  | Bull's Eye Hat | Rare | Musketeer |  | +8 ACC +5% CRIT -4 DODGE | 
+[Íconos: Wrathful hat.png]  | Wrathful Hat | Very Rare | Musketeer | Warrens | +25% DMG if in position 4 +30% Debuff Skill Chance -50% Healing Skills | 
+[Íconos: Inv trinket-eldritch killing incense.png]  | Eldritch Killing Incense | Common | Occultist |  | +6% CRIT vs Eldritch +15% DMG vs Eldritch | 
+[Íconos: Inv trinket-evasion incense.png]  | Evasion Incense | Common | Occultist |  | +8 DODGE -1 SPD | 
+[Íconos: Inv trinket-cursed incense.png]  | Cursed Incense | Uncommon | Occultist |  | +40% Debuff Skill Chance +20% Move Skill Chance -10% MAX HP | 
+[Íconos: Inv trinket-sacrificial cauldron.png]  | Sacrifical Cauldron | Rare | Occultist |  | +20% DMG +10% Stress | 
+[Íconos: Inv trinket-demons cauldron.png]  | Demon's Cauldron | Very Rare | Occultist |  | +30% Stun Skill Chance +40% Debuff Skill Chance +3% CRIT -10% Virtue Chance +15% Stress | 
+[Íconos: Inv trinket-diseased herb.png]  | Diseased Herb | Common | Plague Doctor |  | +40% Disease Resist | 
+[Íconos: Inv trinket-rotgut censer.png]  | Rotgut Censer | Common | Plague Doctor |  | +8 ACC -5% MAX HP | 
+[Íconos: Inv trinket-witchs vial.png]  | Witch's Vial | Common | Plague Doctor |  | +15% Stun Skill Chance | 
+[Íconos: Inv trinket-poisoned herb.png]  | Poisoned Herb | Uncommon | Plague Doctor |  | +40% Blight Skill Chance -15% MAX HP | 
+[Íconos: Inv trinket-bloody herb.png]  | Bloody Herb | Rare | Plague Doctor |  | +10 ACC Melee Skills +30% Bleed Skill Chance +20% DMG Melee Skills | 
+[Íconos: Inv trinket-blasphemous vial.png]  | Blasphemous Vial | Very Rare | Plague Doctor |  | +10 ACC Ranged Skills +20% Stun Skill Chance +20% Blight Skill Chance +25% Stress | 
+[Íconos: Inv trinket-sb 1.png, Exclusive to The Shieldbreaker DLC]  | Venomous Vial | Common | Shieldbreaker |  | +30% Blight Skill Chance -10% Blight Resist | Found after defeating the first nightmare.Cannot be sold. This trinket appears in your Trinket Inventory back in Hamlet even if you don't pick it up.
+[Íconos: Inv trinket-sb 2.png, Exclusive to The Shieldbreaker DLC]  | Shimmering Scale | Uncommon | Shieldbreaker |  | +10% PROT +5% Stress | Found after defeating the second nightmare.Cannot be sold.This trinket appears in your Trinket Inventory back in Hamlet even if you don't pick it up.
+[Íconos: Inv trinket-sb 3.png, Exclusive to The Shieldbreaker DLC]  | Dancer's Footwraps | Uncommon | Shieldbreaker |  | +40% Move Resist +2 SPD | Found after defeating the third nightmare.Cannot be sold.This trinket appears in your Trinket Inventory back in Hamlet even if you don't pick it up.
+[Íconos: Inv trinket-sb 4.png, Exclusive to The Shieldbreaker DLC]  | Fanged Spear Tip | Rare | Shieldbreaker |  | +35% DMG vs Marked -10% DMG | Found after defeating the fourth nightmare.Cannot be sold.This trinket appears in your Trinket Inventory back in Hamlet even if you don't pick it up.
+[Íconos: Inv trinket-sb 5.png, Exclusive to The Shieldbreaker DLC]  | Cuirboilli | Very Rare | Shieldbreaker |  | +33% MAX HP -2 SPD | Found after defeating the fifth nightmare.Cannot be sold.This trinket appears in your Trinket Inventory back in Hamlet even if you don't pick it up.
+[Íconos: Inv trinket-recovery chalice.png]  | Virtuous Chalice | Common | Vestal |  | +10% Virtue Chance -5% MAX HP | 
+[Íconos: Inv trinket-haste chalice.png]  | Haste Chalice | Uncommon | Vestal |  | +8 SPD on First Round +2 SPD after First Round -25% Stun Skill Chance | 
+[Íconos: Inv trinket-youth chalice.png]  | Youth Chalice | Uncommon | Vestal | Ruins | +20% MAX HP -10% DMG | 
+[Íconos: Inv trinket-profane scroll.png]  | Profane Scroll | Rare | Vestal | Ruins | +15% DMG +10% PROT if in position 2 +33% Healing Skills if in position 2 +15% Stress | 
+[Íconos: Inv trinket-book of holy healing.png]  | Tome of Holy Healing | Rare | Vestal |  | +25% Healing Skills -15% MAX HP | 
+[Íconos: Inv trinket-sacred scroll.png]  | Sacred Scroll | Very Rare | Vestal |  | -10% Stress +33% Healing Skills -10% Stun Skill Chance -33% DMG | 
+
+
+=== TABLA 4 ===
+
+Trinket Image | Trinket Name | Rarity | Origin Dungeon | Effect | Additional Notes
+[Íconos: Inv trinket madman 1.png]  | Aria Box | Very Rare |  | -25% Stress | Very rarely dropped by Madman (about 4% chance).
+[Íconos: Inv trinket madman 3.png]  | Crescendo Box | Very Rare |  | +2 SPD +15% DMG +10% Stress | Very rarely dropped by Madman (about 4% chance).
+[Íconos: Inv trinket madman 2.png]  | Overture Box | Very Rare |  | +15% MAX HP +8 DODGE -2 ACC | Very rarely dropped by Madman (about 4% chance).
+[Íconos: Inv trinket collector02.png]  | Barristan's Head | Very Rare |  | +25% PROT +20% Stress | Sometimes dropped by The Collector or found within Secret Rooms.
+[Íconos: Inv trinket collector01.png]  | Dismas' Head | Very Rare |  | +25% DMG -10% MAX HP +20% Stress | Sometimes dropped by The Collector or found within Secret Rooms.
+[Íconos: Inv trinket collector03.png]  | Junia's Head | Very Rare |  | +30% Healing Skills +20% Stress | Sometimes dropped by The Collector or found within Secret Rooms.
+[Íconos: Tempting goblet.png]  | Tempting Goblet | Very Rare |  | +20% MAX HP +3 SPD +8 DODGE +25% Stress -10% Virtue Chance | Very rarely dropped by Champion level Bone Courtier.
+
+
+=== TABLA 5 ===
+
+Trinket Image | Trinket Name | Rarity | Origin Dungeon | Effect | Additional Notes
+[Íconos: Ancestor Bottle.png]  | Ancestor's Bottle | Ancestral |  | +25% MAX HP +50% Food Consumed +10% Stress | Can only be dropped by a Shambler or Shuffling Horror.
+[Íconos: Ancestor Candle.png]  | Ancestor's Candle | Ancestral |  | +15% DMG if Torch above 50 +2 SPD if Torch above 50 +5 DODGE if Torch above 50 +10% Stress | Can only be dropped by a Shambler or Shuffling Horror.
+[Íconos: Ancestor Coat.png]  | Ancestor's Coat | Ancestral |  | +15 DODGE +10% Stress | 
+[Íconos: Ancestor Handkerchief.png]  | Ancestor's Handkerchief | Ancestral |  | +50% Disease Resist +50% Bleed Resist +10% Stress | 
+[Íconos: Ancestor Lantern.png]  | Ancestor's Lantern | Ancestral |  | -20% Chance Party Surprised +20% Chance Monsters Surprised +10% Stress | 
+[Íconos: Ancestor Map.png]  | Ancestor's Map | Ancestral |  | +25% Trap Disarm Chance +25% Scouting Chance +10% Stress | Can only be dropped by a Shambler or Shuffling Horror.
+[Íconos: Ancestor Cream.png]  | Ancestor's Mustache Cream | Ancestral |  | +50% Debuff Resist +50% Blight Resist +10% Stress | 
+[Íconos: Ancestor Ball.png]  | Ancestor's Musket Ball | Ancestral | Weald | +10% DMG Ranged Skills +8% CRIT Ranged Skills +10% Stress | 
+[Íconos: Ancestor Pen.png]  | Ancestor's Pen | Ancestral |  | +10% DMG Melee Skills +8% CRIT Melee Skills +10% Stress | 
+[Íconos: Ancestor Pistol.png]  | Ancestor's Pistol | Ancestral |  | +15 ACC Ranged Skills +3 SPD +10% Stress | 
+[Íconos: Ancestor Potrait.png]  | Ancestor's Portrait | Ancestral |  | +50% Resolve XP +10% Stress | 
+[Íconos: Ancestor Scroll.png]  | Ancestor's Scroll | Ancestral |  | +25% Healing Skills +25% Stress Skills +10% Stress | Can only be dropped by a Shambler or Shuffling Horror.
+[Íconos: Ancestor Ring.png]  | Ancestor's Signet Ring | Ancestral |  | +10 ACC +10% PROT +10% Stress | 
+[Íconos: Ancestor Idol.png]  | Ancestor's Tentacle Idol | Ancestral |  | +20% Virtue Chance +8% Death Blow Resist | Can only be dropped by a Shambler or Shuffling Horror.
+
+
+=== TABLA 6 ===
+
+Trinket Image | Trinket Name | Rarity | Origin Dungeon | Effect | Additional Notes
+[Íconos: Necromancer Trinket.png]  | Necromancer's Collar | Trophy | Ruins | +20% DMG vs Unholy +8% CRIT vs Unholy | Quest reward for "Kill the Necromancer Lord."
+[Íconos: Prophet Trinket.png]  | Prophet's Eye | Trophy | Ruins | +15 ACC if in position 4 +3 SPD if in position 4 -15% Stress if in position 4 | Quest reward for "Kill the Gibbering Prophet."
+[Íconos: Hag Trinket.png]  | Hag's Ladle | Trophy | Weald | +30% Blight Skill Chance +40% Blight Resist +40% Disease Resist | Quest reward for "Kill the Hag Witch."
+[Íconos: Cannon Trinket.png]  | Fuseman's Matchstick | Trophy | Weald | +2 SPD +10% DMG Ranged Skills +6% CRIT Ranged Skills | Quest reward for "Destroy the Brigand 16 Pounder."
+[Íconos: Swine Trinket.png]  | Wilbur's Flag | Trophy | Warrens | +50% Stun Resist +10 DODGE | Quest reward for "Kill the Swine God."
+[Íconos: Flesh Trinket.png]  | Flesh's Heart | Trophy | Warrens | +50% Bleed Resist +15% MAX HP | Quest reward for "Kill the Formless Flesh."
+[Íconos: Siren Trinket.png]  | Siren's Conch | Trophy | Cove | +50% Debuff Resist -20% Stress | Quest reward for "Kill the Beguiling Siren."
+[Íconos: Crew Trinket.png]  | Crew's Bell | Trophy | Cove | +50% Move Resist +20% Healing Received | Quest reward for "Kill the Drowned Crew."
+[Íconos: Wolf tassle.png]  | Vvulf's Tassle | Trophy | Hamlet | +20% DMG vs Marked +10 ACC vs Marked +5% CRIT vs size 2 | Quest reward for "Wolves at the Door."The CRIT buff applies for any enemy that is size 2 and above.
+[Íconos: Baron trinket.png, Exclusive to The Crimson Court DLC]  | Baron's Lash | Trophy | Courtyard | +75% Debuff Resist if has Crimson Curse +4 SPD if has Crimson Curse -10% Stun Resist if has Crimson Curse | Quest Reward for "Morbid Entertainment"
+[Íconos: Viscount trinket.png, Exclusive to The Crimson Court DLC]  | Viscount's Spices | Trophy | Courtyard | +5% CRIT if has Crimson Curse +100% Healing when Eating if has Crimson Curse +100% Food Consumed if has Crimson Curse | Quest Reward for "Served Cold"
+[Íconos: Countess trinket.png, Exclusive to The Crimson Court DLC]  | Countess' Fan | Trophy | Courtyard | +50% Healing Received if has Crimson Curse -25% Bleed Resist if has Crimson Curse | Quest Reward for "A Bewitching Predator"
+
+
+=== TABLA 7 ===
+
+Trinket Image | Trinket Name | Rarity | Origin Dungeon | Effect | Additional Notes
+[Íconos: Crow trinket talon.png]  | Callous Talon | Shrieker | Weald | +7% CRIT +33% Disease Resist if Torch below 75 +33% Bleed Skill Chance if Torch below 50 +15% Stress | Possible quest reward for Shrieker's Prize.
+[Íconos: Crow trinket eye.png]  | Distended Crowseye | Shrieker | Weald | +10 ACC +33% Disease Resist if Torch below 75 +15% Scouting Chance if Torch below 50 +15% Stress | Possible quest reward for Shrieker's Prize.
+[Íconos: Crow trinket tailfeather.png]  | Molted Tailfeather | Shrieker | Weald | +4 SPD +33% Disease Resist if Torch below 75 +33% Stun Resist if Torch below 50 +15% Stress | Possible quest reward for Shrieker's Prize.
+[Íconos: Crow trinket wingfeather.png]  | Molted Wingfeather | Shrieker | Weald | +10 DODGE +33% Disease Resist if Torch below 75 +33% Move Resist if Torch below 50 +15% Stress | Possible quest reward for Shrieker's Prize.
+
+
+=== TABLA 8 ===
+
+Trinket Image | Trinket Name | Rarity | Origin Dungeon | Effect | Additional Notes
+[Íconos: Pic1.png, Exclusive to The Crimson Court DLC]  | Ancestor's Vintage | Very Rare |  | Delayed Curse craving | Increases the duration of craving by 69 turns, to 100-115. Does not affect any other state.
+[Íconos: Pic2.png, Exclusive to The Crimson Court DLC]  | Coven Signet | Very Rare |  | -25% Stress if has Crimson Curse | 
+[Íconos: Dazzling Mirror.png, Exclusive to The Crimson Court DLC]  | Dazzling Mirror | Very Rare |  | +4 SPD vs Bloodsuckers +20% Stun Skill Chance vs Bloodsucker | The +4 SPD applies if any enemy is a Bloodsucker.
+[Íconos: Mantra of Fasting.png, Exclusive to The Crimson Court DLC]  | Mantra of Fasting | Very Rare |  | +40% MAX HP if Crimson Curse - Wasting +7 SPD if Crimson Curse - Wasting | The wasting stage of the curse reduces MAX HP by -20% and SPD by -4, thus this trinket gives a net of +20% MAX HP and +3 SPD.
+[Íconos: Mercurial Salve.png, Exclusive to The Crimson Court DLC]  | Mercurial Salve | Very Rare |  | +25% DMG vs Bloodsucker | 
+[Íconos: Pagan Talisman.png, Exclusive to The Crimson Court DLC]  | Pagan Talisman | Very Rare |  | +25% DMG vs Fanatic -10% Stress | 
+[Íconos: Rat Carcass.png, Exclusive to The Crimson Court DLC]  | Rat Carcass | Very Rare |  | Immune to death by Crimson Curse | The player can have two of this trinket in their inventory.
+[Íconos: Pic3.png, Exclusive to The Crimson Court DLC]  | Sanguine Snuff | Very Rare |  | +8% CRIT if Crimson Curse - Bloodlust +15 DODGE if Crimson Curse - Bloodlust | 
+[Íconos: Sculptor's Tools.png, Exclusive to The Crimson Court DLC]  | Sculptor's Tools | Very Rare |  | +40% DMG vs Stonework | The only enemies that have the Stonework typing are the Garden Guardian boss and Gargoyles.
+
+
+=== TABLA 9 ===
+
+Trinket Image | Trinket Name | Class Restriction | Effect | Set Effect | Quote | Additional Notes
+[Íconos: Inv trinket-cc set abom shameful shroud.png, Exclusive to The Crimson Court DLC]  | Shameful Shroud | Abomination | -15% Stress +10 DODGE | +20% DMG if in position 1 | "I must hide from the world." | 
+[Íconos: Inv trinket-cc set abom wrought osmond chains.png, Exclusive to The Crimson Court DLC]  | Osmond Chains | +20% DMG Ranged Skills +8% CRIT Ranged Skills
+[Íconos: Inv trinket-cc set anti the masters essence.png, Exclusive to The Crimson Court DLC]  | The Master's Essence | Antiquarian | +50% Healing Skills +35% Blight Skill Chance +35% Debuff Skill Chance | +4 SPD +10 DODGE | "It will be mine - whatever the cost!" | 
+[Íconos: Inv trinket-cc set anti two of the three.png, Exclusive to The Crimson Court DLC]  | Two of Three | +50% DMG vs Blighted +8% CRIT vs Blighted
+[Íconos: Inv trinket-cc set arb childhood treasure.png, Exclusive to The Crimson Court DLC]  | Childhood Treasure | Arbalest | +30% Healing Skills +20% Healing Skills while Camping -15% Stress | +25% PROT | "I remember my father's kindly eyes." | 
+[Íconos: Inv trinket-cc set arb sharpshooters string wax.png, Exclusive to The Crimson Court DLC]  | Bedtime Story | +15 ACC vs Marked +8% CRIT vs Marked +35% Debuff Skill Chance +35% Move Skill Chance
+[Íconos: Inv trinket-cc set bh crime lords molars.png, Exclusive to The Crimson Court DLC]  | Crime Lords' Molars | Bounty Hunter | +20% DMG vs Marked +20% DMG vs Stunned +20% DMG vs Bleeding -10 DODGE | +5% CRIT vs Marked +5% CRIT vs Stunned +5% CRIT vs Bleeding | "They. Will. Pay." | 
+[Íconos: Inv trinket-cc set bh vow of revenge.png, Exclusive to The Crimson Court DLC]  | Vengeful Kill List | +50% Move Skill Chance +35% Bleed Skill Chance +15 ACC Ranged Skills
+[Íconos: Inv trinket-cc set cru glittering spaulders.png, Exclusive to The Crimson Court DLC]  | Glittering Spaulders | Crusader | +15% PROT +35% Move Resist -15% Stress -2 SPD | +20% MAX HP | "I will forget them. Regret is sin." | 
+[Íconos: Inv trinket-cc set cru signed conscription.png, Exclusive to The Crimson Court DLC]  | Signed Conscription | +20% Healing Skills +20% Stress Skills
+[Íconos: Inv trinket-cc set flag chipped tooth.png, Exclusive to The Crimson Court DLC]  | Chipped Tooth | Flagellant | +20% MAX HP +35% Move Resist | +10% Death Blow Resist | "We're all falling apart..." | 
+[Íconos: Inv trinket-cc set flag shard of glass.png, Exclusive to The Crimson Court DLC]  | Shard of Glass | +35% Bleed Skill Chance -20% Bleed Resist
+[Íconos: Inv trinket-cc set gr absinthe.png, Exclusive to The Crimson Court DLC]  | Absinthe | Grave Robber | +35% Disease Resist +35% Blight Resist +35% Blight Skill Chance -10% MAX HP | +5% CRIT | "Poise makes perfect, darling!" | 
+[Íconos: Inv trinket-cc set gr sharpened letter opener.png, Exclusive to The Crimson Court DLC]  | Sharpened Letter Opener | +25% DMG Melee Skills +10 ACC Melee Skills +5 DODGE
+[Íconos: Inv trinket-cc set hel lioness warpaint.png, Exclusive to The Crimson Court DLC]  | Lioness Warpaint | Hellion | +20% DMG if HP below 75% +20% DMG if HP below 50% +20% DMG if HP below 25% +10% Stress | +7 ACC +7 DODGE | "Outcast. Alone. Shamed." | 
+[Íconos: Inv trinket-cc set hel mark of the outcast.png, Exclusive to The Crimson Court DLC]  | Mark of the Outcast | +2 SPD +35% Bleed Skill Chance +15% Death Blow Resist -15% Healing Received
+[Íconos: Inv trinket-cc set high bloodied neckerchief.png, Exclusive to The Crimson Court DLC]  | Bloodied Neckerchief | Highwayman | +2 SPD +10 DODGE | +45% Virtue Chance | "A reflex - I didn't mean to..." | 
+[Íconos: Inv trinket-cc set high shameful locket.png, Exclusive to The Crimson Court DLC]  | Shameful Locket | +10 ACC +5% CRIT +15% Stress
+[Íconos: Inv trinket-cc set hm damning evidence.png, Exclusive to The Crimson Court DLC]  | Evidence of Corruption | Houndmaster | +25% Scouting Chance -15% Chance Party Surprised +10% Stress | +25% DMG vs Bleeding +5% CRIT vs Bleeding | "Even the Chief was in on it." | 
+[Íconos: Inv trinket-cc set hm lawmans badge.png, Exclusive to The Crimson Court DLC]  | Battered Lawman's Badge | +15 ACC Ranged Skills +50% Stress Skills while Camping +25% Healing Skills -20% Stun Resist -20% Debuff Resist
+[Íconos: Inv trinket-cc set jest tasting cup.png, Exclusive to The Crimson Court DLC]  | Tyrant's Tasting Cup | Jester | +33% Stress Skills +25% Stress | +33% Stress Skills while Camping | "Heh. The last laugh is mine!" | 
+[Íconos: Inv trinket-cc set jest tyrants fingerbone.png, Exclusive to The Crimson Court DLC]  | Tyrant's Fingerbone | +3 SPD if in position 1 +20 DODGE if in position 1
+[Íconos: Inv trinket-cc set lep last will and testament.png, Exclusive to The Crimson Court DLC]  | Last Will and Testament | Leper | +15% PROT +15% MAX HP -10% Death Blow Resist | +15 ACC if HP above 60% | "The last treasures of a King." | 
+[Íconos: Inv trinket-cc set lep tin flute.png, Exclusive to The Crimson Court DLC]  | Tin Flute | -20% Stress +33% Stress Skills while Camping
+[Íconos: Inv trinket-cc set maa old unit banner.png, Exclusive to The Crimson Court DLC]  | Old Unit Standard | Man-at-Arms | +15% Stun Skill Chance +20% Debuff Skill Chance +15% Death Blow Resist +10% Stress | Riposte: +25% DMG Riposte: +10 ACC | "Glory days? Hmph." | 
+[Íconos: Inv trinket-cc set maa toy soldier.png, Exclusive to The Crimson Court DLC]  | Toy Soldier | +10% PROT +5% CRIT
+[Íconos: Inv trinket-cc set musk first place trophy.png, Exclusive to The Crimson Court DLC]  | Second Place Trophy | Musketeer | +30% Healing Skills +20% Healing Skills while Camping -15% Stress | +25% PROT | "I...I missed!? But how...?" | 
+[Íconos: Inv trinket-cc set musk silver bullet.png, Exclusive to The Crimson Court DLC]  | Silver Musket Ball | +15 ACC vs Marked +8% CRIT vs Marked +35% Debuff Skill Chance +35% Move Skill Chance
+[Íconos: Inv trinket-cc set occ blood pact.png, Exclusive to The Crimson Court DLC]  | Blood Pact | Occultist | +4 SPD if Torch below 60 +25% DMG if Torch below 60 -25% Bleed Skill Chance -10% MAX HP | +15 DODGE | "The bargain is struck!" | 
+[Íconos: Inv trinket-cc set occ vial of sand.png, Exclusive to The Crimson Court DLC]  | Vial of Sand | +20% Debuff Skill Chance +20% Stun Skill Chance +20% Move Skill Chance +20% Stun Resist
+[Íconos: Inv trinket-cc set pd codex of plagues.png, Exclusive to The Crimson Court DLC]  | Subject #40 Notes | Plague Doctor | +25% MAX HP +35% Disease Resist | +15% Blight Skill Chance +15% Stun Skill Chance | "Those fools at the University..." | 
+[Íconos: Inv trinket-cc set pd dissection kit.png, Exclusive to The Crimson Court DLC]  | Dissection Kit | +35% Bleed Skill Chance +25% DMG
+[Íconos: Inv trinket-sb set 1.png, Exclusive to The Shieldbreaker DLC]  | Obsidian Dagger | Shieldbreaker | +40% Debuff Skill Chance +40% Blight Skill Chance | +15% MAX HP +10% PROT Can't be Guarded | "Broken and Beautiful." | The Obsidian Dagger is found after defeating the sixth nightmare, and the Severed Hand found after defeating the seventh (final) nightmare.These trinkets appear in your Trinket Inventory back in Hamlet even if you don't pick it up.
+[Íconos: Inv trinket-sb set 2.png, Exclusive to The Shieldbreaker DLC]  | Severed Hand | +50% Blight Resist -10% Stress
+[Íconos: Inv trinket-cc set vest atonement beads.png, Exclusive to The Crimson Court DLC]  | Atonement Beads | Vestal | +15% DMG Melee Skills +8% CRIT Melee Skills -15% Virtue Chance | +35% Debuff Skill Chance +35% Stun Skill Chance | "I fear the whispers of my mind!" | 
+[Íconos: Inv trinket-cc set vest salacious diary.png, Exclusive to The Crimson Court DLC]  | Salacious Diary | +33% Stress Skills while Camping +25% Healing Skills
+
+
+=== TABLA 10 ===
+
+Trinket Image | Trinket Name | Rarity | Class Restriction | Shard Cost | Effect | Additional Notes
+[Íconos: Inv trinket-com lens of comet.png, Exclusive to The Color of Madness DLC]  | Lens of the Comet | Crystalline |  | 25 Shards | Ignores Stealth -20% Virtue Chance +5% CRIT if Shard Dust in inventory | 
+[Íconos: Occ elder sign.png, Exclusive to The Color of Madness DLC]  | Petrified Skull | Crystalline | Occultist | 25 Shards | +40% PROT When Attacked By Husk -20% Healing Received +30% PROT When Attacked By Eldritch +15% MAX HP | 
+[Íconos: Abom broken key.png, Exclusive to The Color of Madness DLC]  | Broken Key | Crystalline | Abomination | 30 Shards | +15 ACC +35% Stun Skill Chance +10% Stress | 
+[Íconos: Ant smoking skull.png, Exclusive to The Color of Madness DLC]  | Smoking Skull | Crystalline | Antiquarian | 45 Shards | +35 DODGE if Shard Dust in inventory -15 ACC -15% Blight Resist | 
+[Íconos: Pd ashen distillation.png, Exclusive to The Color of Madness DLC]  | Ashen Distillation | Crystalline | Plague Doctor | 45 Shards | +20 DODGE +25% Blight Skill Chance +20% Healing Received if Medicinal Herbs in inventory | 
+[Íconos: Jes dirge for devoured.png, Exclusive to The Color of Madness DLC]  | Dirge For The Devoured | Crystalline | Jester | 60 Shards | +25% Stress Skills +25% DMG if Laudanum in inventory +10% Stress | 
+[Íconos: Flag acidic husk ichor.png, Exclusive to The Crimson Court DLC, Exclusive to The Color of Madness DLC]  | Acidic Husk Ichor | Crystalline | Flagellant | 65 Shards | -25% MAX HP +30% DMG +30% Bleed Skill Chance vs Husk +25% Healing Received if HP below 20% | 
+[Íconos: Sb spectral speartip.png, Exclusive to The Shieldbreaker DLC, Exclusive to The Color of Madness DLC]  | Spectral Speartip | Crystalline | Shieldbreaker | 65 Shards | +15% DMG +20% Blight Skill Chance +15% MAX HP +5% Random Target Chance | 
+[Íconos: Comet seed pendant.png, Exclusive to The Color of Madness DLC]  | Crystal Pendant | Crystalline |  | 65 Shards | +15% Shards Given +15% Stress | 
+[Íconos: Ves heretical passages.png, Exclusive to The Color of Madness DLC]  | Heretical Passage | Crystalline | Vestal | 70 Shards | +20% Healing Skills if Holy Water in inventory +25% DMG vs Husk +25% DMG vs Eldritch +10% Stress | 
+[Íconos: Hnd huskfang whistle.png, Exclusive to The Color of Madness DLC]  | Huskfang Whistle | Crystalline | Houndmaster | 70 Shards | +50% Bleed Skill Chance if Dog Treats in inventory +40% Stress Skills while Guarding -10 DODGE +66% Guard Duration | 
+[Íconos: Bh mask of timeless.png, Exclusive to The Color of Madness DLC]  | Mask Of The Timeless | Crystalline | Bounty Hunter | 75 Shards | +2 SPD +15 DODGE +5% Stress | 
+[Íconos: Maa mirror shield.png, Exclusive to The Color of Madness DLC]  | Mirror Shield | Crystalline | Man-at-Arms | 75 Shards | +10 DODGE 30% Damage Reflection +20% Stun Resist | When attacked, will deal damage to the attacking enemy equal to 30% of the damage taken by the trinket holder. Reflected damage only occurs after the attack. This damage does not count as an attack from the equipped hero and is not affected by hero buffs nor enemy PROT and DODGE. Kills from this damage do not count for kill effects such as from the Miller's Pipe or Coat of Many Colors.
+[Íconos: Grv huskclaw toxin.png, Exclusive to The Color of Madness DLC]  | Topshelf Tonic | Crystalline | Grave Robber | 80 Shards | +15 DODGE if Medicinal Herbs in inventory +3 SPD -20% Blight Resist +50% Blight Duration | 
+[Íconos: Lep crystalized amulet.png, Exclusive to The Color of Madness DLC]  | Petrified Amulet | Crystalline | Leper | 80 Shards | +10 ACC if Bandage in inventory +15% MAX HP -15% Bleed Resist | 
+[Íconos: Hwy crystalline gunpowder.png, Exclusive to The Color of Madness DLC]  | Crystalline Gunpowder | Crystalline | Highwayman | 90 Shards | +20% DMG +3 SPD -15% Stun Resist | 
+[Íconos: Comet cluster pendant.png, Exclusive to The Color of Madness DLC]  | Cluster Pendant | Crystalline |  | 100 Shards | +25% Shards Given +15% Stress | 
+[Íconos: Hel thirsting blade.png, Exclusive to The Color of Madness DLC]  | Thirsting Blade | Crystalline | Hellion | 120 Shards | +15 ACC -20% Bleed Resist +2 SPD +8% CRIT vs Bleeding On Attack Miss: Self: Lose 5 HP | 
+[Íconos: Msk icosahedric balls.png, Exclusive to The Color of Madness DLC]  | Icosahedric Musket Balls | Crystalline | Musketeer | 150 Shards | +20% DMG +20% Random Target Chance | 
+[Íconos: Arb keening bolts.png, Exclusive to The Color of Madness DLC]  | Keening Bolts | Crystalline | Arbalest | 170 Shards | +20% DMG +7% CRIT Ranged Skills On Attack: Self: Stress +3 (25% chance) | 
+[Íconos: Coat many colours.png, Exclusive to The Color of Madness DLC]  | Coat Of Many Colors | Crystalline |  | 180 Shards | On Monster Kill: Buff Self: -2% Stress (2 Battles) On Monster Kill: Buff Self: +2 ACC (2 Battles) Hero Killed: Party: Stun (120% base) Hero Killed: Party: Stress +25 | This trinket's name is a reference to the biblical coat of many colors worn by Joseph.
+[Íconos: Millers pipe.png, Exclusive to The Color of Madness DLC]  | Miller's Pipe | Crystalline |  | 180 Shards | On Monster Kill: Stress -2 On Monster Kill: All Monsters: Blight (120% base) 2 pts/rd for 3 rds Hero Killed: Party: Stress +45 Hero Killed: Party: Debuff Target: -20% PROT (100% base) (Quest) Hero Killed: Party: Debuff Target: -2 SPD (100% base) (Quest) | Enemies killed by damage-over-time effects applied by the equipped hero will trigger On Monster Kill effects. This also applies to the Blight the Pipe itself inflicts after an enemy is killed.
+[Íconos: Cru non euclidean hilt.png, Exclusive to The Color of Madness DLC]  | Non-Euclidean Hilt | Crystalline | Crusader | 200 Shards | +15% MAX HP +5% Random Target Chance +25% Stun Skill Chance if Holy Water in inventory On Attack Hit: Blight (120% base) 2 pts/rd for 2 rds | 
+[Íconos: Mildredslocket.png, Exclusive to The Color of Madness DLC]  | Mildred's Locket | Keepsake |  | Cannot be bought | Miller: The Reaping: -100% DMG Taken +40% Blight Resist +3 SPD +40% DMG vs Miller | This trinket can only be acquired by finding Mildred within the Farmstead. Having this equipped when fighting the Miller will cause him to use Immortal Beloved.
+[Íconos: Thing eye.png, Exclusive to The Color of Madness DLC]  | Thing's Mesmerizing Eye | Thing |  | Cannot be bought | +4% CRIT if HP above 41% +8% CRIT if HP below 40% | This trinket is sometimes dropped after killing the Thing from the Stars
+[Íconos: Thing fang.png, Exclusive to The Color of Madness DLC]  | Crystalline Fang | Thing |  | Cannot be bought | +10% Stun Skill Chance if HP above 40% +40% Stun Skill Chance if HP below 41% | This trinket is sometimes dropped after killing the Thing from the Stars
+[Íconos: Thing hide.png, Exclusive to The Color of Madness DLC]  | Phase Shifting Hide | Thing |  | Cannot be bought | -15% Stress if HP above 41% -50% Stress if HP below 40% | This trinket is sometimes dropped after killing the Thing from the Stars
+[Íconos: Prismatic heart crystal.png, Exclusive to The Color of Madness DLC]  | Prismatic Heart Crystal | Thing |  | Cannot be bought | +35% Blight Skill Chance vs Thing +35% Bleed Skill Chance vs Thing +12% CRIT vs Thing | This trinket is sometimes dropped after killing the Thing from the Stars
+
+
+=== TABLA 11 ===
+
+Trinket Image | Trinket Name | Rarity | Origin Dungeon | Effect | Additional Notes
+[Íconos: Inv trinket-stone of patience.png]  | Stone of Patience | Uncommon | In inventory at start | -10% Stress +5% Virtue Chance | Exclusive to the Playstation 4 and VITA versions.
+[Íconos: Inv trinket-stone of endurance.png]  | Stone of Endurance | Rare | In inventory at start | +8% Death Blow Resist | Exclusive to the Playstation 4 and VITA versions.
+[Íconos: Talisman of the Flame.png]  | Talisman of the Flame | Darkest Dungeon | The Darkest Dungeon | Revelation: -100% Stress Revelation: -100% DMG Taken | Quest reward for the first Darkest Dungeon quest, "We Are The Flame."Despite claiming to be -100% Stress, the trinket will only reduce the stress received by 80%, since that is the cap of stress-reducing buffs.
+
+
+=== TABLA 12 ===
+
+Trinket Image | Trinket Name | Rarity | Class Restriction | Origin Dungeon | Effect | Additional Notes
+[Íconos: Necklace trinket.png]  | Necklace |  |  |  |  | 
+[Íconos: Stake trinket.png]  | Stake |  |  |  |  | 

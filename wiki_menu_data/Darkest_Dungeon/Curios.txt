@@ -1,0 +1,833 @@
+Título: Curios
+URL: https://darkestdungeon.wiki.gg/wiki/Curios
+Fecha: 2025-11-03 20:21:38
+
+================================================================================
+
+Curios are interactable objects that appear during expeditions . There is a chance of a good or bad event happening by using a curio. Supply items , such as a torch or a key , can be used on them to favorably alter the chances. Contents 1 Location 2 Interaction 3 Forced Interaction 3.1 Table of Forced Interactions 3.1.1 Footnotes 4 List of Curios 4.1 Shared Curios 4.2 Ruins Curios 4.3 Weald Curios 4.4 Cove Curios 4.5 Warrens Curios 4.6 Courtyard Curios 4.7 Farmstead Curios 4.8 Probabilities of encountering each curio 4.9 Special Curios 4.10 Quest-Only Curios 4.11 Retired Curios 5 Miscellaneous 5.1 Heirloom Chest Variants Location Curios can be found inside rooms and corridor segments . Different locations contain different kinds of curios, but some varieties are found throughout all types of dungeon. Each room may only contain one curio, while corridor segments can contain more than one. Unlike obstacles , curios do not prevent passage if not activated; it is thus possible to leave them be to minimize risk, especially if there is a lack of correct provision items to trigger their positive effects. Interaction Once the party enters a room or segment with a curio, it can be interacted with to activate a prompt; the curio can be investigated directly or with the use of a provision item. Curios will react differently to certain items. Normally, the use of the correct provision item will trigger a positive effect, removing the chance of negative effects occurring; however, there are a few harmless curios that do not display a prompt and are immediately searched when interacted with. Some curios grant loot upon activation. There is a fixed pool of items that is used by specific curios, but additional loot due to low light level will be calculated separately and can be dropped even by curios with very specific loot drops. The Antiquarian can cause special treasure to drop when she interacts with curios. Many curios have effects such as stress infliction, healing, bleeding , blighting , the application of buffs and debuffs or granting/removing a Quirk that will affect individual heroes . The affected hero is always the one currently selected at the moment of activation. It is advisable, upon activating risky curios, to select a hero with good resistances or one that could potentially be affected by the negative effects without endangering the expedition. Forced Interaction Heroes with certain Quirks , Diseases , or Afflictions will sometimes automatically interact with a curio without being told to do so; this is determined by the hero's traits and the curio type. Specifically, each curio has a number of types , and certain traits may force heroes to automatically interact with curios of a certain type. For example, a hero with the Necromania quirk may interact with a Dinner Cart or Mummified Remains , both having the "Body" type. Heroes forcibly interacting with a curio will never use a Supply Item, resulting in potentially very harmful consequences. In addition, certain forced interactions may cause the hero to steal any loot that would have been gained. Table of Forced Interactions The following table lists all traits that cause forced curio interactions, along with the number of affected curios in each region. Disruptive quirk/region combinations are highlighted in red. List of Curios Shared Curios Ruins Curios Weald Curios Cove Curios Warrens Curios Courtyard Curios Farmstead Curios Probabilities of encountering each curio Note that each type of location (hallway, curio room, treasure room) uses a separate distribution. The lists below have nothing to do with the frequency of generating curio/treasure rooms or hallway curio, they just tell the probability of finding each curio given that a curio spawned in a given location. Special Curios Quest-Only Curios Some quests require the player to activate curios with special items given at the start of the quest, or retrieve special items from these curios. Unlike other curios, these can be found in either corridors or rooms (unless otherwise mentioned). Retired Curios These curios were once part of the game, but are currently unused. Miscellaneous Heirloom Chest Variants There are actually two different variants of the Heirloom Chest: the original variant, and a reskin of the now-unused Locked Strongbox. Both are identical in appearance and description but have slightly differing interactions and rewards. It is possible to distinguish the two by testing a chest with antivenom or a shovel—the success or failure of the item will be recorded and highlighted in the inventory panel when encountering a subsequent chest of the same variant. This can be done during the Ruins tutorial at the beginning of the game: the chest farthest away from the entrance can be opened with the Plague Doctor's free antivenom (which is otherwise useless, as no blighters appear in the tutorial), and from that point onwards all chests should be marked appropriately. Note that in both cases using a skeleton key will produce greater rewards, so antivenom or shovels should only be used if there is a good reason to do so.
+
+
+=== TABLA 1 ===
+
+Trait | Curio Type(s) | Chance | Steals Items? | Ruins | Weald | Cove | Warrens | Courtyard
+[Íconos: Quirkicon neg.png, Pass.png] Ablutomania | Fountain | 40% |  |  |  | 1[1] |  | 1
+[Íconos: Quirkicon neg.png, Pass.png] Bloodthirsty | Torture | 35% |  | 1 |  |  |  | 1
+[Íconos: Quirkicon neg.png, Pass.png] Compulsive | All | 20% |  | These traits are extremely disruptive and considered amongst the worst traits in the game.
+[Íconos: Quirkicon neg.png, Pass.png] Corvid's Appetite | Body | 33% |  |  | 3 |  | 2 | 1
+[Íconos: Quirkicon neg.png, Pass.png] Corvid's Curiosity | All | 27.5% |  | These traits are extremely disruptive and considered amongst the worst traits in the game.
+[Íconos: Poptext vampire resist.png, Pass.png] Crimson Curse - Craving | CCrave | 10% |  |  |  |  |  | 5
+[Íconos: Poptext vampire resist.png, Pass.png] Crimson Curse - Wasting | CCrave | 25% |  |  |  |  |  | 5
+[Íconos: Quirkicon neg.png, Pass.png] Curious | All | 20% |  | These traits are extremely disruptive and considered amongst the worst traits in the game.
+[Íconos: Quirkicon neg.png, Pass.png] Dacnomania | Torture | 40% |  | 1 |  |  |  | 1
+[Íconos: Quirkicon neg.png, Pass.png] Dark Temptation | Unholy | 40% |  |  | 2 |  | 2 | 6
+[Íconos: Quirkicon neg.png, Pass.png] Demonomania | Unholy | 40% |  |  | 2 |  | 2 | 6
+[Íconos: Quirkicon neg.png, Pass.png] Dipsomania | Drink | 40% |  |  |  | 1[1] | 2 | 
+[Íconos: Quirkicon neg.png, Pilfer.png] Egomania | Reflective | 40% |  | 1 |  |  |  | 1
+[Íconos: Tray afflicted.png, Pass.png] Fearful | Worship | 50% |  | 1 | 1 | 1 |  | 
+[Íconos: Quirkicon neg.png, Pass.png] Guilty Conscience | Worship | 35% |  | 1 | 1 | 1 |  | 
+[Íconos: Quirkicon neg.png, Pass.png] Hagiomania | Worship | 40% |  | 1 | 1 | 1 |  | 
+[Íconos: Quirkicon neg.png, Pass.png] Hieromania | Worship | 35% |  | 1 | 1 | 1 |  | 
+[Íconos: Quirkicon neg.png, Pass.png] Hylomania | Treasure | 40% |  | 3 | 3 | 3 | 3 | 1
+[Íconos: Tray afflicted.png, Pass.png] Irrational | All | 7.5% |  | These traits are extremely disruptive and considered amongst the worst traits in the game.
+[Íconos: Quirkicon neg.png, Pilfer.png] Kleptomaniac | Treasure | 35% |  | 3 | 3 | 3 | 3 | 1
+[Íconos: Tray afflicted.png, Pass.png] Masochistic | Torture | 50% |  | 1 |  |  |  | 1
+[Íconos: Quirkicon neg.png, Pass.png] Necromania | Body | 40% |  |  | 3 |  | 2 | 1
+[Íconos: Quirkicon neg.png, Pass.png] Paranormania | Haunted | 40% |  | 2 | 2 |  | 1 | 
+[Íconos: Quirkicon neg.png, Pass.png] Plutomania | Treasure | 40% |  | 3 | 3 | 3 | 3 | 1
+[Íconos: Tray afflicted.png, Pilfer.png] Selfish | Treasure | 50% |  | 3 | 3 | 3 | 3 | 1
+[Íconos: Quirkicon neg.png, Pass.png] Sitiomania | Food | 40% |  |  | 1 | 1 | 1 | 1
+[Íconos: Poptext disease.png, Pilfer.png] Tapeworm | Food | 60% |  |  | 1 | 1 | 1 | 1
+
+
+=== TABLA 2 ===
+
+Curios found within all dungeons
+Curio & type | Description | Cleansing | Without cleansing
+[Íconos: Crate, Pass.png, Currency.portrait.icon.png, Nothing.curio tracker.png] Crate Treasure. | Crate | Treasure. | No description. (This curio can only appear along corridors.) |  |  | 75% Heirloom. "The crate contains stashed heirlooms!" 25% Nothing. "The crate is empty." | 75% Heirloom. "The crate contains stashed heirlooms!" | 25% Nothing. "The crate is empty."
+[Íconos: Crate] Crate
+Treasure.
+[Íconos: Pass.png] 
+[Íconos: Currency.portrait.icon.png] 75% Heirloom. "The crate contains stashed heirlooms!"
+[Íconos: Nothing.curio tracker.png] 25% Nothing. "The crate is empty."
+[Íconos: Discarded Pack, Pass.png, Loot.curio tracker.png, Scout Ahead.png, Nothing.curio tracker.png] Discarded Pack Scrounging; Treasure. | Discarded Pack | Scrounging; Treasure. | No description. (This curio can only appear along corridors.) |  |  | 60% Supplies x1 + Gold/Gems x2 + Journal Entry. "The pack contains loot!" 20% Scouting. "The pack has a map inside it!" 20% Nothing. "The pack has already been looted." | 60% Supplies x1 + Gold/Gems x2 + Journal Entry. "The pack contains loot!" | 20% Scouting. "The pack has a map inside it!" | 20% Nothing. "The pack has already been looted."
+[Íconos: Discarded Pack] Discarded Pack
+Scrounging; Treasure.
+[Íconos: Pass.png] 
+[Íconos: Loot.curio tracker.png] 60% Supplies x1 + Gold/Gems x2 + Journal Entry. "The pack contains loot!"
+[Íconos: Scout Ahead.png] 20% Scouting. "The pack has a map inside it!"
+[Íconos: Nothing.curio tracker.png] 20% Nothing. "The pack has already been looted."
+[Íconos: Eldritch Altar, Holy Water.png, Purge neg.curio tracker.png, Stress.curio tracker.png, Purge neg.curio tracker.png, Nothing.curio tracker.png] Eldritch Altar Haunted; Unholy. | Eldritch Altar | Haunted; Unholy. | "An altar dedicated to unholy abominations. Perhaps a great power lies within." (This curio can only appear inside rooms.) | Holy Water. "The holy water purifies the altar!" Purge Negative Quirk | Holy Water. "The holy water purifies the altar!" | Purge Negative Quirk | 40% Stress +25. "A terrifying presence is felt nearby!" 10% Purge Negative Quirk. "The hero is absolved of a sin." 50% Nothing. "The altar's purpose is purely decorative." | 40% Stress +25. "A terrifying presence is felt nearby!" | 10% Purge Negative Quirk. "The hero is absolved of a sin." | 50% Nothing. "The altar's purpose is purely decorative."
+[Íconos: Eldritch Altar] Eldritch Altar
+Haunted; Unholy.
+[Íconos: Holy Water.png] Holy Water. "The holy water purifies the altar!"
+[Íconos: Purge neg.curio tracker.png] Purge Negative Quirk
+[Íconos: Stress.curio tracker.png] 40% Stress +25. "A terrifying presence is felt nearby!"
+[Íconos: Purge neg.curio tracker.png] 10% Purge Negative Quirk. "The hero is absolved of a sin."
+[Íconos: Nothing.curio tracker.png] 50% Nothing. "The altar's purpose is purely decorative."
+[Íconos: Heirloom Chest, Skeleton Key.png, Antivenom.png, Currency.portrait.icon.png, Currency.portrait.icon.png, Currency.portrait.icon.png, Poptext bleed.png, Poptext poison.png] Heirloom Chest Treasure.(First Variant) | Heirloom Chest | Treasure.(First Variant) | A chest with your family's sigil. (This curio can only appear inside rooms.) | Skeleton Key. "The key unlocks a hidden compartment!" Antivenom. "The antivenom neutralizes a poison trap in a hidden compartment!" Heirloom x4 Heirloom x3 | Skeleton Key. "The key unlocks a hidden compartment!" | Antivenom. "The antivenom neutralizes a poison trap in a hidden compartment!" | Heirloom x4 | Heirloom x3 | 75% Heirloom x2. "The contents are yours!" 12.5% Bleed. "It's trapped!" 12.5% Blight. "It's trapped!" | 75% Heirloom x2. "The contents are yours!" | 12.5% Bleed. "It's trapped!" | 12.5% Blight. "It's trapped!"
+[Íconos: Heirloom Chest] Heirloom Chest
+Treasure.(First Variant)
+[Íconos: Skeleton Key.png, Antivenom.png] Skeleton Key. "The key unlocks a hidden compartment!" | Antivenom. "The antivenom neutralizes a poison trap in a hidden compartment!"
+[Íconos: Currency.portrait.icon.png, Currency.portrait.icon.png] Heirloom x4 | Heirloom x3
+[Íconos: Currency.portrait.icon.png] 75% Heirloom x2. "The contents are yours!"
+[Íconos: Poptext bleed.png] 12.5% Bleed. "It's trapped!"
+[Íconos: Poptext poison.png] 12.5% Blight. "It's trapped!"
+[Íconos: Heirloom Chest, Skeleton Key.png, Shovel.png, Loot.curio tracker.png, Loot.curio tracker.png, Loot.curio tracker.png, Poptext poison.png, Poptext bleed.png] Heirloom Chest Treasure.(Second Variant) | Heirloom Chest | Treasure.(Second Variant) | "A chest with your family's sigil." (This curio can only appear inside rooms.) | Skeleton Key. "The key unlocks a hidden compartment!" Shovel. "The contents are yours!" Any loot x3 66.6% Any loot x233.3% Nothing | Skeleton Key. "The key unlocks a hidden compartment!" | Shovel. "The contents are yours!" | Any loot x3 | 66.6% Any loot x233.3% Nothing | 50% Any loot x2. "The contents are yours!" 25% Blight. "It's trapped!" 25% Bleed. "It's trapped!" | 50% Any loot x2. "The contents are yours!" | 25% Blight. "It's trapped!" | 25% Bleed. "It's trapped!"
+[Íconos: Heirloom Chest] Heirloom Chest
+Treasure.(Second Variant)
+[Íconos: Skeleton Key.png, Shovel.png] Skeleton Key. "The key unlocks a hidden compartment!" | Shovel. "The contents are yours!"
+[Íconos: Loot.curio tracker.png, Loot.curio tracker.png] Any loot x3 | 66.6% Any loot x233.3% Nothing
+[Íconos: Loot.curio tracker.png] 50% Any loot x2. "The contents are yours!"
+[Íconos: Poptext poison.png] 25% Blight. "It's trapped!"
+[Íconos: Poptext bleed.png] 25% Bleed. "It's trapped!"
+[Íconos: Sack, Pass.png, Loot.curio tracker.png, Nothing.curio tracker.png] Sack Scrounging. | Sack | Scrounging. | No description. (This curio can only appear along corridors.) |  |  | 75% Gold. "The sack's contents are yours..." 25% Nothing. "The sack is empty." | 75% Gold. "The sack's contents are yours..." | 25% Nothing. "The sack is empty."
+[Íconos: Sack] Sack
+Scrounging.
+[Íconos: Pass.png] 
+[Íconos: Loot.curio tracker.png] 75% Gold. "The sack's contents are yours..."
+[Íconos: Nothing.curio tracker.png] 25% Nothing. "The sack is empty."
+[Íconos: Sconce, Pass.png, Torch.png] Sconce Scrounging | Sconce | Scrounging | No description. (This curio can only appear along corridors.) |  |  | 100% Torch x1. "You salvage the unburned torch." | 100% Torch x1. "You salvage the unburned torch."
+[Íconos: Sconce] Sconce
+Scrounging
+[Íconos: Pass.png] 
+[Íconos: Torch.png] 100% Torch x1. "You salvage the unburned torch."
+[Íconos: Shambler's Altar, Torch.png, Summon.curio tracker.png, Nothing.curio tracker.png] Shambler's Altar None. | Shambler's Altar | None. | It says: "The sacrifice of fire is the gate to ruin! Place a torch if you crave the void!" (This curio can only appear along corridors.) | Torch. "A terrifying figure emerges from the darkness!" Summon Shambler | Torch. "A terrifying figure emerges from the darkness!" | Summon Shambler | 100% Nothing. "Touching the altar has no effect." | 100% Nothing. "Touching the altar has no effect."
+[Íconos: Shambler's Altar] Shambler's Altar
+None.
+[Íconos: Torch.png] Torch. "A terrifying figure emerges from the darkness!"
+[Íconos: Summon.curio tracker.png] Summon Shambler
+[Íconos: Nothing.curio tracker.png] 100% Nothing. "Touching the altar has no effect."
+[Íconos: Stack of Books, Torch.png, Stress.curio tracker.png, Stress.curio tracker.png, Quirk pos.curio tracker.png, Quirk neg.curio tracker.png, Abandon Hope.png, Inv journal page.png, Nothing.curio tracker.png] Stack of Books Knowledge. | Stack of Books | Knowledge. | "A stack of literary treasures in an unlikely location." (This curio can only appear along corridors.) | Torch. "The hero destroyed knowledge, and now must bear the guilt of it!" Stress +100 | Torch. "The hero destroyed knowledge, and now must bear the guilt of it!" | Stress +100 | 22.2% Stress +25. "The hero reads a most unsettling passage." 22.2% Random Positive Quirk (66.67%). "Reading a few pages has a lasting effect on the hero..." 11.1% Random Negative Quirk (33.33%). "Reading a few pages has a lasting effect on the hero..." 11.1% Decrease Light Meter by 25. "The hero reads a most unsettling passage." 16.7% Journal Entry. 16.7% Nothing. "The volumes are desiccated and unremarkable." | 22.2% Stress +25. "The hero reads a most unsettling passage." | 22.2% Random Positive Quirk (66.67%). "Reading a few pages has a lasting effect on the hero..." | 11.1% Random Negative Quirk (33.33%). "Reading a few pages has a lasting effect on the hero..." | 11.1% Decrease Light Meter by 25. "The hero reads a most unsettling passage." | 16.7% Journal Entry. | 16.7% Nothing. "The volumes are desiccated and unremarkable."
+[Íconos: Stack of Books] Stack of Books
+Knowledge.
+[Íconos: Torch.png] Torch. "The hero destroyed knowledge, and now must bear the guilt of it!"
+[Íconos: Stress.curio tracker.png] Stress +100
+[Íconos: Stress.curio tracker.png] 22.2% Stress +25. "The hero reads a most unsettling passage."
+[Íconos: Quirk pos.curio tracker.png] 22.2% Random Positive Quirk (66.67%). "Reading a few pages has a lasting effect on the hero..."
+[Íconos: Quirk neg.curio tracker.png] 11.1% Random Negative Quirk (33.33%). "Reading a few pages has a lasting effect on the hero..."
+[Íconos: Abandon Hope.png] 11.1% Decrease Light Meter by 25. "The hero reads a most unsettling passage."
+[Íconos: Inv journal page.png] 16.7% Journal Entry.
+[Íconos: Nothing.curio tracker.png] 16.7% Nothing. "The volumes are desiccated and unremarkable."
+[Íconos: Unlocked Strongbox, Pass.png, Loot.curio tracker.png, Poptext poison.png] Unlocked Strongbox Treasure. | Unlocked Strongbox | Treasure. | "A long-forgotten strongbox sits on the cold stone floor, its contents unknown." (This curio can only appear inside rooms.) |  |  | 75% Any Loot x2. "The contents are yours!" 25% Blight. "It's trapped!" | 75% Any Loot x2. "The contents are yours!" | 25% Blight. "It's trapped!"
+[Íconos: Unlocked Strongbox] Unlocked Strongbox
+Treasure.
+[Íconos: Pass.png] 
+[Íconos: Loot.curio tracker.png] 75% Any Loot x2. "The contents are yours!"
+[Íconos: Poptext poison.png] 25% Blight. "It's trapped!"
+
+
+=== TABLA 3 ===
+
+Curios found within the Ruins
+Curio & type | Description | Cleansing | Without cleansing
+[Íconos: Alchemy Table, Torch.png, Medicinal Herbs.png, Torch up.curio tracker.png, Loot.curio tracker.png, Poptext poison.png, Loot.curio tracker.png, Nothing.curio tracker.png] Alchemy Table Knowledge. | Alchemy Table | Knowledge. | "A partially intact set of experimental equipment." (This curio can only appear along corridors.) | Torch. "The torch oil helps create a powerful blazing mixture!" Medicinal Herbs. "The herbs disinfect the station, allowing for successful research." Increase Light Meterto 100. Gold/Gems x2 | Torch. "The torch oil helps create a powerful blazing mixture!" | Medicinal Herbs. "The herbs disinfect the station, allowing for successful research." | Increase Light Meterto 100. | Gold/Gems x2 | 50% Blight. "An accident occurs during the experiment." 25% Gold/Gems x1. "New metals are synthesized." 25% Nothing. "The experiments do not yield any findings." | 50% Blight. "An accident occurs during the experiment." | 25% Gold/Gems x1. "New metals are synthesized." | 25% Nothing. "The experiments do not yield any findings."
+[Íconos: Alchemy Table] Alchemy Table
+Knowledge.
+[Íconos: Torch.png, Medicinal Herbs.png] Torch. "The torch oil helps create a powerful blazing mixture!" | Medicinal Herbs. "The herbs disinfect the station, allowing for successful research."
+[Íconos: Torch up.curio tracker.png, Loot.curio tracker.png] Increase Light Meterto 100. | Gold/Gems x2
+[Íconos: Poptext poison.png] 50% Blight. "An accident occurs during the experiment."
+[Íconos: Loot.curio tracker.png] 25% Gold/Gems x1. "New metals are synthesized."
+[Íconos: Nothing.curio tracker.png] 25% Nothing. "The experiments do not yield any findings."
+[Íconos: Altar of Light, Holy Water.png, Buff.curio tracker.png, Buff.curio tracker.png] Altar of Light Worship. | Altar of Light | Worship. | "A small holy altar seems out of place against the backdrop of corruption." (This curio can only appear along corridors.) | Holy Water. "You have curried favor from the gods!" Buff DMG +30% Until Camp | Holy Water. "You have curried favor from the gods!" | Buff DMG +30% Until Camp | Buff DMG +20% Until Camp. | Buff DMG +20% Until Camp.
+[Íconos: Altar of Light] Altar of Light
+Worship.
+[Íconos: Holy Water.png] Holy Water. "You have curried favor from the gods!"
+[Íconos: Buff.curio tracker.png] Buff DMG +30% Until Camp
+[Íconos: Buff.curio tracker.png] Buff DMG +20% Until Camp.
+[Íconos: Bookshelf, Pass.png, Scout Ahead.png, Stress.curio tracker.png, Quirk pos.curio tracker.png, Quirk neg.curio tracker.png, Inv journal page.png, Nothing.curio tracker.png] Bookshelf Knowledge. | Bookshelf | Knowledge. | "A bookshelf full of old, leather-bound books." (This curio can only appear along corridors.) |  |  | 20% Scouting. "A map is found tucked between the volumes." 20% Stress +15. "The hero reads a most unsettling passage." 13.3% Positive Quirk. "The knowledge forever changes the hero." 6.7% Negative Quirk. "The knowledge forever changes the hero." 20% Journal Entry. 20% Nothing. "The volumes are dull and uninteresting." | 20% Scouting. "A map is found tucked between the volumes." | 20% Stress +15. "The hero reads a most unsettling passage." | 13.3% Positive Quirk. "The knowledge forever changes the hero." | 6.7% Negative Quirk. "The knowledge forever changes the hero." | 20% Journal Entry. | 20% Nothing. "The volumes are dull and uninteresting."
+[Íconos: Bookshelf] Bookshelf
+Knowledge.
+[Íconos: Pass.png] 
+[Íconos: Scout Ahead.png] 20% Scouting. "A map is found tucked between the volumes."
+[Íconos: Stress.curio tracker.png] 20% Stress +15. "The hero reads a most unsettling passage."
+[Íconos: Quirk pos.curio tracker.png] 13.3% Positive Quirk. "The knowledge forever changes the hero."
+[Íconos: Quirk neg.curio tracker.png] 6.7% Negative Quirk. "The knowledge forever changes the hero."
+[Íconos: Inv journal page.png] 20% Journal Entry.
+[Íconos: Nothing.curio tracker.png] 20% Nothing. "The volumes are dull and uninteresting."
+[Íconos: Confession Booth, Holy Water.png, Heal stress.curio tracker.png, Stress.curio tracker.png, Loot.curio tracker.png, Purge neg.curio tracker.png] Confession Booth Worship; Reflective. | Confession Booth | Worship; Reflective. | "A forsaken confession booth. It hasn't been used in years." (This curio can only appear along corridors.) | Holy Water. "The ritual relieves the hero." Stress Heal 30 | Holy Water. "The ritual relieves the hero." | Stress Heal 30 | 50% Stress +15. "The hero's history of sins is too much to bear." 25% Gold/Trinket x6 + Journal Entry. "The booth contains hidden treasure..." 25% Purge Negative Quirk. "The hero is absolved of a sin." | 50% Stress +15. "The hero's history of sins is too much to bear." | 25% Gold/Trinket x6 + Journal Entry. "The booth contains hidden treasure..." | 25% Purge Negative Quirk. "The hero is absolved of a sin."
+[Íconos: Confession Booth] Confession Booth
+Worship; Reflective.
+[Íconos: Holy Water.png] Holy Water. "The ritual relieves the hero."
+[Íconos: Heal stress.curio tracker.png] Stress Heal 30
+[Íconos: Stress.curio tracker.png] 50% Stress +15. "The hero's history of sins is too much to bear."
+[Íconos: Loot.curio tracker.png] 25% Gold/Trinket x6 + Journal Entry. "The booth contains hidden treasure..."
+[Íconos: Purge neg.curio tracker.png] 25% Purge Negative Quirk. "The hero is absolved of a sin."
+[Íconos: Decorative Urn, Holy Water.png, Shovel.png, Loot.curio tracker.png, Quirk neg.curio tracker.png, Loot.curio tracker.png, Poptext poison.png, Poptext disease.png, Poptext disease.png, Nothing.curio tracker.png] Decorative Urn Haunted; Scrounging. | Decorative Urn | Haunted; Scrounging. | "An urn holds ashes of the departed." (This curio can only appear along corridors.) | Holy Water. "The consecrated water dissolves the ashes. Valuables remain!" Shovel. "What sort of person defiles the dead?" Gems/Trinket x2 + Gems x2 Negative Quirk: Guilty Conscience | Holy Water. "The consecrated water dissolves the ashes. Valuables remain!" | Shovel. "What sort of person defiles the dead?" | Gems/Trinket x2 + Gems x2 | Negative Quirk: Guilty Conscience | 44.4% Gems/Trinket x1 + Gems x2. "Sentimental gifts are hidden inside." 22.2% Blight. "The hero becomes infected by the ashes." 7.4% Disease: Creeping Cough. "The ashes make the hero cough violently." 3.7% Random Disease. "The hero contracts a deadly disease." 22.2% Nothing. "The urn's purpose is purely decorative." | 44.4% Gems/Trinket x1 + Gems x2. "Sentimental gifts are hidden inside." | 22.2% Blight. "The hero becomes infected by the ashes." | 7.4% Disease: Creeping Cough. "The ashes make the hero cough violently." | 3.7% Random Disease. "The hero contracts a deadly disease." | 22.2% Nothing. "The urn's purpose is purely decorative."
+[Íconos: Decorative Urn] Decorative Urn
+Haunted; Scrounging.
+[Íconos: Holy Water.png, Shovel.png] Holy Water. "The consecrated water dissolves the ashes. Valuables remain!" | Shovel. "What sort of person defiles the dead?"
+[Íconos: Loot.curio tracker.png, Quirk neg.curio tracker.png] Gems/Trinket x2 + Gems x2 | Negative Quirk: Guilty Conscience
+[Íconos: Loot.curio tracker.png] 44.4% Gems/Trinket x1 + Gems x2. "Sentimental gifts are hidden inside."
+[Íconos: Poptext poison.png] 22.2% Blight. "The hero becomes infected by the ashes."
+[Íconos: Poptext disease.png] 7.4% Disease: Creeping Cough. "The ashes make the hero cough violently."
+[Íconos: Poptext disease.png] 3.7% Random Disease. "The hero contracts a deadly disease."
+[Íconos: Nothing.curio tracker.png] 22.2% Nothing. "The urn's purpose is purely decorative."
+[Íconos: Holy Fountain, Holy Water.png, Heal stress.curio tracker.png, Heal stress.curio tracker.png, Loot.curio tracker.png] Holy Fountain Fountain; Worship. | Holy Fountain | Fountain; Worship. | "An ornate fountain of holy purport." (This curio can only appear inside rooms.) | Holy Water. "Divine benefit!" Stress Heal 20, Cure Status Effects, Heal 12 HP | Holy Water. "Divine benefit!" | Stress Heal 20, Cure Status Effects, Heal 12 HP | 50% Stress Heal 10, Cure Status Effects, Heal 5 HP. 50% Gold/Gems x2. "Propitiations are found at the bottom of the fountain." | 50% Stress Heal 10, Cure Status Effects, Heal 5 HP. | 50% Gold/Gems x2. "Propitiations are found at the bottom of the fountain."
+[Íconos: Holy Fountain] Holy Fountain
+Fountain; Worship.
+[Íconos: Holy Water.png] Holy Water. "Divine benefit!"
+[Íconos: Heal stress.curio tracker.png] Stress Heal 20, Cure Status Effects, Heal 12 HP
+[Íconos: Heal stress.curio tracker.png] 50% Stress Heal 10, Cure Status Effects, Heal 5 HP.
+[Íconos: Loot.curio tracker.png] 50% Gold/Gems x2. "Propitiations are found at the bottom of the fountain."
+[Íconos: Iron Maiden, Medicinal Herbs.png, Loot.curio tracker.png, Loot.curio tracker.png, Quirk neg.curio tracker.png, Poptext disease.png, Poptext disease.png, Nothing.curio tracker.png] Iron Maiden Haunted; Torture. | Iron Maiden | Haunted; Torture. | "A rusty iron maiden stands against the wall, clasped shut." (This curio can only appear along corridors.) | Medicinal Herbs. "The herbs cleanse the maiden, allowing a thorough search." Any Loot x2 | Medicinal Herbs. "The herbs cleanse the maiden, allowing a thorough search." | Any Loot x2 | 40% Any Loot x2. "A few treasures are hidden in the iron maiden." 20% Negative Quirk: Claustrophobia. 13.3% Disease: Tetanus (66.7% disease). "The hero inhales foul vapours." 6.7% Random Disease (33.3% disease). 20% Nothing. | 40% Any Loot x2. "A few treasures are hidden in the iron maiden." | 20% Negative Quirk: Claustrophobia. | 13.3% Disease: Tetanus (66.7% disease). "The hero inhales foul vapours." | 6.7% Random Disease (33.3% disease). | 20% Nothing.
+[Íconos: Iron Maiden] Iron Maiden
+Haunted; Torture.
+[Íconos: Medicinal Herbs.png] Medicinal Herbs. "The herbs cleanse the maiden, allowing a thorough search."
+[Íconos: Loot.curio tracker.png] Any Loot x2
+[Íconos: Loot.curio tracker.png] 40% Any Loot x2. "A few treasures are hidden in the iron maiden."
+[Íconos: Quirk neg.curio tracker.png] 20% Negative Quirk: Claustrophobia.
+[Íconos: Poptext disease.png] 13.3% Disease: Tetanus (66.7% disease). "The hero inhales foul vapours."
+[Íconos: Poptext disease.png] 6.7% Random Disease (33.3% disease).
+[Íconos: Nothing.curio tracker.png] 20% Nothing.
+[Íconos: Locked Display Cabinet, Skeleton Key.png, Shovel.png, Loot.curio tracker.png, Currency.portrait.icon.png, Poptext bleed.png, Poptext poison.png] Locked Display Cabinet Treasure; Scrounging. | Locked Display Cabinet | Treasure; Scrounging. | "There could be valuables left inside, but this cabinet is locked." (This curio can only appear along corridors.) | Skeleton Key. "Treasures are stashed in the cabinet!" Shovel. "Smashed the cabinet open..." Gold/Heirlooms x3 + Gold/Gems x2 Gold/Heirlooms x2 + Gold/Gems x2 | Skeleton Key. "Treasures are stashed in the cabinet!" | Shovel. "Smashed the cabinet open..." | Gold/Heirlooms x3 + Gold/Gems x2 | Gold/Heirlooms x2 + Gold/Gems x2 | 50% Bleed. "It's trapped!" 50% Blight. "It's trapped!" | 50% Bleed. "It's trapped!" | 50% Blight. "It's trapped!"
+[Íconos: Locked Display Cabinet] Locked Display Cabinet
+Treasure; Scrounging.
+[Íconos: Skeleton Key.png, Shovel.png] Skeleton Key. "Treasures are stashed in the cabinet!" | Shovel. "Smashed the cabinet open..."
+[Íconos: Loot.curio tracker.png, Currency.portrait.icon.png] Gold/Heirlooms x3 + Gold/Gems x2 | Gold/Heirlooms x2 + Gold/Gems x2
+[Íconos: Poptext bleed.png] 50% Bleed. "It's trapped!"
+[Íconos: Poptext poison.png] 50% Blight. "It's trapped!"
+[Íconos: Locked Sarcophagus, Skeleton Key.png, Shovel.png, Loot.curio tracker.png, Currency.portrait.icon.png, Poptext bleed.png, Poptext poison.png] Locked Sarcophagus Haunted; Reflective. | Locked Sarcophagus | Haunted; Reflective. | "An ornate sarcophagus. It's locked." (This curio can only appear inside rooms.) | Skeleton Key. "The Skeleton Key opens the sarcophagus to reveal its contents." Shovel. "Broke into the sarcophagus..." Gold/Heirlooms x2 + Gold/Trinket x1 Gold/Heirlooms x1 + Gold/Trinket x1 | Skeleton Key. "The Skeleton Key opens the sarcophagus to reveal its contents." | Shovel. "Broke into the sarcophagus..." | Gold/Heirlooms x2 + Gold/Trinket x1 | Gold/Heirlooms x1 + Gold/Trinket x1 | 50% Bleed. "It's trapped!" 50% Blight. "It's trapped!" | 50% Bleed. "It's trapped!" | 50% Blight. "It's trapped!"
+[Íconos: Locked Sarcophagus] Locked Sarcophagus
+Haunted; Reflective.
+[Íconos: Skeleton Key.png, Shovel.png] Skeleton Key. "The Skeleton Key opens the sarcophagus to reveal its contents." | Shovel. "Broke into the sarcophagus..."
+[Íconos: Loot.curio tracker.png, Currency.portrait.icon.png] Gold/Heirlooms x2 + Gold/Trinket x1 | Gold/Heirlooms x1 + Gold/Trinket x1
+[Íconos: Poptext bleed.png] 50% Bleed. "It's trapped!"
+[Íconos: Poptext poison.png] 50% Blight. "It's trapped!"
+[Íconos: Sarcophagus, Pass.png, Currency.portrait.icon.png, Quirk neg.curio tracker.png, Nothing.curio tracker.png] Sarcophagus Haunted; Reflective; Body. | Sarcophagus | Haunted; Reflective; Body. | "An ornate sarcophagus. It is slightly ajar." (This curio can only appear inside rooms.) |  |  | 60% Gold/Heirlooms x2. "Hidden treasures!" 20% Negative Quirk: Thanatophobia. "The hero contemplates mortality..." 20% Nothing. | 60% Gold/Heirlooms x2. "Hidden treasures!" | 20% Negative Quirk: Thanatophobia. "The hero contemplates mortality..." | 20% Nothing.
+[Íconos: Sarcophagus] Sarcophagus
+Haunted; Reflective; Body.
+[Íconos: Pass.png] 
+[Íconos: Currency.portrait.icon.png] 60% Gold/Heirlooms x2. "Hidden treasures!"
+[Íconos: Quirk neg.curio tracker.png] 20% Negative Quirk: Thanatophobia. "The hero contemplates mortality..."
+[Íconos: Nothing.curio tracker.png] 20% Nothing.
+[Íconos: Suit of Armor, Pass.png, Buff.curio tracker.png, Quirk pos.curio tracker.png, Quirk pos.curio tracker.png] Suit of Armor Haunted; Reflective. | Suit of Armor | Haunted; Reflective. | "An antique suit of armor stands amidst the ruins." (This curio can only appear inside rooms.) |  |  | 75% Buff PROT +15% /DODGE +10 Until Camp. "The armor protects the hero with a knightly aura." 12.5% Positive Quirk: Ruins Adventurer. 12.5% Positive Quirk: Ruins Tactician. | 75% Buff PROT +15% /DODGE +10 Until Camp. "The armor protects the hero with a knightly aura." | 12.5% Positive Quirk: Ruins Adventurer. | 12.5% Positive Quirk: Ruins Tactician.
+[Íconos: Suit of Armor] Suit of Armor
+Haunted; Reflective.
+[Íconos: Pass.png] 
+[Íconos: Buff.curio tracker.png] 75% Buff PROT +15% /DODGE +10 Until Camp. "The armor protects the hero with a knightly aura."
+[Íconos: Quirk pos.curio tracker.png] 12.5% Positive Quirk: Ruins Adventurer.
+[Íconos: Quirk pos.curio tracker.png] 12.5% Positive Quirk: Ruins Tactician.
+
+
+=== TABLA 4 ===
+
+Curios found within the Weald
+Curio & type | Description | Cleansing | Without cleansing
+[Íconos: Ancient Coffin, Pass.png, Currency.portrait.icon.png, Quirk pos.curio tracker.png, Quirk pos.curio tracker.png, Nothing.curio tracker.png] Ancient Coffin Haunted; Body. | Ancient Coffin | Haunted; Body. | "An old coffin. It is slightly ajar." (This curio can only appear inside rooms.) |  |  | 50% Gold/Heirloom x2. "The coffin contains hidden treasures." 8.3% Positive Quirk: Weald Adventurer. "Findings in the coffin give the hero insight into the nature of this world." 8.3% Positive Quirk: Weald Explorer. "Findings in the coffin give the hero insight into the nature of this world." 33.3% Nothing. "There is nothing of value inside." | 50% Gold/Heirloom x2. "The coffin contains hidden treasures." | 8.3% Positive Quirk: Weald Adventurer. "Findings in the coffin give the hero insight into the nature of this world." | 8.3% Positive Quirk: Weald Explorer. "Findings in the coffin give the hero insight into the nature of this world." | 33.3% Nothing. "There is nothing of value inside."
+[Íconos: Ancient Coffin] Ancient Coffin
+Haunted; Body.
+[Íconos: Pass.png] 
+[Íconos: Currency.portrait.icon.png] 50% Gold/Heirloom x2. "The coffin contains hidden treasures."
+[Íconos: Quirk pos.curio tracker.png] 8.3% Positive Quirk: Weald Adventurer. "Findings in the coffin give the hero insight into the nature of this world."
+[Íconos: Quirk pos.curio tracker.png] 8.3% Positive Quirk: Weald Explorer. "Findings in the coffin give the hero insight into the nature of this world."
+[Íconos: Nothing.curio tracker.png] 33.3% Nothing. "There is nothing of value inside."
+[Íconos: Beast Carcass, Medicinal Herbs.png, Loot.curio tracker.png, Loot.curio tracker.png, Poptext disease.png, Poptext disease.png, Quirk neg.curio tracker.png, Nothing.curio tracker.png] Beast Carcass Body; Food. | Beast Carcass | Body; Food. | "Something has recently mutilated this creature..." (This curio can only appear along corridors.) | Medicinal Herbs. "The medicinal herbs rid the carcass of any diseases." Food x2 | Medicinal Herbs. "The medicinal herbs rid the carcass of any diseases." | Food x2 | 42.9% Food x1. "There is still some meat on these bones." 9.5% Disease: Rabies. "Exploring the carcass was not without risk of disease..." 19% Random Disease. "Exploring the carcass was not without risk of disease..." 14.3% Negative Quirk: Zoophobia. "The hero is distraught by the sight of the carcass." 14.3% Nothing. "The beast has nothing left to offer." | 42.9% Food x1. "There is still some meat on these bones." | 9.5% Disease: Rabies. "Exploring the carcass was not without risk of disease..." | 19% Random Disease. "Exploring the carcass was not without risk of disease..." | 14.3% Negative Quirk: Zoophobia. "The hero is distraught by the sight of the carcass." | 14.3% Nothing. "The beast has nothing left to offer."
+[Íconos: Beast Carcass] Beast Carcass
+Body; Food.
+[Íconos: Medicinal Herbs.png] Medicinal Herbs. "The medicinal herbs rid the carcass of any diseases."
+[Íconos: Loot.curio tracker.png] Food x2
+[Íconos: Loot.curio tracker.png] 42.9% Food x1. "There is still some meat on these bones."
+[Íconos: Poptext disease.png] 9.5% Disease: Rabies. "Exploring the carcass was not without risk of disease..."
+[Íconos: Poptext disease.png] 19% Random Disease. "Exploring the carcass was not without risk of disease..."
+[Íconos: Quirk neg.curio tracker.png] 14.3% Negative Quirk: Zoophobia. "The hero is distraught by the sight of the carcass."
+[Íconos: Nothing.curio tracker.png] 14.3% Nothing. "The beast has nothing left to offer."
+[Íconos: Eerie Spiderweb, Bandage.png, Loot.curio tracker.png, Loot.curio tracker.png, Quirk neg.curio tracker.png, Quirk neg.curio tracker.png, Nothing.curio tracker.png] Eerie Spiderweb None. | Eerie Spiderweb | None. | "A spiderweb with a strange glow to it. There might be something behind it." (This curio can only appear along corridors.) | Bandage. "The bandages protect the hero's hands during the search." Gold/Gems x2 + Gems/Trinket x1 | Bandage. "The bandages protect the hero's hands during the search." | Gold/Gems x2 + Gems/Trinket x1 | 40% Gold/Gems x1 + Gems/Trinket x1. 10% Negative Quirk: Slow Reflexes. "The hero is covered in a sticky goo." 10% Negative Quirk: Slowdraw. "The hero is covered in a sticky goo." 40% Nothing. | 40% Gold/Gems x1 + Gems/Trinket x1. | 10% Negative Quirk: Slow Reflexes. "The hero is covered in a sticky goo." | 10% Negative Quirk: Slowdraw. "The hero is covered in a sticky goo." | 40% Nothing.
+[Íconos: Eerie Spiderweb] Eerie Spiderweb
+None.
+[Íconos: Bandage.png] Bandage. "The bandages protect the hero's hands during the search."
+[Íconos: Loot.curio tracker.png] Gold/Gems x2 + Gems/Trinket x1
+[Íconos: Loot.curio tracker.png] 40% Gold/Gems x1 + Gems/Trinket x1.
+[Íconos: Quirk neg.curio tracker.png] 10% Negative Quirk: Slow Reflexes. "The hero is covered in a sticky goo."
+[Íconos: Quirk neg.curio tracker.png] 10% Negative Quirk: Slowdraw. "The hero is covered in a sticky goo."
+[Íconos: Nothing.curio tracker.png] 40% Nothing.
+[Íconos: Left Luggage, Skeleton Key.png, Antivenom.png, Loot.curio tracker.png, Loot.curio tracker.png, Loot.curio tracker.png, Poptext poison.png] Left Luggage Treasure; Scrounging. | Left Luggage | Treasure; Scrounging. | "Someone dropped this recently. Probably on the run. It has a lock on it." (This curio can only appear along corridors.) | Skeleton Key. "The Skeleton Key unlocks a hidden compartment." Antivenom. "The antivenom neutralizes a poison trap in a hidden compartment!" Any Loot x3 Any Loot x3 | Skeleton Key. "The Skeleton Key unlocks a hidden compartment." | Antivenom. "The antivenom neutralizes a poison trap in a hidden compartment!" | Any Loot x3 | Any Loot x3 | 50% Any Loot x4 + Journal Entry. "The luggage clearly shouldn't have been abandoned. Valuables inside!" 50% Blight. "It's trapped!" | 50% Any Loot x4 + Journal Entry. "The luggage clearly shouldn't have been abandoned. Valuables inside!" | 50% Blight. "It's trapped!"
+[Íconos: Left Luggage] Left Luggage
+Treasure; Scrounging.
+[Íconos: Skeleton Key.png, Antivenom.png] Skeleton Key. "The Skeleton Key unlocks a hidden compartment." | Antivenom. "The antivenom neutralizes a poison trap in a hidden compartment!"
+[Íconos: Loot.curio tracker.png, Loot.curio tracker.png] Any Loot x3 | Any Loot x3
+[Íconos: Loot.curio tracker.png] 50% Any Loot x4 + Journal Entry. "The luggage clearly shouldn't have been abandoned. Valuables inside!"
+[Íconos: Poptext poison.png] 50% Blight. "It's trapped!"
+[Íconos: Mummified Remains, Bandage.png, Loot.curio tracker.png, Loot.curio tracker.png, Poptext poison.png, Nothing.curio tracker.png] Mummified Remains Body; Haunted; Unholy. | Mummified Remains | Body; Haunted; Unholy. | "Ancient remains. The body looks well preserved. " (This curio can only appear along corridors.) | Bandage. "A bandage provides protection for a thorough search!" Gold/Trinkets x2 | Bandage. "A bandage provides protection for a thorough search!" | Gold/Trinkets x2 | 40% Gold/Trinkets x1. "Treasures are encased within the remains." 40% Blight. 20% Nothing. | 40% Gold/Trinkets x1. "Treasures are encased within the remains." | 40% Blight. | 20% Nothing.
+[Íconos: Mummified Remains] Mummified Remains
+Body; Haunted; Unholy.
+[Íconos: Bandage.png] Bandage. "A bandage provides protection for a thorough search!"
+[Íconos: Loot.curio tracker.png] Gold/Trinkets x2
+[Íconos: Loot.curio tracker.png] 40% Gold/Trinkets x1. "Treasures are encased within the remains."
+[Íconos: Poptext poison.png] 40% Blight.
+[Íconos: Nothing.curio tracker.png] 20% Nothing.
+[Íconos: Old Tree, Antivenom.png, Loot.curio tracker.png, Loot.curio tracker.png, Poptext poison.png, Nothing.curio tracker.png] Old Tree Scrounging. | Old Tree | Scrounging. | "This tree has a huge hole in the trunk. Perhaps there's something inside..." (This curio can only appear along corridors.) | Antivenom. "The antivenom protects against the poisonous sap, allowing a thorough search..." Any Loot x3 | Antivenom. "The antivenom protects against the poisonous sap, allowing a thorough search..." | Any Loot x3 | 50% Any Loot x2. "Someone couldn't resist stashing treasures inside." 25% Blight. "The hero is covered in poisonous sap." 25% Nothing. "Sometimes a tree is just a tree." | 50% Any Loot x2. "Someone couldn't resist stashing treasures inside." | 25% Blight. "The hero is covered in poisonous sap." | 25% Nothing. "Sometimes a tree is just a tree."
+[Íconos: Old Tree] Old Tree
+Scrounging.
+[Íconos: Antivenom.png] Antivenom. "The antivenom protects against the poisonous sap, allowing a thorough search..."
+[Íconos: Loot.curio tracker.png] Any Loot x3
+[Íconos: Loot.curio tracker.png] 50% Any Loot x2. "Someone couldn't resist stashing treasures inside."
+[Íconos: Poptext poison.png] 25% Blight. "The hero is covered in poisonous sap."
+[Íconos: Nothing.curio tracker.png] 25% Nothing. "Sometimes a tree is just a tree."
+[Íconos: Pristine Fountain, Holy Water.png, Heal stress.curio tracker.png, Heal stress.curio tracker.png] Pristine Fountain Fountain. | Pristine Fountain | Fountain. | "A beautiful fountain. It looks unaffected by the surrounding chaos. " (This curio can only appear inside rooms.) | Holy Water. "The hero consecrates the fountain." Stress Heal 30 | Holy Water. "The hero consecrates the fountain." | Stress Heal 30 | 100% Stress Heal 20. "The fountain reinvigorates the hero." | 100% Stress Heal 20. "The fountain reinvigorates the hero."
+[Íconos: Pristine Fountain] Pristine Fountain
+Fountain.
+[Íconos: Holy Water.png] Holy Water. "The hero consecrates the fountain."
+[Íconos: Heal stress.curio tracker.png] Stress Heal 30
+[Íconos: Heal stress.curio tracker.png] 100% Stress Heal 20. "The fountain reinvigorates the hero."
+[Íconos: Shallow Grave, Shovel.png, Currency.portrait.icon.png, Poptext poison.png, Poptext disease.png] Shallow Grave Body; Haunted; Scrounging. | Shallow Grave | Body; Haunted; Scrounging. | "A grave, dug in haste. " (This curio can only appear along corridors.) | Shovel. "Looks like grave robbing pays off sometimes!" Gems/Heirlooms x3 | Shovel. "Looks like grave robbing pays off sometimes!" | Gems/Heirlooms x3 | 50% Blight. "Gravedigging is not the healthiest of professions..." 50% Random Disease. "Grave digging is not the healthiest of professions..." | 50% Blight. "Gravedigging is not the healthiest of professions..." | 50% Random Disease. "Grave digging is not the healthiest of professions..."
+[Íconos: Shallow Grave] Shallow Grave
+Body; Haunted; Scrounging.
+[Íconos: Shovel.png] Shovel. "Looks like grave robbing pays off sometimes!"
+[Íconos: Currency.portrait.icon.png] Gems/Heirlooms x3
+[Íconos: Poptext poison.png] 50% Blight. "Gravedigging is not the healthiest of professions..."
+[Íconos: Poptext disease.png] 50% Random Disease. "Grave digging is not the healthiest of professions..."
+[Íconos: Traveler's Tent, Pass.png, Currency.portrait.icon.png, Scout Ahead.png, Stress.curio tracker.png, Nothing.curio tracker.png] Traveler's Tent Scrounging. | Traveler's Tent | Scrounging. | "Someone has camped here recently." (This curio can only appear inside rooms.) |  |  | 37.5% Gold/Supplies x4 + Gold/Heirlooms x4 + Journal Entry. "Someone left valuables inside the tent." 37.5% Scouting. "A map of the area is found inside the tent." 12.5% Stress +25. "The fate of the tent's occupant is found inside..." 12.5% Nothing. "Nothing is left inside the tent." | 37.5% Gold/Supplies x4 + Gold/Heirlooms x4 + Journal Entry. "Someone left valuables inside the tent." | 37.5% Scouting. "A map of the area is found inside the tent." | 12.5% Stress +25. "The fate of the tent's occupant is found inside..." | 12.5% Nothing. "Nothing is left inside the tent."
+[Íconos: Traveler's Tent] Traveler's Tent
+Scrounging.
+[Íconos: Pass.png] 
+[Íconos: Currency.portrait.icon.png] 37.5% Gold/Supplies x4 + Gold/Heirlooms x4 + Journal Entry. "Someone left valuables inside the tent."
+[Íconos: Scout Ahead.png] 37.5% Scouting. "A map of the area is found inside the tent."
+[Íconos: Stress.curio tracker.png] 12.5% Stress +25. "The fate of the tent's occupant is found inside..."
+[Íconos: Nothing.curio tracker.png] 12.5% Nothing. "Nothing is left inside the tent."
+[Íconos: Troubling Effigy, Holy Water.png, Quirk pos.curio tracker.png, Quirk pos.curio tracker.png, Quirk neg.curio tracker.png, Poptext bleed.png, Poptext poison.png, Stress.curio tracker.png, Nothing.curio tracker.png] Troubling Effigy Unholy; Worship. | Troubling Effigy | Unholy; Worship. | "An unsettling effigy erected in service to a mysterious god." (This curio can only appear along corridors.) | Holy Water. "The holy water has a powerful effect!" Random Positive Quirk | Holy Water. "The holy water has a powerful effect!" | Random Positive Quirk | 18.8% Random Positive Quirk. "The effigy imbues the hero with energy..." 18.8% Random Negative Quirk. "The effigy imbues the hero with energy..." 18.8% Bleed. "The effigy lashes out, rejecting the hero!" 9.4% Blight. "The effigy lashes out, rejecting the hero!" 9.4% Stress +15. "The effigy lashes out, rejecting the hero!" 25% Nothing. "Any power the effigy once had is now lost." | 18.8% Random Positive Quirk. "The effigy imbues the hero with energy..." | 18.8% Random Negative Quirk. "The effigy imbues the hero with energy..." | 18.8% Bleed. "The effigy lashes out, rejecting the hero!" | 9.4% Blight. "The effigy lashes out, rejecting the hero!" | 9.4% Stress +15. "The effigy lashes out, rejecting the hero!" | 25% Nothing. "Any power the effigy once had is now lost."
+[Íconos: Troubling Effigy] Troubling Effigy
+Unholy; Worship.
+[Íconos: Holy Water.png] Holy Water. "The holy water has a powerful effect!"
+[Íconos: Quirk pos.curio tracker.png] Random Positive Quirk
+[Íconos: Quirk pos.curio tracker.png] 18.8% Random Positive Quirk. "The effigy imbues the hero with energy..."
+[Íconos: Quirk neg.curio tracker.png] 18.8% Random Negative Quirk. "The effigy imbues the hero with energy..."
+[Íconos: Poptext bleed.png] 18.8% Bleed. "The effigy lashes out, rejecting the hero!"
+[Íconos: Poptext poison.png] 9.4% Blight. "The effigy lashes out, rejecting the hero!"
+[Íconos: Stress.curio tracker.png] 9.4% Stress +15. "The effigy lashes out, rejecting the hero!"
+[Íconos: Nothing.curio tracker.png] 25% Nothing. "Any power the effigy once had is now lost."
+
+
+=== TABLA 5 ===
+
+Curios found within the Cove
+Curio & type | Description | Cleansing | Without cleansing
+[Íconos: Barnacle Crusted Chest, Shovel.png, Loot.curio tracker.png, Loot.curio tracker.png, Poptext bleed.png, Nothing.curio tracker.png] Barnacle Crusted Chest Treasure. | Barnacle Crusted Chest | Treasure. | "A treasure chest blanketed in barnacles." (This curio can only appear along corridors.) | Shovel. "The shovel makes easy work of the barnacles." Any Loot x3 | Shovel. "The shovel makes easy work of the barnacles." | Any Loot x3 | 50% Any loot x2. "There's still booty inside!" 25% Bleed. "The hero received a nasty gash." 25% Nothing. "Nothing inside." | 50% Any loot x2. "There's still booty inside!" | 25% Bleed. "The hero received a nasty gash." | 25% Nothing. "Nothing inside."
+[Íconos: Barnacle Crusted Chest] Barnacle Crusted Chest
+Treasure.
+[Íconos: Shovel.png] Shovel. "The shovel makes easy work of the barnacles."
+[Íconos: Loot.curio tracker.png] Any Loot x3
+[Íconos: Loot.curio tracker.png] 50% Any loot x2. "There's still booty inside!"
+[Íconos: Poptext bleed.png] 25% Bleed. "The hero received a nasty gash."
+[Íconos: Nothing.curio tracker.png] 25% Nothing. "Nothing inside."
+[Íconos: Bas-Relief, Shovel.png, Stress.curio tracker.png, Quirk pos.curio tracker.png, Quirk neg.curio tracker.png, Poptext disease.png] Bas-Relief Knowledge; Worship. | Bas-Relief | Knowledge; Worship. | "A puzzlingly ancient sculpture of dizzying implication..." (This curio can only appear along corridors.) | Shovel. "The bas-relief is crushed with the shovel. Doesn't feel right..." Stress +100 | Shovel. "The bas-relief is crushed with the shovel. Doesn't feel right..." | Stress +100 | 66.7% Positive Quirk. "The message has a lasting impact on the hero..." 22.2% Negative Quirk. "The message has a lasting impact on the hero..." 11.1% Disease | 66.7% Positive Quirk. "The message has a lasting impact on the hero..." | 22.2% Negative Quirk. "The message has a lasting impact on the hero..." | 11.1% Disease
+[Íconos: Bas-Relief] Bas-Relief
+Knowledge; Worship.
+[Íconos: Shovel.png] Shovel. "The bas-relief is crushed with the shovel. Doesn't feel right..."
+[Íconos: Stress.curio tracker.png] Stress +100
+[Íconos: Quirk pos.curio tracker.png] 66.7% Positive Quirk. "The message has a lasting impact on the hero..."
+[Íconos: Quirk neg.curio tracker.png] 22.2% Negative Quirk. "The message has a lasting impact on the hero..."
+[Íconos: Poptext disease.png] 11.1% Disease
+[Íconos: Brackish Tide Pool, Antivenom.png, Antivenom.png, Heal gen.curio tracker.png, Heal stress.curio tracker.png, Buff.curio tracker.png, Poptext disease.png] Brackish Tide Pool Drink; Fountain. | Brackish Tide Pool | Drink; Fountain. | "A pool of water cupped in smooth stone. Its color looks sightly off..." (This curio can only appear along corridors.) | Antivenom. "The water is purified and cleanses the hero." Antivenom. "The water is purified and cleanses the hero." Heal 5 HP (50%) Stress Heal 6 (50%) | Antivenom. "The water is purified and cleanses the hero." | Antivenom. "The water is purified and cleanses the hero." | Heal 5 HP (50%) | Stress Heal 6 (50%) | 75% Buff +33% Blight, Bleed, Disease, Debuff Resistances until Camp. "The hero's resilience is heightened!" 25% Random Disease. "The water is contaminated..." | 75% Buff +33% Blight, Bleed, Disease, Debuff Resistances until Camp. "The hero's resilience is heightened!" | 25% Random Disease. "The water is contaminated..."
+[Íconos: Brackish Tide Pool] Brackish Tide Pool
+Drink; Fountain.
+[Íconos: Antivenom.png, Antivenom.png] Antivenom. "The water is purified and cleanses the hero." | Antivenom. "The water is purified and cleanses the hero."
+[Íconos: Heal gen.curio tracker.png, Heal stress.curio tracker.png] Heal 5 HP (50%) | Stress Heal 6 (50%)
+[Íconos: Buff.curio tracker.png] 75% Buff +33% Blight, Bleed, Disease, Debuff Resistances until Camp. "The hero's resilience is heightened!"
+[Íconos: Poptext disease.png] 25% Random Disease. "The water is contaminated..."
+[Íconos: Eerie Coral, Medicinal Herbs.png, Purge neg.curio tracker.png, Heal stress.curio tracker.png, Stress.curio tracker.png, Nothing.curio tracker.png] Eerie Coral Knowledge. | Eerie Coral | Knowledge. | "There is something odd about this coral." (This curio can only appear along corridors.) | Medicinal Herbs. "Cleansing the coral brings out its profound healing qualities." Purge Negative Quirk | Medicinal Herbs. "Cleansing the coral brings out its profound healing qualities." | Purge Negative Quirk | 50% Stress Heal 10. "This coral is soothing to the mind." 25% Stress +25. "The coral is abrasive and unnerving" 25% Nothing. "Nothing here after all." | 50% Stress Heal 10. "This coral is soothing to the mind." | 25% Stress +25. "The coral is abrasive and unnerving" | 25% Nothing. "Nothing here after all."
+[Íconos: Eerie Coral] Eerie Coral
+Knowledge.
+[Íconos: Medicinal Herbs.png] Medicinal Herbs. "Cleansing the coral brings out its profound healing qualities."
+[Íconos: Purge neg.curio tracker.png] Purge Negative Quirk
+[Íconos: Heal stress.curio tracker.png] 50% Stress Heal 10. "This coral is soothing to the mind."
+[Íconos: Stress.curio tracker.png] 25% Stress +25. "The coral is abrasive and unnerving"
+[Íconos: Nothing.curio tracker.png] 25% Nothing. "Nothing here after all."
+[Íconos: Fish Idol, Holy Water.png, Buff.curio tracker.png, Debuff.curio tracker.png, Debuff.curio tracker.png] Fish Idol Unholy; Worship | Fish Idol | Unholy; Worship | "A strange presence is felt near this statue of worship." (This curio can only appear inside rooms.) | Holy Water. "An aura of strength engulfs the hero!" Buff +18% DMG until Camp | Holy Water. "An aura of strength engulfs the hero!" | Buff +18% DMG until Camp | 50% Debuff -25% DMG, -10 ACC until Camp. "An evil force strength engulfs the hero!" 50% Debuff -12 DODGE until Camp. "An evil force strength engulfs the hero!" | 50% Debuff -25% DMG, -10 ACC until Camp. "An evil force strength engulfs the hero!" | 50% Debuff -12 DODGE until Camp. "An evil force strength engulfs the hero!"
+[Íconos: Fish Idol] Fish Idol
+Unholy; Worship
+[Íconos: Holy Water.png] Holy Water. "An aura of strength engulfs the hero!"
+[Íconos: Buff.curio tracker.png] Buff +18% DMG until Camp
+[Íconos: Debuff.curio tracker.png] 50% Debuff -25% DMG, -10 ACC until Camp. "An evil force strength engulfs the hero!"
+[Íconos: Debuff.curio tracker.png] 50% Debuff -12 DODGE until Camp. "An evil force strength engulfs the hero!"
+[Íconos: Fish Carcass, Medicinal Herbs.png, Loot.curio tracker.png, Loot.curio tracker.png, Poptext disease.png, Poptext poison.png, Poptext bleed.png, Nothing.curio tracker.png] Fish Carcass Food. | Fish Carcass | Food. | "A stuffed sea creature has washed ashore. Wonder what it ate..." (This curio can only appear along corridors.) | Medicinal Herbs. "The gut is cleansed, allowing a safe search of its contents." Gem/Trinkets x2 + Gem/Gold x1 + Supplies x2 | Medicinal Herbs. "The gut is cleansed, allowing a safe search of its contents." | Gem/Trinkets x2 + Gem/Gold x1 + Supplies x2 | 16.7% Gem/Trinkets x1 Gold/Gem x1 + Supply x1. "The fish ate more than its fair share." 16.7% Disease: The Red Plague. "The creature is harbouring a dangerous infection." 11.1% Blight. "It's a trap!" 5.6% Bleed. "It's a trap!" 50% Nothing. "Only digested fish inside." | 16.7% Gem/Trinkets x1 Gold/Gem x1 + Supply x1. "The fish ate more than its fair share." | 16.7% Disease: The Red Plague. "The creature is harbouring a dangerous infection." | 11.1% Blight. "It's a trap!" | 5.6% Bleed. "It's a trap!" | 50% Nothing. "Only digested fish inside."
+[Íconos: Fish Carcass] Fish Carcass
+Food.
+[Íconos: Medicinal Herbs.png] Medicinal Herbs. "The gut is cleansed, allowing a safe search of its contents."
+[Íconos: Loot.curio tracker.png] Gem/Trinkets x2 + Gem/Gold x1 + Supplies x2
+[Íconos: Loot.curio tracker.png] 16.7% Gem/Trinkets x1 Gold/Gem x1 + Supply x1. "The fish ate more than its fair share."
+[Íconos: Poptext disease.png] 16.7% Disease: The Red Plague. "The creature is harbouring a dangerous infection."
+[Íconos: Poptext poison.png] 11.1% Blight. "It's a trap!"
+[Íconos: Poptext bleed.png] 5.6% Bleed. "It's a trap!"
+[Íconos: Nothing.curio tracker.png] 50% Nothing. "Only digested fish inside."
+[Íconos: Giant Oyster, Shovel.png, Dog Treats.png, Loot.curio tracker.png, Buff.curio tracker.png, Loot.curio tracker.png, Poptext bleed.png, Nothing.curio tracker.png] Giant Oyster Treasure; Scrounging. | Giant Oyster | Treasure; Scrounging. | "A live oyster. Who knows what value it hides..." (This curio can only appear inside rooms.) | Shovel. "The shovel prevents the oyster from closing." Dog Treats. "The oyster seems to like these..." Gold/Trinkets x3 Buff +25 DODGE until Camp | Shovel. "The shovel prevents the oyster from closing." | Dog Treats. "The oyster seems to like these..." | Gold/Trinkets x3 | Buff +25 DODGE until Camp | 40% Gold/Trinkets x2. "There are treasures hidden inside!" 40% Bleed. "The oyster slams shut!" 20% Nothing. "Someone has already cleaned house." | 40% Gold/Trinkets x2. "There are treasures hidden inside!" | 40% Bleed. "The oyster slams shut!" | 20% Nothing. "Someone has already cleaned house."
+[Íconos: Giant Oyster] Giant Oyster
+Treasure; Scrounging.
+[Íconos: Shovel.png, Dog Treats.png] Shovel. "The shovel prevents the oyster from closing." | Dog Treats. "The oyster seems to like these..."
+[Íconos: Loot.curio tracker.png, Buff.curio tracker.png] Gold/Trinkets x3 | Buff +25 DODGE until Camp
+[Íconos: Loot.curio tracker.png] 40% Gold/Trinkets x2. "There are treasures hidden inside!"
+[Íconos: Poptext bleed.png] 40% Bleed. "The oyster slams shut!"
+[Íconos: Nothing.curio tracker.png] 20% Nothing. "Someone has already cleaned house."
+[Íconos: Ship's Figurehead, Pass.png, Heal stress.curio tracker.png, Buff.curio tracker.png] Ship's Figurehead Reflective. | Ship's Figurehead | Reflective. | "The figurehead emits a marvelous aura." (This curio can only appear inside rooms.) |  |  | 66.7% Stress Heal 25-30. "The great artifact inspires the hero!" 33.3% Buff +20% DMG, +4 SPD until Camp. "The great artifact inspires the hero!" | 66.7% Stress Heal 25-30. "The great artifact inspires the hero!" | 33.3% Buff +20% DMG, +4 SPD until Camp. "The great artifact inspires the hero!"
+[Íconos: Ship's Figurehead] Ship's Figurehead
+Reflective.
+[Íconos: Pass.png] 
+[Íconos: Heal stress.curio tracker.png] 66.7% Stress Heal 25-30. "The great artifact inspires the hero!"
+[Íconos: Buff.curio tracker.png] 33.3% Buff +20% DMG, +4 SPD until Camp. "The great artifact inspires the hero!"
+
+
+=== TABLA 6 ===
+
+Curios found within the Warrens
+Curio & type | Description | Cleansing | Without cleansing
+[Íconos: Bone Altar, Pass.png, Buff.curio tracker.png] Bone Altar Unholy; Worship. | Bone Altar | Unholy; Worship. | "A dark altar with skulls prominently on display. A strange power can be felt in its presence." (This curio can only appear inside rooms.) |  |  | 100% Buff +15% DMG, +10 ACC, +5% CRT Until Camp, Cure Status Effects. "The altar infuses the hero with great power." | 100% Buff +15% DMG, +10 ACC, +5% CRT Until Camp, Cure Status Effects. "The altar infuses the hero with great power."
+[Íconos: Bone Altar] Bone Altar
+Unholy; Worship.
+[Íconos: Pass.png] 
+[Íconos: Buff.curio tracker.png] 100% Buff +15% DMG, +10 ACC, +5% CRT Until Camp, Cure Status Effects. "The altar infuses the hero with great power."
+[Íconos: Dinner Cart, Medicinal Herbs.png, Loot.curio tracker.png, Loot.curio tracker.png, Poptext poison.png, Poptext disease.png, Nothing.curio tracker.png] Dinner Cart Body; Drink; Food. | Dinner Cart | Body; Drink; Food. | "A cart of human remains. It looks much like a feeding trough. Disgusting." (This curio can only appear along corridors.) | Medicinal Herbs. "The herbs cleanse the meat, making some of it edible." Food x3 + Gold/Trinket x1 | Medicinal Herbs. "The herbs cleanse the meat, making some of it edible." | Food x3 + Gold/Trinket x1 | 37.5% Food x1 + Gold/Trinket x1. "Some of this meat looks edible..." 25% Blight. "The meat makes the hero violently ill." 12.5% Disease: The Black Plague. "The swine are not cleanly folk..." 25% Nothing. "Nothing but rotting bodies." | 37.5% Food x1 + Gold/Trinket x1. "Some of this meat looks edible..." | 25% Blight. "The meat makes the hero violently ill." | 12.5% Disease: The Black Plague. "The swine are not cleanly folk..." | 25% Nothing. "Nothing but rotting bodies."
+[Íconos: Dinner Cart] Dinner Cart
+Body; Drink; Food.
+[Íconos: Medicinal Herbs.png] Medicinal Herbs. "The herbs cleanse the meat, making some of it edible."
+[Íconos: Loot.curio tracker.png] Food x3 + Gold/Trinket x1
+[Íconos: Loot.curio tracker.png] 37.5% Food x1 + Gold/Trinket x1. "Some of this meat looks edible..."
+[Íconos: Poptext poison.png] 25% Blight. "The meat makes the hero violently ill."
+[Íconos: Poptext disease.png] 12.5% Disease: The Black Plague. "The swine are not cleanly folk..."
+[Íconos: Nothing.curio tracker.png] 25% Nothing. "Nothing but rotting bodies."
+[Íconos: Makeshift Dining Table, Medicinal Herbs.png, Loot.curio tracker.png, Loot.curio tracker.png, Poptext poison.png, Poptext disease.png, Nothing.curio tracker.png] Makeshift Dining Table Drink; Food. | Makeshift Dining Table | Drink; Food. | "An oddly assembled dining table. There might still be food scraps around." (This curio can only appear inside rooms.) | Medicinal Herbs. "The herbs kill any diseases harbored in the food." Food x2 + Gold/Supplies x1 | Medicinal Herbs. "The herbs kill any diseases harbored in the food." | Food x2 + Gold/Supplies x1 | 25% Food x1 + Gold/Supplies x1. "The table contains leftovers from a previous meal." 25% Blight. 25% Disease: Tapeworm. "The meat is not fully cooked..." 25% Nothing. | 25% Food x1 + Gold/Supplies x1. "The table contains leftovers from a previous meal." | 25% Blight. | 25% Disease: Tapeworm. "The meat is not fully cooked..." | 25% Nothing.
+[Íconos: Makeshift Dining Table] Makeshift Dining Table
+Drink; Food.
+[Íconos: Medicinal Herbs.png] Medicinal Herbs. "The herbs kill any diseases harbored in the food."
+[Íconos: Loot.curio tracker.png] Food x2 + Gold/Supplies x1
+[Íconos: Loot.curio tracker.png] 25% Food x1 + Gold/Supplies x1. "The table contains leftovers from a previous meal."
+[Íconos: Poptext poison.png] 25% Blight.
+[Íconos: Poptext disease.png] 25% Disease: Tapeworm. "The meat is not fully cooked..."
+[Íconos: Nothing.curio tracker.png] 25% Nothing.
+[Íconos: Moonshine Barrel, Medicinal Herbs.png, Buff.curio tracker.png, Loot.curio tracker.png, Poptext poison.png, Quirk neg.curio tracker.png, Nothing.curio tracker.png] Moonshine Barrel Drink; Treasure. | Moonshine Barrel | Drink; Treasure. | "A barrel that reeks of powerful liquors." (This curio can only appear along corridors.) | Medicinal Herbs. "Medicinal herbs purify the brew, and it is ever potent!" Buff +30% DMG (until camp) | Medicinal Herbs. "Medicinal herbs purify the brew, and it is ever potent!" | Buff +30% DMG (until camp) | 33.3% Food x1 + Gold/Supplies x1. "The barrel contains stashed treasures." 33.3% Blight. "The moonshine is kicked-off making the hero ill." 11.1% Negative Quirk: Tippler. "The hero acquires a taste for this magnificent sauce..." 22.2% Nothing. "The barrel is completely empty." | 33.3% Food x1 + Gold/Supplies x1. "The barrel contains stashed treasures." | 33.3% Blight. "The moonshine is kicked-off making the hero ill." | 11.1% Negative Quirk: Tippler. "The hero acquires a taste for this magnificent sauce..." | 22.2% Nothing. "The barrel is completely empty."
+[Íconos: Moonshine Barrel] Moonshine Barrel
+Drink; Treasure.
+[Íconos: Medicinal Herbs.png] Medicinal Herbs. "Medicinal herbs purify the brew, and it is ever potent!"
+[Íconos: Buff.curio tracker.png] Buff +30% DMG (until camp)
+[Íconos: Loot.curio tracker.png] 33.3% Food x1 + Gold/Supplies x1. "The barrel contains stashed treasures."
+[Íconos: Poptext poison.png] 33.3% Blight. "The moonshine is kicked-off making the hero ill."
+[Íconos: Quirk neg.curio tracker.png] 11.1% Negative Quirk: Tippler. "The hero acquires a taste for this magnificent sauce..."
+[Íconos: Nothing.curio tracker.png] 22.2% Nothing. "The barrel is completely empty."
+[Íconos: Occult Scrawlings, Holy Water.png, Debuff.curio tracker.png, Quirk pos.curio tracker.png, Stress.curio tracker.png, Quirk neg.curio tracker.png, Nothing.curio tracker.png] Occult Scrawlings Unholy; Knowledge. | Occult Scrawlings | Unholy; Knowledge. | "Scrawlings written on what looks like stretched and tanned human flesh..." (This curio can only appear along corridors.) | Holy Water. "The holy water hisses and the hero feels... wrong." Debuff -20% DODGE. | Holy Water. "The holy water hisses and the hero feels... wrong." | Debuff -20% DODGE. | 33.3% Random Positive Quirk. "The scrawling forever changes the hero." 25% Stress +25. "The sight is too much for the hero to bear." 16.7% Random Negative Quirk. "The scrawling forever changes the hero." 25% Nothing. "The scrawlings are dull and uninteresting." | 33.3% Random Positive Quirk. "The scrawling forever changes the hero." | 25% Stress +25. "The sight is too much for the hero to bear." | 16.7% Random Negative Quirk. "The scrawling forever changes the hero." | 25% Nothing. "The scrawlings are dull and uninteresting."
+[Íconos: Occult Scrawlings] Occult Scrawlings
+Unholy; Knowledge.
+[Íconos: Holy Water.png] Holy Water. "The holy water hisses and the hero feels... wrong."
+[Íconos: Debuff.curio tracker.png] Debuff -20% DODGE.
+[Íconos: Quirk pos.curio tracker.png] 33.3% Random Positive Quirk. "The scrawling forever changes the hero."
+[Íconos: Stress.curio tracker.png] 25% Stress +25. "The sight is too much for the hero to bear."
+[Íconos: Quirk neg.curio tracker.png] 16.7% Random Negative Quirk. "The scrawling forever changes the hero."
+[Íconos: Nothing.curio tracker.png] 25% Nothing. "The scrawlings are dull and uninteresting."
+[Íconos: Pile of Bones, Holy Water.png, Loot.curio tracker.png, Loot.curio tracker.png, Poptext disease.png, Quirk neg.curio tracker.png, Nothing.curio tracker.png] Pile of Bones Body; Haunted; Unholy. | Pile of Bones | Body; Haunted; Unholy. | "All that's left of a previous adventurer, perhaps." (This curio can only appear along corridors.) | Holy Water. "The pile is purified, allowing a thorough search!" Any Loot x2 | Holy Water. "The pile is purified, allowing a thorough search!" | Any Loot x2 | 25% Any Loot x2. "The bones house some supplies." 25% Random Disease. "The hero is infected by the rotten pile." 25% Negative Quirk: Bloodthirsty. "The hero becomes fascinated with the remains..." 25% Nothing. "Nothing is found amongst the remains." | 25% Any Loot x2. "The bones house some supplies." | 25% Random Disease. "The hero is infected by the rotten pile." | 25% Negative Quirk: Bloodthirsty. "The hero becomes fascinated with the remains..." | 25% Nothing. "Nothing is found amongst the remains."
+[Íconos: Pile of Bones] Pile of Bones
+Body; Haunted; Unholy.
+[Íconos: Holy Water.png] Holy Water. "The pile is purified, allowing a thorough search!"
+[Íconos: Loot.curio tracker.png] Any Loot x2
+[Íconos: Loot.curio tracker.png] 25% Any Loot x2. "The bones house some supplies."
+[Íconos: Poptext disease.png] 25% Random Disease. "The hero is infected by the rotten pile."
+[Íconos: Quirk neg.curio tracker.png] 25% Negative Quirk: Bloodthirsty. "The hero becomes fascinated with the remains..."
+[Íconos: Nothing.curio tracker.png] 25% Nothing. "Nothing is found amongst the remains."
+[Íconos: Pile of Scrolls, Torch.png, Purge neg.curio tracker.png, Scout Ahead.png, Stress.curio tracker.png, Inv journal page.png, Quirk pos.curio tracker.png, Quirk neg.curio tracker.png, Nothing.curio tracker.png] Pile of Scrolls Knowledge. | Pile of Scrolls | Knowledge. | "A bunch of scrolls. The cursive is sloppy and difficult to read." (This curio can only appear along corridors.) | Torch. "The scrolls are full of evil writings. Burning them is a weight off the hero's shoulders..." Purge Negative Quirk | Torch. "The scrolls are full of evil writings. Burning them is a weight off the hero's shoulders..." | Purge Negative Quirk | 28.6% Scouting. "The scrolls are a well-rendered map of the road ahead..." 14.3% Stress +15. "The scrolls contain hideous portents." 14.3% Journal Entry. 9.5% Random Positive Quirk. "The scrolls forever change the hero." 4.8% Random Negative Quirk. "The scrolls forever change the hero." 28.6% Nothing. "The scrolls are merely records of dull transactions..." | 28.6% Scouting. "The scrolls are a well-rendered map of the road ahead..." | 14.3% Stress +15. "The scrolls contain hideous portents." | 14.3% Journal Entry. | 9.5% Random Positive Quirk. "The scrolls forever change the hero." | 4.8% Random Negative Quirk. "The scrolls forever change the hero." | 28.6% Nothing. "The scrolls are merely records of dull transactions..."
+[Íconos: Pile of Scrolls] Pile of Scrolls
+Knowledge.
+[Íconos: Torch.png] Torch. "The scrolls are full of evil writings. Burning them is a weight off the hero's shoulders..."
+[Íconos: Purge neg.curio tracker.png] Purge Negative Quirk
+[Íconos: Scout Ahead.png] 28.6% Scouting. "The scrolls are a well-rendered map of the road ahead..."
+[Íconos: Stress.curio tracker.png] 14.3% Stress +15. "The scrolls contain hideous portents."
+[Íconos: Inv journal page.png] 14.3% Journal Entry.
+[Íconos: Quirk pos.curio tracker.png] 9.5% Random Positive Quirk. "The scrolls forever change the hero."
+[Íconos: Quirk neg.curio tracker.png] 4.8% Random Negative Quirk. "The scrolls forever change the hero."
+[Íconos: Nothing.curio tracker.png] 28.6% Nothing. "The scrolls are merely records of dull transactions..."
+[Íconos: Rack of Blades, Bandage.png, Loot.curio tracker.png, Loot.curio tracker.png, Poptext bleed.png, Nothing.curio tracker.png] Rack of Blades Scrounging. | Rack of Blades | Scrounging. | "A rack of dulled, rusty knives. They are covered in fresh blood." (This curio can only appear along corridors.) | Bandage. "The bandage protects the hero's hands during the search." Gold/Gems x2 + Food x1 | Bandage. "The bandage protects the hero's hands during the search." | Gold/Gems x2 + Food x1 | 40% Gold/Gems x1 + Food x1. "Extra supplies are found amongst the knives." 40% Bleed. "The hero receives a nasty gash." 20% Nothing. "Nothing useful here." | 40% Gold/Gems x1 + Food x1. "Extra supplies are found amongst the knives." | 40% Bleed. "The hero receives a nasty gash." | 20% Nothing. "Nothing useful here."
+[Íconos: Rack of Blades] Rack of Blades
+Scrounging.
+[Íconos: Bandage.png] Bandage. "The bandage protects the hero's hands during the search."
+[Íconos: Loot.curio tracker.png] Gold/Gems x2 + Food x1
+[Íconos: Loot.curio tracker.png] 40% Gold/Gems x1 + Food x1. "Extra supplies are found amongst the knives."
+[Íconos: Poptext bleed.png] 40% Bleed. "The hero receives a nasty gash."
+[Íconos: Nothing.curio tracker.png] 20% Nothing. "Nothing useful here."
+[Íconos: Sacrificial Stone, Pass.png, Stress.curio tracker.png, Purge neg.curio tracker.png, Quirk pos.curio tracker.png, Quirk pos.curio tracker.png] Sacrificial Stone Unholy; Worship. | Sacrificial Stone | Unholy; Worship. | "A stone used for ancient, barbaric rituals." (This curio can only appear inside rooms.) |  |  | 50% Stress +50. "The hero is deeply disturbed." 25% Purge Negative Quirk. "A sinful behaviour is vanquished." 12.5% Positive Quirk: Warrens Explorer. "The stone's carvings give great insight into these Warrens..." 12.5% Positive Quirk: Warrens Scrounger. "The stone's carvings give great insight into these Warrens..." | 50% Stress +50. "The hero is deeply disturbed." | 25% Purge Negative Quirk. "A sinful behaviour is vanquished." | 12.5% Positive Quirk: Warrens Explorer. "The stone's carvings give great insight into these Warrens..." | 12.5% Positive Quirk: Warrens Scrounger. "The stone's carvings give great insight into these Warrens..."
+[Íconos: Sacrificial Stone] Sacrificial Stone
+Unholy; Worship.
+[Íconos: Pass.png] 
+[Íconos: Stress.curio tracker.png] 50% Stress +50. "The hero is deeply disturbed."
+[Íconos: Purge neg.curio tracker.png] 25% Purge Negative Quirk. "A sinful behaviour is vanquished."
+[Íconos: Quirk pos.curio tracker.png] 12.5% Positive Quirk: Warrens Explorer. "The stone's carvings give great insight into these Warrens..."
+[Íconos: Quirk pos.curio tracker.png] 12.5% Positive Quirk: Warrens Scrounger. "The stone's carvings give great insight into these Warrens..."
+
+
+=== TABLA 7 ===
+
+[Íconos: Exclusive to The Crimson Court DLC] Curios found within the Courtyard
+Curio & type | Description | Cleansing | Without cleansing
+[Íconos: Bloodflowers, The Blood.png, Holy Water.png, Shovel.png, Nothing.curio tracker.png, Stress.curio tracker.png, Currency.portrait.icon.png, Stress.curio tracker.png, Scout Ahead.png, Loot.curio tracker.png, Poptext disease.png, Poptext disease.png, Nothing.curio tracker.png] Bloodflowers Scrounging; Knowledge. | Bloodflowers | Scrounging; Knowledge. | "The soil is soaked through with half-clotted blood which seemingly feeds these vital blooms." | The Blood. "The flowers surge with growth! But the blood invites no other occurence." Holy Water. "The wilting gives off a noxious odour!" Shovel. "Digging reveals loot!" Nothing Stress +15 Heirlooms x2 + Any Loot x1 | The Blood. "The flowers surge with growth! But the blood invites no other occurence." | Holy Water. "The wilting gives off a noxious odour!" | Shovel. "Digging reveals loot!" | Nothing | Stress +15 | Heirlooms x2 + Any Loot x1 | 38.5% Stress +15. "The blossoms reek of death, pestilence and unfathomable nightmares!" 23.1% Scouting. "A map is nestled between the thorns and blossoms!" 15.3% Any Loot x2 + 16.7% The Blood. "The potting soil reveals its treasure!" 5.1% Disease: Tetanus. "Thorns hook into the flesh, a cloying sap seeps into the hero's blood!" 2.5% Random Disease. 15.3% Nothing. "Apparently these ghoulish flowers are harmless." | 38.5% Stress +15. "The blossoms reek of death, pestilence and unfathomable nightmares!" | 23.1% Scouting. "A map is nestled between the thorns and blossoms!" | 15.3% Any Loot x2 + 16.7% The Blood. "The potting soil reveals its treasure!" | 5.1% Disease: Tetanus. "Thorns hook into the flesh, a cloying sap seeps into the hero's blood!" | 2.5% Random Disease. | 15.3% Nothing. "Apparently these ghoulish flowers are harmless."
+[Íconos: Bloodflowers] Bloodflowers
+Scrounging; Knowledge.
+[Íconos: The Blood.png, Holy Water.png, Shovel.png] The Blood. "The flowers surge with growth! But the blood invites no other occurence." | Holy Water. "The wilting gives off a noxious odour!" | Shovel. "Digging reveals loot!"
+[Íconos: Nothing.curio tracker.png, Stress.curio tracker.png, Currency.portrait.icon.png] Nothing | Stress +15 | Heirlooms x2 + Any Loot x1
+[Íconos: Stress.curio tracker.png] 38.5% Stress +15. "The blossoms reek of death, pestilence and unfathomable nightmares!"
+[Íconos: Scout Ahead.png] 23.1% Scouting. "A map is nestled between the thorns and blossoms!"
+[Íconos: Loot.curio tracker.png] 15.3% Any Loot x2 + 16.7% The Blood. "The potting soil reveals its treasure!"
+[Íconos: Poptext disease.png] 5.1% Disease: Tetanus. "Thorns hook into the flesh, a cloying sap seeps into the hero's blood!"
+[Íconos: Poptext disease.png] 2.5% Random Disease.
+[Íconos: Nothing.curio tracker.png] 15.3% Nothing. "Apparently these ghoulish flowers are harmless."
+[Íconos: Damned Fountain, Holy Water.png, Torch.png, Heal stress.curio tracker.png, Stress.curio tracker.png, Poptext bleed.png, Poptext disease.png, Loot.curio tracker.png] Damned Fountain Drink; Fountain; CCrave; Unholy; Haunted. | Damned Fountain | Drink; Fountain; CCrave; Unholy; Haunted. | "A bubbling fountain spews crimson ichor from some damnable source." | Holy Water. "The purified liquid offers a surprising boon!" Torch. "Burning the blood stings the nostrils and turns the stomach." Stress Heal 30 Stress +5 | Holy Water. "The purified liquid offers a surprising boon!" | Torch. "Burning the blood stings the nostrils and turns the stomach." | Stress Heal 30 | Stress +5 | 60% Bleed. "The hero's scars weep open when bathed in the crimson fluid!" 20% Disease: Crimson Curse. "This bloody artifact invites ailment!" 20% Any Loot x2 + 16.7% Bleed. "Treasure lies in the gore-filled basin!" | 60% Bleed. "The hero's scars weep open when bathed in the crimson fluid!" | 20% Disease: Crimson Curse. "This bloody artifact invites ailment!" | 20% Any Loot x2 + 16.7% Bleed. "Treasure lies in the gore-filled basin!"
+[Íconos: Damned Fountain] Damned Fountain
+Drink; Fountain; CCrave; Unholy; Haunted.
+[Íconos: Holy Water.png, Torch.png] Holy Water. "The purified liquid offers a surprising boon!" | Torch. "Burning the blood stings the nostrils and turns the stomach."
+[Íconos: Heal stress.curio tracker.png, Stress.curio tracker.png] Stress Heal 30 | Stress +5
+[Íconos: Poptext bleed.png] 60% Bleed. "The hero's scars weep open when bathed in the crimson fluid!"
+[Íconos: Poptext disease.png] 20% Disease: Crimson Curse. "This bloody artifact invites ailment!"
+[Íconos: Loot.curio tracker.png] 20% Any Loot x2 + 16.7% Bleed. "Treasure lies in the gore-filled basin!"
+[Íconos: Disturbing Diversion, Shovel.png, Currency.portrait.icon.png, Stress.curio tracker.png, Quirk pos.curio tracker.png, Quirk neg.curio tracker.png, Loot.curio tracker.png, Nothing.curio tracker.png] Disturbing Diversion Unholy; Haunted; Scrounging; Torture; Reflective. | Disturbing Diversion | Unholy; Haunted; Scrounging; Torture; Reflective. | "Mouldering evidence of a society's depravity." | Shovel. "What sadist put treasure in its skull?" Heirlooms x3 | Shovel. "What sadist put treasure in its skull?" | Heirlooms x3 | 40% Stress +25. "You picture debauched and bloody games... 15% Random Positive Quirk. "Suppressed desires awaken!" 15% Random Negative Quirk. "Suppressed desires awaken!" 10% Any Loot x2 + 16.7% The Blood x2. "Wagers long forgotten." 20% Nothing. "The remains yield nothing." | 40% Stress +25. "You picture debauched and bloody games... | 15% Random Positive Quirk. "Suppressed desires awaken!" | 15% Random Negative Quirk. "Suppressed desires awaken!" | 10% Any Loot x2 + 16.7% The Blood x2. "Wagers long forgotten." | 20% Nothing. "The remains yield nothing."
+[Íconos: Disturbing Diversion] Disturbing Diversion
+Unholy; Haunted; Scrounging; Torture; Reflective.
+[Íconos: Shovel.png] Shovel. "What sadist put treasure in its skull?"
+[Íconos: Currency.portrait.icon.png] Heirlooms x3
+[Íconos: Stress.curio tracker.png] 40% Stress +25. "You picture debauched and bloody games...
+[Íconos: Quirk pos.curio tracker.png] 15% Random Positive Quirk. "Suppressed desires awaken!"
+[Íconos: Quirk neg.curio tracker.png] 15% Random Negative Quirk. "Suppressed desires awaken!"
+[Íconos: Loot.curio tracker.png] 10% Any Loot x2 + 16.7% The Blood x2. "Wagers long forgotten."
+[Íconos: Nothing.curio tracker.png] 20% Nothing. "The remains yield nothing."
+[Íconos: Forgotten Delicacies, Medicinal Herbs.png, Loot.curio tracker.png, Loot.curio tracker.png, Quirk neg.curio tracker.png, Poptext poison.png, Poptext disease.png, Poptext disease.png, Nothing.curio tracker.png] Forgotten Delicacies Body; Food; Haunted; Unholy; CCrave. | Forgotten Delicacies | Body; Food; Haunted; Unholy; CCrave. | "An anachronistic mixture of both rotted and fresh victuals adorn the cart." | Medicinal Herbs. "Precise use of herbs purifies the tainted remains." Food x2 + Gold/Supplies x1 | Medicinal Herbs. "Precise use of herbs purifies the tainted remains." | Food x2 + Gold/Supplies x1 | 20% Gold/Supplies x4 + Supplies x1 + 25% The Blood. "There are valuables scattered about the repast." 20% Negative Quirk: Stress Eater. "What a peculiar flavour..." 20% Blight. "It is tainted!" 13.3% Disease: Crimson Curse. "There is nothing but rot inside the seemingly fresh morsels!" 6.7% Random Disease. "There is nothing but rot inside the seemingly fresh morsels!" 20% Nothing. "There remains nothing worthy of your time." | 20% Gold/Supplies x4 + Supplies x1 + 25% The Blood. "There are valuables scattered about the repast." | 20% Negative Quirk: Stress Eater. "What a peculiar flavour..." | 20% Blight. "It is tainted!" | 13.3% Disease: Crimson Curse. "There is nothing but rot inside the seemingly fresh morsels!" | 6.7% Random Disease. "There is nothing but rot inside the seemingly fresh morsels!" | 20% Nothing. "There remains nothing worthy of your time."
+[Íconos: Forgotten Delicacies] Forgotten Delicacies
+Body; Food; Haunted; Unholy; CCrave.
+[Íconos: Medicinal Herbs.png] Medicinal Herbs. "Precise use of herbs purifies the tainted remains."
+[Íconos: Loot.curio tracker.png] Food x2 + Gold/Supplies x1
+[Íconos: Loot.curio tracker.png] 20% Gold/Supplies x4 + Supplies x1 + 25% The Blood. "There are valuables scattered about the repast."
+[Íconos: Quirk neg.curio tracker.png] 20% Negative Quirk: Stress Eater. "What a peculiar flavour..."
+[Íconos: Poptext poison.png] 20% Blight. "It is tainted!"
+[Íconos: Poptext disease.png] 13.3% Disease: Crimson Curse. "There is nothing but rot inside the seemingly fresh morsels!"
+[Íconos: Poptext disease.png] 6.7% Random Disease. "There is nothing but rot inside the seemingly fresh morsels!"
+[Íconos: Nothing.curio tracker.png] 20% Nothing. "There remains nothing worthy of your time."
+[Íconos: Hooded Shrew, The Blood.png, Loot.curio tracker.png, Stress.curio tracker.png, Loot.curio tracker.png, Poptext disease.png, Nothing.curio tracker.png] Hooded Shrew Haunted; Unholy. | Hooded Shrew | Haunted; Unholy. | "A mysterious figure, not fully human, not fully insect, kneels here on the ground." | The Blood. "Blood for treasure!" Trinket x2 | The Blood. "Blood for treasure!" | Trinket x2 | 42.8% Stress +15. "The urchin's arcane mutterings stir deep terror within!" 28.5% Any Loot x1. "The shrew seems oblivious to the hero's pilfering." 7.6% Random Disease. "The shrew's filthy grasp is like iron and its nails rake the hero!" 14.2% Nothing. "The supplicant does not seem to notice the hero." | 42.8% Stress +15. "The urchin's arcane mutterings stir deep terror within!" | 28.5% Any Loot x1. "The shrew seems oblivious to the hero's pilfering." | 7.6% Random Disease. "The shrew's filthy grasp is like iron and its nails rake the hero!" | 14.2% Nothing. "The supplicant does not seem to notice the hero."
+[Íconos: Hooded Shrew] Hooded Shrew
+Haunted; Unholy.
+[Íconos: The Blood.png] The Blood. "Blood for treasure!"
+[Íconos: Loot.curio tracker.png] Trinket x2
+[Íconos: Stress.curio tracker.png] 42.8% Stress +15. "The urchin's arcane mutterings stir deep terror within!"
+[Íconos: Loot.curio tracker.png] 28.5% Any Loot x1. "The shrew seems oblivious to the hero's pilfering."
+[Íconos: Poptext disease.png] 7.6% Random Disease. "The shrew's filthy grasp is like iron and its nails rake the hero!"
+[Íconos: Nothing.curio tracker.png] 14.2% Nothing. "The supplicant does not seem to notice the hero."
+[Íconos: Wizened Shrew, The Blood.png, Loot.curio tracker.png, Poptext disease.png, Scout Ahead.png, Nothing.curio tracker.png, Nothing.curio tracker.png] Wizened Shrew Haunted; Unholy. | Wizened Shrew | Haunted; Unholy. | "This appears to be an elderly but shunned member of this damned court." | The Blood. "From a hidden fold, the shrew offers up a rare treasure!" Trinket x3 | The Blood. "From a hidden fold, the shrew offers up a rare treasure!" | Trinket x3 | 16.67% Random Disease. "The shrew's filthy grasp is like iron and its nails rake the hero!" 33.3% Scouting. "A greasy vellum is proffered to the hero." 33.3% "The being mutters an incantation..." and nothing happens. "The shrew performs a strange ritual, but the results seem positive!" 16.67% Nothing. "The supplicant is incoherent and penniless. Harmless." | 16.67% Random Disease. "The shrew's filthy grasp is like iron and its nails rake the hero!" | 33.3% Scouting. "A greasy vellum is proffered to the hero." | 33.3% "The being mutters an incantation..." and nothing happens. "The shrew performs a strange ritual, but the results seem positive!" | 16.67% Nothing. "The supplicant is incoherent and penniless. Harmless."
+[Íconos: Wizened Shrew] Wizened Shrew
+Haunted; Unholy.
+[Íconos: The Blood.png] The Blood. "From a hidden fold, the shrew offers up a rare treasure!"
+[Íconos: Loot.curio tracker.png] Trinket x3
+[Íconos: Poptext disease.png] 16.67% Random Disease. "The shrew's filthy grasp is like iron and its nails rake the hero!"
+[Íconos: Scout Ahead.png] 33.3% Scouting. "A greasy vellum is proffered to the hero."
+[Íconos: Nothing.curio tracker.png] 33.3% "The being mutters an incantation..." and nothing happens. "The shrew performs a strange ritual, but the results seem positive!"
+[Íconos: Nothing.curio tracker.png] 16.67% Nothing. "The supplicant is incoherent and penniless. Harmless."
+[Íconos: Pile of Strange Bones, Bandage.png, Bandage.png, The Blood.png, Loot.curio tracker.png, The Blood.png, Summon.curio tracker.png, Poptext bleed.png, Loot.curio tracker.png, Poptext disease.png, Nothing.curio tracker.png] Pile of Strange Bones Unholy; Scrounging; Haunted; Knowledge. | Pile of Strange Bones | Unholy; Scrounging; Haunted; Knowledge. | "A heap of peculiar bones and dusty sinew litters the floor." (This curio can only appear along corridors.) | Bandage. "These bones hold riches!" Bandage. "These bones hold riches!" The Blood. "These bones hold riches!" Any Loot x1 (50%) The Blood 16.7% (50%) Summon a Supplicant, Sycophant, & Esquire. | Bandage. "These bones hold riches!" | Bandage. "These bones hold riches!" | The Blood. "These bones hold riches!" | Any Loot x1 (50%) | The Blood 16.7% (50%) | Summon a Supplicant, Sycophant, & Esquire. | 50% Bleed. "An insectoid mandible pierces the hero's skin!" 20% Any Loot x2 + 16.7% The Blood. "Baubles and other items of value are found in the grisly remains!" 10% Disease: Crimson Curse. "Your blood is tainted with a strange infection!" 20% Nothing. "These remains hold no danger nor anything of value either." | 50% Bleed. "An insectoid mandible pierces the hero's skin!" | 20% Any Loot x2 + 16.7% The Blood. "Baubles and other items of value are found in the grisly remains!" | 10% Disease: Crimson Curse. "Your blood is tainted with a strange infection!" | 20% Nothing. "These remains hold no danger nor anything of value either."
+[Íconos: Pile of Strange Bones] Pile of Strange Bones
+Unholy; Scrounging; Haunted; Knowledge.
+[Íconos: Bandage.png, Bandage.png, The Blood.png] Bandage. "These bones hold riches!" | Bandage. "These bones hold riches!" | The Blood. "These bones hold riches!"
+[Íconos: Loot.curio tracker.png, The Blood.png, Summon.curio tracker.png] Any Loot x1 (50%) | The Blood 16.7% (50%) | Summon a Supplicant, Sycophant, & Esquire.
+[Íconos: Poptext bleed.png] 50% Bleed. "An insectoid mandible pierces the hero's skin!"
+[Íconos: Loot.curio tracker.png] 20% Any Loot x2 + 16.7% The Blood. "Baubles and other items of value are found in the grisly remains!"
+[Íconos: Poptext disease.png] 10% Disease: Crimson Curse. "Your blood is tainted with a strange infection!"
+[Íconos: Nothing.curio tracker.png] 20% Nothing. "These remains hold no danger nor anything of value either."
+[Íconos: Throbbing Coccoons, Torch.png, Heal stress.curio tracker.png, Summon.curio tracker.png, Loot.curio tracker.png, Nothing.curio tracker.png] Throbbing Coccoons Knowledge; Scrounging; CCrave. | Throbbing Coccoons | Knowledge; Scrounging; CCrave. | "Shifting and bulging organisms hide behind translucent walls." | Torch. "Sweet relief as the eggs turn to ash." Stress Heal 30 (Courtyard only) | Torch. "Sweet relief as the eggs turn to ash." | Stress Heal 30 (Courtyard only) | 75% Summon a Supplicant, Sycophant & Esquire. "Gestating creatures burst forth from the eggs!" 12.5% Any Loot x3 + 16.7% The Blood. "Valuables found beneath the eggs!" 12.5% Nothing. "Disgusting viscera... and not much else." | 75% Summon a Supplicant, Sycophant & Esquire. "Gestating creatures burst forth from the eggs!" | 12.5% Any Loot x3 + 16.7% The Blood. "Valuables found beneath the eggs!" | 12.5% Nothing. "Disgusting viscera... and not much else."
+[Íconos: Throbbing Coccoons] Throbbing Coccoons
+Knowledge; Scrounging; CCrave.
+[Íconos: Torch.png] Torch. "Sweet relief as the eggs turn to ash."
+[Íconos: Heal stress.curio tracker.png] Stress Heal 30 (Courtyard only)
+[Íconos: Summon.curio tracker.png] 75% Summon a Supplicant, Sycophant & Esquire. "Gestating creatures burst forth from the eggs!"
+[Íconos: Loot.curio tracker.png] 12.5% Any Loot x3 + 16.7% The Blood. "Valuables found beneath the eggs!"
+[Íconos: Nothing.curio tracker.png] 12.5% Nothing. "Disgusting viscera... and not much else."
+[Íconos: Thronging Hive, Torch.png, Loot.curio tracker.png, Loot.curio tracker.png, Poptext bleed.png] Thronging Hive Knowledge; Scrounging; CCrave. | Thronging Hive | Knowledge; Scrounging; CCrave. | "The hive is twisted and unnatural - the work of cursed vermin." | Torch. "The vermin sizzle and pop as the hive burns to ash." Any Loot x3 + 16.7% Blood | Torch. "The vermin sizzle and pop as the hive burns to ash." | Any Loot x3 + 16.7% Blood | 75% Any Loot x2 + 20% Blood. "The hive holds valuables!" 25% Bleed. "The hive's inhabitants sting and bite the hero's exposed flesh!" | 75% Any Loot x2 + 20% Blood. "The hive holds valuables!" | 25% Bleed. "The hive's inhabitants sting and bite the hero's exposed flesh!"
+[Íconos: Thronging Hive] Thronging Hive
+Knowledge; Scrounging; CCrave.
+[Íconos: Torch.png] Torch. "The vermin sizzle and pop as the hive burns to ash."
+[Íconos: Loot.curio tracker.png] Any Loot x3 + 16.7% Blood
+[Íconos: Loot.curio tracker.png] 75% Any Loot x2 + 20% Blood. "The hive holds valuables!"
+[Íconos: Poptext bleed.png] 25% Bleed. "The hive's inhabitants sting and bite the hero's exposed flesh!"
+[Íconos: Wine Crate, Antivenom.png, Shovel.png, Heal stress.curio tracker.png, Firewood.png, Loot.curio tracker.png, Quirk neg.curio tracker.png, Poptext disease.png, Scout Ahead.png, Poptext bleed.png, Nothing.curio tracker.png] Wine Crate Drink; CCrave; Treasure. | Wine Crate | Drink; CCrave; Treasure. | "You can see that some of the bottles are still intact." | Antivenom. "A pleasant vintage!" Shovel. "Smashing the bottles reveals treasure!" Stress Heal 30 Firewood | Antivenom. "A pleasant vintage!" | Shovel. "Smashing the bottles reveals treasure!" | Stress Heal 30 | Firewood | 41.7% "The Blood (33.3%) x2 + Any Loot x1 + Gold/Supplies x4. "There is loot in the broken glass!" 16.7% Negative Quirk: Tippler. "A sip uncorks a disturbing new habit!" 16.7% Disease: Crimson Curse. "What terrible fortune!" 8.3% Scouting. "You find a map in an empty bottle!" 8.3% Bleed. "Take more care sorting through broken glass!" 8.3% Nothing. "Nothing but broken glass and wood splinters." | 41.7% "The Blood (33.3%) x2 + Any Loot x1 + Gold/Supplies x4. "There is loot in the broken glass!" | 16.7% Negative Quirk: Tippler. "A sip uncorks a disturbing new habit!" | 16.7% Disease: Crimson Curse. "What terrible fortune!" | 8.3% Scouting. "You find a map in an empty bottle!" | 8.3% Bleed. "Take more care sorting through broken glass!" | 8.3% Nothing. "Nothing but broken glass and wood splinters."
+[Íconos: Wine Crate] Wine Crate
+Drink; CCrave; Treasure.
+[Íconos: Antivenom.png, Shovel.png] Antivenom. "A pleasant vintage!" | Shovel. "Smashing the bottles reveals treasure!"
+[Íconos: Heal stress.curio tracker.png, Firewood.png] Stress Heal 30 | Firewood
+[Íconos: Loot.curio tracker.png] 41.7% "The Blood (33.3%) x2 + Any Loot x1 + Gold/Supplies x4. "There is loot in the broken glass!"
+[Íconos: Quirk neg.curio tracker.png] 16.7% Negative Quirk: Tippler. "A sip uncorks a disturbing new habit!"
+[Íconos: Poptext disease.png] 16.7% Disease: Crimson Curse. "What terrible fortune!"
+[Íconos: Scout Ahead.png] 8.3% Scouting. "You find a map in an empty bottle!"
+[Íconos: Poptext bleed.png] 8.3% Bleed. "Take more care sorting through broken glass!"
+[Íconos: Nothing.curio tracker.png] 8.3% Nothing. "Nothing but broken glass and wood splinters."
+[Íconos: Lost Treasure Box, Skeleton Key.png, Currency.portrait.icon.png, Loot.curio tracker.png] Lost Treasure Box None. | Lost Treasure Box | None. | "This chest must hold some kind of loot." (This curio can only appear inside rooms.) | Skeleton Key. "You are certain to put this to good use!" Heirlooms x2 + Any Loot x1 | Skeleton Key. "You are certain to put this to good use!" | Heirlooms x2 + Any Loot x1 | Any loot x1 + Trinket x2 + Gems x1. "You are certain to put this to good use!" | Any loot x1 + Trinket x2 + Gems x1. "You are certain to put this to good use!"
+[Íconos: Lost Treasure Box] Lost Treasure Box
+None.
+[Íconos: Skeleton Key.png] Skeleton Key. "You are certain to put this to good use!"
+[Íconos: Currency.portrait.icon.png] Heirlooms x2 + Any Loot x1
+[Íconos: Loot.curio tracker.png] Any loot x1 + Trinket x2 + Gems x1. "You are certain to put this to good use!"
+
+
+=== TABLA 8 ===
+
+[Íconos: Exclusive to The Color of Madness DLC] Curios found within the Farmstead
+Curio & type | Description | Cleansing | Without cleansing
+[Íconos: Gleaming Shards, Pass.png, Ability none.png] Gleaming Shards | Gleaming Shards |  | "Glittering crystals spill onto the ground." (This curio can only appear inside rooms.) |  |  | Shards x5-15. | Shards x5-15.
+[Íconos: Gleaming Shards] Gleaming Shards
+
+[Íconos: Pass.png] 
+[Íconos: Ability none.png] Shards x5-15.
+[Íconos: Fresh Harvest, Pass.png, Heal gen.curio tracker.png] Fresh Harvest | Fresh Harvest |  | "Tantalizing provisions to renew a body. (This curio can only appear inside rooms.) |  |  | Heal 90% of MAX HP. | Heal 90% of MAX HP.
+[Íconos: Fresh Harvest] Fresh Harvest
+
+[Íconos: Pass.png] 
+[Íconos: Heal gen.curio tracker.png] Heal 90% of MAX HP.
+[Íconos: Stockpile, Skeleton Key.png, Loot.curio tracker.png, Loot.curio tracker.png, Nothing.curio tracker.png] Stockpile | Stockpile |  | "Useful supplies for this harrowing journey." (This curio can only appear inside rooms.) | Skeleton Key. Opens a hidden compartment! Food x6-12 + Any Supplies + Trinket | Skeleton Key. Opens a hidden compartment! | Food x6-12 + Any Supplies + Trinket | 66% Laudanum/Medicinal Herbs/Food. 33% Nothing. | 66% Laudanum/Medicinal Herbs/Food. | 33% Nothing.
+[Íconos: Stockpile] Stockpile
+
+[Íconos: Skeleton Key.png] Skeleton Key. Opens a hidden compartment!
+[Íconos: Loot.curio tracker.png] Food x6-12 + Any Supplies + Trinket
+[Íconos: Loot.curio tracker.png] 66% Laudanum/Medicinal Herbs/Food.
+[Íconos: Nothing.curio tracker.png] 33% Nothing.
+[Íconos: Rotted Fare, Pass.png, Heal stress.curio tracker.png] Rotted Fare | Rotted Fare |  | "Take up the hatchet. Blow off some steam." (This curio can only appear inside rooms.) |  |  | Stress Heal 100. | Stress Heal 100.
+[Íconos: Rotted Fare] Rotted Fare
+
+[Íconos: Pass.png] 
+[Íconos: Heal stress.curio tracker.png] Stress Heal 100.
+[Íconos: Miller's Hearth, Pass.png, Ability none.png] Miller's Hearth | Miller's Hearth |  | "The fireplace is slowly coming apart but looks functional." (This curio can only appear inside rooms.) |  |  | Camp. | Camp.
+[Íconos: Miller's Hearth] Miller's Hearth
+
+[Íconos: Pass.png] 
+[Íconos: Ability none.png] Camp.
+[Íconos: Corrupted Harvest, Pass.png, Heal stress.curio tracker.png] Corrupted Harvest | Corrupted Harvest |  | Take up the axe. Blow off some steam. (This curio can only appear inside rooms.) |  |  | Stress Heal 60 (Party). | Stress Heal 60 (Party).
+[Íconos: Corrupted Harvest] Corrupted Harvest
+
+[Íconos: Pass.png] 
+[Íconos: Heal stress.curio tracker.png] Stress Heal 60 (Party).
+[Íconos: Plentiful Bounty, Pass.png, Heal gen.curio tracker.png] Plentiful Bounty | Plentiful Bounty |  | "Tantalizing provisions to renew our energies." (This curio can only appear inside rooms.) |  |  | Heal 65% of MAX HP (Party). | Heal 65% of MAX HP (Party).
+[Íconos: Plentiful Bounty] Plentiful Bounty
+
+[Íconos: Pass.png] 
+[Íconos: Heal gen.curio tracker.png] Heal 65% of MAX HP (Party).
+[Íconos: Mildred, Pass.png, Loot.curio tracker.png, Loot.curio tracker.png] Mildred | Mildred |  | "This anguished creature does not seem hostile, yet." (This curio can only appear inside rooms.) |  |  | Trinket Mildred's Locket (First encounter only). Any Trinket/Shards (Subsequent encounters). | Trinket Mildred's Locket (First encounter only). | Any Trinket/Shards (Subsequent encounters).
+[Íconos: Mildred] Mildred
+
+[Íconos: Pass.png] 
+[Íconos: Loot.curio tracker.png] Trinket Mildred's Locket (First encounter only).
+[Íconos: Loot.curio tracker.png] Any Trinket/Shards (Subsequent encounters).
+
+
+=== TABLA 9 ===
+
+Curio | where found | probability
+Discarded Pack | hallway | 12.7%
+Sconce | hallway | 10.1%
+Crate | hallway | 12.7%
+Sack | hallway | 12.7%
+Stack of Books | hallway | 10.1%
+Altar of Light | hallway | 3.8%
+Decorative Urn | hallway | 6.3%
+Locked Display Cabinet | hallway | 6.3%
+Bookshelf | hallway | 10.1%
+Alchemy Table | hallway | 3.8%
+Confession Booth | hallway | 3.8%
+Iron Maiden | hallway | 6.3%
+Shambler's Altar | hallway | 1.3%
+Suit of Armor | curio room | 18.2%
+Holy Fountain | curio room | 18.2%
+Sarcophagus | curio room | 27.3%
+Locked Sarcophagus | curio room | 27.3%
+Eldritch Altar | curio room | 9.1%
+Unlocked Strongbox | treasure room | 25.0%
+Locked Strongbox | treasure room | 37.5%
+Heirloom Chest | treasure room | 37.5%
+
+
+=== TABLA 10 ===
+
+Curio | where found | probability
+Discarded Pack | hallway | 12.7%
+Sconce | hallway | 10.1%
+Crate | hallway | 12.7%
+Sack | hallway | 12.7%
+Mummified Remains | hallway | 6.3%
+Old Tree | hallway | 10.1%
+Beast Carcass | hallway | 10.1%
+Cosmic Spiderweb | hallway | 6.3%
+Lost Luggage | hallway | 6.3%
+Shallow Grave | hallway | 3.8%
+Troubling Effigy | hallway | 3.8%
+Shallow Grave | hallway | 3.8%
+Shamblers Altar | hallway | 1.3%
+Pristine Fountain | curio room | 20.0%
+Ancient Coffin | curio room | 40.0%
+Travellers Tent | curio room | 30.0%
+Eldritch Altar | curio room | 10.0%
+Unlocked Strongbox | treasure room | 25.0%
+Locked Strongbox | treasure room | 37.5%
+Heirloom Chest | treasure room | 37.5%
+
+
+=== TABLA 11 ===
+
+Curio | where found | probability
+Discarded Pack | hallway | 15.2%
+Sconce | hallway | 12.1%
+Crate | hallway | 15.2%
+Sack | hallway | 15.2%
+Barnacle Crusted Chest | hallway | 12.1%
+Brackish Tidepool | hallway | 4.5%
+Bas Relief | hallway | 4.5%
+Giant Fish Carcass | hallway | 12.1%
+Eerie Coral | hallway | 7.6%
+Shambler's Altar | hallway | 1.5%
+Fish Idol | curio room | 30.0%
+Ships Figurehead | curio room | 20.0%
+Giant Oyster | curio room | 40.0%
+Eldritch Altar | curio room | 10.0%
+Unlocked Strongbox | treasure room | 25.0%
+Locked Strongbox | treasure room | 37.5%
+Heirloom Chest | treasure room | 37.5%
+
+
+=== TABLA 12 ===
+
+Curio | where found | probability
+Discarded Pack | hallway | 13.2%
+Sconce | hallway | 10.5%
+Crate | hallway | 13.2%
+Sack | hallway | 13.2%
+Stack of Books | hallway | 10.5%
+Dinner Cart | hallway | 3.9%
+Knife Rack | hallway | 6.6%
+Pile of Bones | hallway | 10.5%
+Occult Scrawlings | hallway | 6.6%
+Moonshine Barrel | hallway | 6.6%
+Pile of Scrolls | hallway | 3.9%
+Shamblers Altar | hallway | 1.3%
+Skull Altar | curio room | 22.2%
+Sacrificial Stone | curio room | 33.3%
+Makeshift Dining Table | curio room | 33.3%
+Eldritch Altar | curio room | 11.1%
+Unlocked Strongbox | treasure room | 25.0%
+Locked Strongbox | treasure room | 37.5%
+Heirloom Chest | treasure room | 37.5%
+
+
+=== TABLA 13 ===
+
+Special curios
+Curio | Description | Cleansing | Without cleansing
+[Íconos: Ancestor's Knapsack, Pass.png, Loot.curio tracker.png] Ancestor's Knapsack Treasure; Scrounging; Haunted.(Can only be found in the Darkest Dungeon or in Wolves at the Door.) | Ancestor's Knapsack | Treasure; Scrounging; Haunted.(Can only be found in the Darkest Dungeon or in Wolves at the Door.) | "A chest untouched for centuries. There's a locked compartment on the side of it." |  |  | 100% Gold/Gems x5, Ancestral trinket x1. | 100% Gold/Gems x5, Ancestral trinket x1.
+[Íconos: Ancestor's Knapsack] Ancestor's Knapsack
+Treasure; Scrounging; Haunted.(Can only be found in the Darkest Dungeon or in Wolves at the Door.)
+[Íconos: Pass.png] 
+[Íconos: Loot.curio tracker.png] 100% Gold/Gems x5, Ancestral trinket x1.
+[Íconos: Trinket Chest, Exclusive to The Crimson Court DLC, Skeleton Key.png, Currency.portrait.icon.png, Loot.curio tracker.png] Trinket Chest (Can only be found during a Boss' quest in the Courtyard.) | Trinket Chest | (Can only be found during a Boss' quest in the Courtyard.) | No description. | Skeleton Key. Heirlooms x2 + Any Loot x1 | Skeleton Key. | Heirlooms x2 + Any Loot x1 | 100% Trinket Set x1. | 100% Trinket Set x1.
+[Íconos: Trinket Chest] Trinket Chest
+[Íconos: Exclusive to The Crimson Court DLC] (Can only be found during a Boss' quest in the Courtyard.)
+[Íconos: Skeleton Key.png] Skeleton Key.
+[Íconos: Currency.portrait.icon.png] Heirlooms x2 + Any Loot x1
+[Íconos: Loot.curio tracker.png] 100% Trinket Set x1.
+[Íconos: Forgotten Strongbox, Exclusive to The Crimson Court DLC, Pass.png, Ability none.png] Forgotten Strongbox (Can only be found during a Boss' quest in the Courtyard. There are actually four different ones, each gives a colored key for the quest) | Forgotten Strongbox | (Can only be found during a Boss' quest in the Courtyard. There are actually four different ones, each gives a colored key for the quest) | No description. |  |  | A colored Key. | A colored Key.
+[Íconos: Forgotten Strongbox] Forgotten Strongbox
+[Íconos: Exclusive to The Crimson Court DLC] (Can only be found during a Boss' quest in the Courtyard. There are actually four different ones, each gives a colored key for the quest)
+[Íconos: Pass.png] 
+[Íconos: Ability none.png] A colored Key.
+[Íconos: Ancient Artifact, Skeleton Key.png, Loot.curio tracker.png, Loot.curio tracker.png] Ancient Artifact Treasure.(Can only be found inside Secret rooms.) | Ancient Artifact | Treasure.(Can only be found inside Secret rooms.) | "A chest untouched for centuries. There's a locked compartment on the side of it." | Skeleton Key. "The secret compartment contains great treasures!" Collector Trinket/Puzzling Trapezohedron x3 | Skeleton Key. "The secret compartment contains great treasures!" | Collector Trinket/Puzzling Trapezohedron x3 | 100% Gold/Gems x3. "Someone left behind quite a stash." | 100% Gold/Gems x3. "Someone left behind quite a stash."
+[Íconos: Ancient Artifact] Ancient Artifact
+Treasure.(Can only be found inside Secret rooms.)
+[Íconos: Skeleton Key.png] Skeleton Key. "The secret compartment contains great treasures!"
+[Íconos: Loot.curio tracker.png] Collector Trinket/Puzzling Trapezohedron x3
+[Íconos: Loot.curio tracker.png] 100% Gold/Gems x3. "Someone left behind quite a stash."
+[Íconos: Bandit's Trapped Chest, Skeleton Key.png, Loot.curio tracker.png, Poptext poison.png] Bandit's Trapped Chest (Can only be found on the Old Road) | Bandit's Trapped Chest | (Can only be found on the Old Road) | "Something is not quite right with this one..." | Skeleton Key. "The key is used to safely open the chest." Trinket x2 | Skeleton Key. "The key is used to safely open the chest." | Trinket x2 | 100% Blight. "It's trapped!" | 100% Blight. "It's trapped!"
+[Íconos: Bandit's Trapped Chest] Bandit's Trapped Chest
+(Can only be found on the Old Road)
+[Íconos: Skeleton Key.png] Skeleton Key. "The key is used to safely open the chest."
+[Íconos: Loot.curio tracker.png] Trinket x2
+[Íconos: Poptext poison.png] 100% Blight. "It's trapped!"
+[Íconos: Brigand's Tent, Pass.png, Loot.curio tracker.png] Brigand's Tent Scrounging.(Can only be found on the Old Road when not in Stygian mode) | Brigand's Tent | Scrounging.(Can only be found on the Old Road when not in Stygian mode) | "Clearly where the ambushers camp." |  |  | Any Loot x2. "The brigands left valuables!" | Any Loot x2. "The brigands left valuables!"
+[Íconos: Brigand's Tent] Brigand's Tent
+Scrounging.(Can only be found on the Old Road when not in Stygian mode)
+[Íconos: Pass.png] 
+[Íconos: Loot.curio tracker.png] Any Loot x2. "The brigands left valuables!"
+[Íconos: Transcendent Terror, Pass.png, Stress.curio tracker.png] Transcendent Terror (Can only be found on the Old Road in Stygian mode) | Transcendent Terror | (Can only be found on the Old Road in Stygian mode) | "Surely nothing good can come of a dialogue with the dead...?" |  |  | 100% Stress +100. "Time-an endless cycle! Ia Iaaaa!" | 100% Stress +100. "Time-an endless cycle! Ia Iaaaa!"
+[Íconos: Transcendent Terror] Transcendent Terror
+(Can only be found on the Old Road in Stygian mode)
+[Íconos: Pass.png] 
+[Íconos: Stress.curio tracker.png] 100% Stress +100. "Time-an endless cycle! Ia Iaaaa!"
+[Íconos: Throbbing Coccoons, Exclusive to The Crimson Court DLC, Pass.png, Ability none.png] Throbbing Coccoons (Can be found in the four main areas when the infestation level is high, note this is different from the one found in the Courtyard) | Throbbing Coccoons | (Can be found in the four main areas when the infestation level is high, note this is different from the one found in the Courtyard) | "Shifting and bulging organisms hide behind translucent walls." (This curio can only appear along corridors.) |  |  | Battle with a Gatekeeper and a mixture of Manservant, Supplicant, or Sycophant. | Battle with a Gatekeeper and a mixture of Manservant, Supplicant, or Sycophant.
+[Íconos: Throbbing Coccoons] Throbbing Coccoons
+[Íconos: Exclusive to The Crimson Court DLC] (Can be found in the four main areas when the infestation level is high, note this is different from the one found in the Courtyard)
+[Íconos: Pass.png] 
+[Íconos: Ability none.png] Battle with a Gatekeeper and a mixture of Manservant, Supplicant, or Sycophant.
+
+
+=== TABLA 14 ===
+
+Curios found during Activate/Gather or plot expeditions
+Curio & Type | Description | Cleansing | Without cleansing
+[Íconos: Animalistic Shrine, Pick-Axe.png, Ability none.png, Ability none.png] Animalistic Shrine | Animalistic Shrine |  | "The object of beast-man worship."(This curio only appears inside the Warrens.) | Pick-Axe. "The shrine has been decimated!" Quest progress: 1/3 | Pick-Axe. "The shrine has been decimated!" | Quest progress: 1/3 | Cannot interact without quest item. | Cannot interact without quest item.
+[Íconos: Animalistic Shrine] Animalistic Shrine
+
+[Íconos: Pick-Axe.png] Pick-Axe. "The shrine has been decimated!"
+[Íconos: Ability none.png] Quest progress: 1/3
+[Íconos: Ability none.png] Cannot interact without quest item.
+[Íconos: Corrupted Altar, Consecrated Essence.png, Ability none.png, Ability none.png] Corrupted Altar | Corrupted Altar |  | "A defaced, blasphemous altar." [QUEST](This curio only appears inside the Ruins.) | Consecrated Essence. "The altar has been purified!" Quest progress: 1/3 | Consecrated Essence. "The altar has been purified!" | Quest progress: 1/3 | Cannot interact without quest item. | Cannot interact without quest item.
+[Íconos: Corrupted Altar] Corrupted Altar
+
+[Íconos: Consecrated Essence.png] Consecrated Essence. "The altar has been purified!"
+[Íconos: Ability none.png] Quest progress: 1/3
+[Íconos: Ability none.png] Cannot interact without quest item.
+[Íconos: Chirurgeon's Satchel, Pass.png, Ability none.png] Chirurgeon's Satchel | Chirurgeon's Satchel |  | "A doctor's toolkit."(This curio only appears inside the Weald.) |  |  | Quest Item: 1 Medicine. "A vial of powerful medicines - the object of your search!" | Quest Item: 1 Medicine. "A vial of powerful medicines - the object of your search!"
+[Íconos: Chirurgeon's Satchel] Chirurgeon's Satchel
+
+[Íconos: Pass.png] 
+[Íconos: Ability none.png] Quest Item: 1 Medicine. "A vial of powerful medicines - the object of your search!"
+[Íconos: Foodstuff Crate, Pass.png, Ability none.png] Foodstuff Crate | Foodstuff Crate |  | "The crate still bears the faded sigil of your family."(This curio only appears inside the Warrens.) |  |  | Quest Item: 1 Grain Sack. "A sack of uneaten grain - the object of your search!" | Quest Item: 1 Grain Sack. "A sack of uneaten grain - the object of your search!"
+[Íconos: Foodstuff Crate] Foodstuff Crate
+
+[Íconos: Pass.png] 
+[Íconos: Ability none.png] Quest Item: 1 Grain Sack. "A sack of uneaten grain - the object of your search!"
+[Íconos: Infected Corpse, Potent Salve.png, Ability none.png, Ability none.png] Infected Corpse | Infected Corpse |  | "A blighted, fattened corpse." [QUEST](This curio only appears inside the Weald.) | Potent Salve. "The infected corpse has been cleansed!" Quest progress: 1/3 | Potent Salve. "The infected corpse has been cleansed!" | Quest progress: 1/3 | Cannot interact without quest item. | Cannot interact without quest item.
+[Íconos: Infected Corpse] Infected Corpse
+
+[Íconos: Potent Salve.png] Potent Salve. "The infected corpse has been cleansed!"
+[Íconos: Ability none.png] Quest progress: 1/3
+[Íconos: Ability none.png] Cannot interact without quest item.
+[Íconos: Iron Crown, Hand of Glory.png, Ability none.png, Ability none.png] Iron Crown | Iron Crown |  | "We can light this with a Hand of Glory."(This curio only appears inside the Darkest Dungeon, quest 2.) | Hand of Glory. "A cry is heard! The creature squirms!" Quest progress: 1/3 | Hand of Glory. "A cry is heard! The creature squirms!" | Quest progress: 1/3 | Cannot interact without quest item. | Cannot interact without quest item.
+[Íconos: Iron Crown] Iron Crown
+
+[Íconos: Hand of Glory.png] Hand of Glory. "A cry is heard! The creature squirms!"
+[Íconos: Ability none.png] Quest progress: 1/3
+[Íconos: Ability none.png] Cannot interact without quest item.
+[Íconos: Locus Beacon, Pass.png, Ability none.png] Locus Beacon | Locus Beacon |  | "This must be it - the beginning of the end."(This curio only appears inside the Darkest Dungeon, quest 3.) |  |  | Completes quest. | Completes quest.
+[Íconos: Locus Beacon] Locus Beacon
+
+[Íconos: Pass.png] 
+[Íconos: Ability none.png] Completes quest.
+[Íconos: Protective Ward, Pineal Gland.png, Ability none.png, Ability none.png] Protective Ward | Protective Ward |  | "A stanchion against the spreading corruption." [QUEST](This curio only appears inside the Cove.) | Pineal Gland. "The ward is now lit!" Quest progress: 1/3 | Pineal Gland. "The ward is now lit!" | Quest progress: 1/3 | Cannot interact without quest item. | Cannot interact without quest item.
+[Íconos: Protective Ward] Protective Ward
+
+[Íconos: Pineal Gland.png] Pineal Gland. "The ward is now lit!"
+[Íconos: Ability none.png] Quest progress: 1/3
+[Íconos: Ability none.png] Cannot interact without quest item.
+[Íconos: Reliquary, Pass.png, Ability none.png] Reliquary | Reliquary |  | "An ancient looking dusty idol of the Light."(This curio only appears inside the Ruins.) |  |  | Quest Item: 1 Holy Relic. "A Holy Relic - the object of the search!" | Quest Item: 1 Holy Relic. "A Holy Relic - the object of the search!"
+[Íconos: Reliquary] Reliquary
+
+[Íconos: Pass.png] 
+[Íconos: Ability none.png] Quest Item: 1 Holy Relic. "A Holy Relic - the object of the search!"
+[Íconos: Shipment Crate, Pass.png, Ability none.png] Shipment Crate | Shipment Crate |  | "A massive crate containing some terrible relic from a forgotten corner of the world."(This curio only appears inside the Cove.) |  |  | Quest Item: 1 Ancestor's Relic. "The object of your search!" | Quest Item: 1 Ancestor's Relic. "The object of your search!"
+[Íconos: Shipment Crate] Shipment Crate
+
+[Íconos: Pass.png] 
+[Íconos: Ability none.png] Quest Item: 1 Ancestor's Relic. "The object of your search!"
+[Íconos: Winemaker's Reserve, Exclusive to The Crimson Court DLC, Pass.png, The Blood.png] Winemaker's Reserve | Winemaker's Reserve |  | "Bottles of The Blood disguised as wine."(This curio only appears inside the Courtyard.) |  |  | The Blood x3-5. "The object of your search!" | The Blood x3-5. "The object of your search!"
+[Íconos: Winemaker's Reserve] Winemaker's Reserve
+[Íconos: Exclusive to The Crimson Court DLC] 
+[Íconos: Pass.png] 
+[Íconos: The Blood.png] The Blood x3-5. "The object of your search!"
+
+
+=== TABLA 15 ===
+
+Retired curios
+Curio | Description | Cleansing | Without cleansing
+[Íconos: Locked Strongbox, Skeleton Key.png, Shovel.png, Loot.curio tracker.png, Loot.curio tracker.png, Loot.curio tracker.png, Poptext poison.png, Poptext bleed.png] Locked Strongbox Treasure. | Locked Strongbox | Treasure. | "A long-forgotten strongbox sits on the cold stone floor, its contents unknown." | Skeleton Key. Shovel. Any loot x3 66.6% Any loot x233.3% Nothing | Skeleton Key. | Shovel. | Any loot x3 | 66.6% Any loot x233.3% Nothing | 50% Any loot x2. 25% Blight. 25% Bleed. | 50% Any loot x2. | 25% Blight. | 25% Bleed.
+[Íconos: Locked Strongbox] Locked Strongbox
+Treasure.
+[Íconos: Skeleton Key.png, Shovel.png] Skeleton Key. | Shovel.
+[Íconos: Loot.curio tracker.png, Loot.curio tracker.png] Any loot x3 | 66.6% Any loot x233.3% Nothing
+[Íconos: Loot.curio tracker.png] 50% Any loot x2.
+[Íconos: Poptext poison.png] 25% Blight.
+[Íconos: Poptext bleed.png] 25% Bleed.
+[Íconos: Large Strongbox, Pass.png, Loot.curio tracker.png] Large Strongbox Treasure. | Large Strongbox | Treasure. | "An impressive, gilded chest sits proudly before you." |  |  | 100% Gold/Gems x2. | 100% Gold/Gems x2.
+[Íconos: Large Strongbox] Large Strongbox
+Treasure.
+[Íconos: Pass.png] 
+[Íconos: Loot.curio tracker.png] 100% Gold/Gems x2.
