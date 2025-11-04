@@ -46,9 +46,9 @@ def extract_main_content(html_text: str, max_chars: int = 20000) -> str:
     return text[:max_chars].strip()
 
 
-def search_page(title: str) -> Dict[str, str]:
+def web_search_tool(title: str) -> Dict[str, str]:
     safe = title.replace(' ', '_')
-    
+    print(f"   [BEGIN Tool Action] Executing web search: {title} [END Tool Action]")
     try:
         html_text, final_url = _fetch_url('/wiki/' + urllib.parse.quote(safe))
     except requests.HTTPError:
@@ -56,10 +56,3 @@ def search_page(title: str) -> Dict[str, str]:
 
     text = extract_main_content(html_text)
     return {"title": title, "url": final_url, "text": text}
-
-
-if __name__ == '__main__':
-    res = search_page('Crate')
-    print('URL:', res['url'])
-    print('\n--- excerpt (first 2000 chars) ---\n')
-    print(res['text'][:2000])
