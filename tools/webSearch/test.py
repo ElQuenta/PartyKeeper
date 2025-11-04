@@ -1,10 +1,10 @@
-from dd_wiki_tool import search_page
+from principalTool import search_page
 
 
 def main():
-	print('Buscando curio: Abomination en darkestdungeon.wiki.gg')
+	print('Buscando curio: Giant Oyster en darkestdungeon.wiki.gg')
 	try:
-		res = search_page('Abomination')
+		res = search_page('Giant Oyster')
 	except Exception as e:
 		print('Error al consultar la wiki:', e)
 		return
